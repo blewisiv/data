@@ -1,0 +1,30 @@
+Abbreviation,Source(s),Expert(s),Meaning
+RSCI,,,The consensus ranking.
+Chg,,,The change in the player's RSCI number since the previous ranking.
+Avg,,,The average of all the rankings taken together. (Note: N/A appears if player is not in the top 100 for all services to avoid misleading results.)
+Dev,,,The standard deviation for the player's rankings. Larger numbers indicate greater diversity of opinion while smaller ones indicate a tighter consensus.
+HS,Hoop Scoop,Clark Francis,
+PS,Prep Stars,Brick Oettinger,
+AS,All Star Report,Bob Gibbons,
+DT,"The Insiders Hoops, Scout.com, ESPN (beginning 2011)",Dave Telep,
+HM,Hoopmasters,Van Coleman & Bob Gibbons,
+VC,Hot100Hoops.com(beginning 2011),Van Coleman,
+SC,Scout.com,multiple,
+RH,Prep Stars,Rob Harrington,
+FS,Future Stars,Van Coleman,
+"SS, JG",SchoolSports,multiple,
+VB,Prepspotlight.com,Vince Baldwin,
+RC,RivalsHoops.com,Jerry Meyer & Justin Young,
+SA,Sports America,multiple,
+RU,Recruiting USA,multiple,
+BT,Basketball Times,multiple,
+IR,Insiders Report,"Mike Sullivan, Russ Blake",
+RB,Recruiting Beat,Patrick Jira,
+FC,Full Court Magazine,Courtney Goldwire & staff,
+HP,ACC Today,Hulan Pickett,
+FB,Fast Break Recruiting,Ron Briscoe,
+HH,Heartland Hoops,Al Seibert,
+MM,ESPN,Mark Mayemura,
+SN,The Sporting News,Steve Wacaser,
+SI,Scouts Inc (ESPN),multiple,
+MP,MaxPreps.com,multiple,

@@ -1,0 +1,272 @@
+"","Sport","Association","Divison","Conference","School","Facet_Type","Facet_Value","Variable","Value_Type","Period","Source","Value","NA.","NA..1"
+"1","Football","NCAA",1,"Big Ten",NA,NA,NA,"Teams","Teams",2011,"USA Today","11",NA,NA
+"2","Football","NCAA",1,"ACC",NA,NA,NA,"Teams","Teams",2011,"USA Today","12",NA,NA
+"3","Football","NCAA",1,"SEC",NA,NA,NA,"Teams","Teams",2011,"USA Today","12",NA,NA
+"4","Football","NCAA",1,"Big 12",NA,NA,NA,"Teams","Teams",2011,"USA Today","12",NA,NA
+"5","Football","NCAA",1,"Big East",NA,NA,NA,"Teams","Teams",2011,"USA Today","16",NA,NA
+"6","Football","NCAA",1,"Pac-12",NA,NA,NA,"Teams","Teams",2011,"USA Today","10",NA,NA
+"7","Football","NCAA",1,"Big Ten",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","222",NA,NA
+"8","Football","NCAA",1,"ACC",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","172.7",NA,NA
+"9","Football","NCAA",1,"SEC",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","148",NA,NA
+"10","Football","NCAA",1,"Big 12",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","144",NA,NA
+"11","Football","NCAA",1,"Big East",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","103.1",NA,NA
+"12","Football","NCAA",1,"Pac-12",NA,NA,NA,"Total Revenue","Dollars_Millions",2011,"USA Today","96.8",NA,NA
+"13","Football","NCAA",1,"Big Ten",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","142.08",NA,NA
+"14","Football","NCAA",1,"Pac-12",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","59.048",NA,NA
+"15","Football","NCAA",1,"ACC",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","88.077",NA,NA
+"16","Football","NCAA",1,"Big East",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","50.519",NA,NA
+"17","Football","NCAA",1,"Big 12",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","106.56",NA,NA
+"18","Football","NCAA",1,"SEC",NA,NA,NA,"Total Media Revenue","Dollars_Millions",2011,"USA Today","65.12",NA,NA
+"19",NA,"NCAA",1,"ACC","North Carolina",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","72.2",NA,NA
+"20",NA,"NCAA",1,"ACC","Virginia",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","67.7",NA,NA
+"21",NA,"NCAA",1,"ACC","Clemson",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","62.5",NA,NA
+"22",NA,"NCAA",1,"ACC","Maryland",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","62.1",NA,NA
+"23",NA,"NCAA",1,"ACC","Georgia Tech",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","58.9",NA,NA
+"24",NA,"NCAA",1,"ACC","Florida State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","57.9",NA,NA
+"25",NA,"NCAA",1,"ACC","North Carolina State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","56.6",NA,NA
+"26",NA,"NCAA",1,"ACC","Virginia Tech",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","49",NA,NA
+"27",NA,"NCAA",1,"ACC","Boston College",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"28",NA,"NCAA",1,"ACC","Duke",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"29",NA,"NCAA",1,"ACC","Miami",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"30",NA,"NCAA",1,"ACC","Wake Forest",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"31",NA,"NCAA",1,"Big 12","Texas",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","153.5",NA,NA
+"32",NA,"NCAA",1,"Big 12","Oklahoma",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","90.5",NA,NA
+"33",NA,"NCAA",1,"Big 12","Texas A&M",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","75.8",NA,NA
+"34",NA,"NCAA",1,"Big 12","Kansas",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","67.2",NA,NA
+"35",NA,"NCAA",1,"Big 12","Oklahoma State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","57.8",NA,NA
+"36",NA,"NCAA",1,"Big 12","Missouri",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","56.4",NA,NA
+"37",NA,"NCAA",1,"Big 12","Texas Tech",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","54",NA,NA
+"38",NA,"NCAA",1,"Big 12","Kansas State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","51.5",NA,NA
+"39",NA,"NCAA",1,"Big 12","Iowa State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","47",NA,NA
+"40",NA,"NCAA",1,"Big 12","Baylor",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"41",NA,"NCAA",1,"Big East","Louisville",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","68.8",NA,NA
+"42",NA,"NCAA",1,"Big East","Connecticut",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","64",NA,NA
+"43",NA,"NCAA",1,"Big East","Rutgers",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","62",NA,NA
+"44",NA,"NCAA",1,"Big East","West Virginia",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","58",NA,NA
+"45",NA,"NCAA",1,"Big East","South Florida",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","40.4",NA,NA
+"46",NA,"NCAA",1,"Big East","Cincinnati",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"47",NA,"NCAA",1,"Big East","Pittsburgh",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"48",NA,"NCAA",1,"Big East","Syracuse",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"49",NA,"NCAA",1,"Big East","TCU",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"50",NA,"NCAA",1,"Big Ten","Ohio State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","126.5",NA,NA
+"51",NA,"NCAA",1,"Big Ten","Michigan",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","109.8",NA,NA
+"52",NA,"NCAA",1,"Big Ten","Penn State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","92",NA,NA
+"53",NA,"NCAA",1,"Big Ten","Wisconsin",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","88.1",NA,NA
+"54",NA,"NCAA",1,"Big Ten","Nebraska",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","79.1",NA,NA
+"55",NA,"NCAA",1,"Big Ten","Michigan State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","78.8",NA,NA
+"56",NA,"NCAA",1,"Big Ten","Minnesota",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","78.6",NA,NA
+"57",NA,"NCAA",1,"Big Ten","Iowa",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","74.9",NA,NA
+"58",NA,"NCAA",1,"Big Ten","Illinois",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","70.2",NA,NA
+"59",NA,"NCAA",1,"Big Ten","Purdue",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","68.7",NA,NA
+"60",NA,"NCAA",1,"Big Ten","Indiana",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","61.5",NA,NA
+"61",NA,"NCAA",1,"Big Ten","Northwestern",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal"," NA",NA,NA
+"62",NA,"NCAA",1,"Pac-12","Oregon",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","87.8",NA,NA
+"63",NA,"NCAA",1,"Pac-12","California",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","71.2",NA,NA
+"64",NA,"NCAA",1,"Pac-12","Washington",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","67.1",NA,NA
+"65",NA,"NCAA",1,"Pac-12","UCLA",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","64.1",NA,NA
+"66",NA,"NCAA",1,"Pac-12","Oregon State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","56.6",NA,NA
+"67",NA,"NCAA",1,"Pac-12","Arizona",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","55",NA,NA
+"68",NA,"NCAA",1,"Pac-12","Colorado",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","49.3",NA,NA
+"69",NA,"NCAA",1,"Pac-12","Arizona State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","48.6",NA,NA
+"70",NA,"NCAA",1,"Pac-12","Washington State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","39.3",NA,NA
+"71",NA,"NCAA",1,"Pac-12","Utah",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","35",NA,NA
+"72",NA,"NCAA",1,"Pac-12","Southern California",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal"," NA",NA,NA
+"73",NA,"NCAA",1,"Pac-12","Stanford",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal"," NA",NA,NA
+"74",NA,"NCAA",1,"SEC","Tennessee",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","103.3",NA,NA
+"75",NA,"NCAA",1,"SEC","Florida",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","97.7",NA,NA
+"76",NA,"NCAA",1,"SEC","Auburn",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","95.7",NA,NA
+"77",NA,"NCAA",1,"SEC","Alabama",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","94.6",NA,NA
+"78",NA,"NCAA",1,"SEC","LSU",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","90.6",NA,NA
+"79",NA,"NCAA",1,"SEC","Georgia",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","90",NA,NA
+"80",NA,"NCAA",1,"SEC","Kentucky",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","83.6",NA,NA
+"81",NA,"NCAA",1,"SEC","South Carolina",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","79",NA,NA
+"82",NA,"NCAA",1,"SEC","Arkansas",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","69",NA,NA
+"83",NA,"NCAA",1,"SEC","Mississippi",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","47.6",NA,NA
+"84",NA,"NCAA",1,"SEC","Mississippi State",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","40.1",NA,NA
+"85",NA,"NCAA",1,"SEC","Alabama",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"86",NA,"NCAA",1,"SEC","Vanderbilt",NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"Sports Business Journal","NA",NA,NA
+"87",NA,"NCAA",1,"Aggregate",NA,NA,NA,"Athletic Department Budget","Dollars_Millions",2011,"USA Today","6200",NA,NA
+"88",NA,"NCAA",1,NA,NA,"University","Oregon","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","41.85",NA,NA
+"89",NA,"NCAA",1,NA,NA,"University","Alabama","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","26.6",NA,NA
+"90",NA,"NCAA",1,NA,NA,"University","Penn State","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","18.57",NA,NA
+"91",NA,"NCAA",1,NA,NA,"University","Michigan","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","17.51",NA,NA
+"92",NA,"NCAA",1,NA,NA,"University","Oklahoma State","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","16.96",NA,NA
+"93",NA,"NCAA",1,NA,NA,"University","Iowa","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","13.77",NA,NA
+"94",NA,"NCAA",1,NA,NA,"University","Texas","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","13.12",NA,NA
+"95",NA,"NCAA",1,NA,NA,"University","Oklahoma","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","10.83",NA,NA
+"96",NA,"NCAA",1,NA,NA,"University","Georgia","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","9.28",NA,NA
+"97",NA,"NCAA",1,NA,NA,"University","LSU","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","8.7",NA,NA
+"98",NA,"NCAA",1,NA,NA,"University","Kansas State","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","7.86",NA,NA
+"99",NA,"NCAA",1,NA,NA,"University","Florida","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","6.87",NA,NA
+"100",NA,"NCAA",1,NA,NA,"University","Texas A&M","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","6.83",NA,NA
+"101",NA,"NCAA",1,NA,NA,"University","Arkansas","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","4.58",NA,NA
+"102",NA,"NCAA",1,NA,NA,"University","Purdue","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","3.29",NA,NA
+"103",NA,"NCAA",1,NA,NA,"University","Michigan State","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","2.03",NA,NA
+"104",NA,"NCAA",1,NA,NA,"University","Nebraska","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","1.75",NA,NA
+"105",NA,"NCAA",1,NA,NA,"University","West Virginia","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","1.17",NA,NA
+"106",NA,"NCAA",1,NA,NA,"University","Indiana","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","1.11",NA,NA
+"107",NA,"NCAA",1,NA,NA,"University","Virginia Tech","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","0.968",NA,NA
+"108",NA,"NCAA",1,NA,NA,"University","Ohio State","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","0.434",NA,NA
+"109",NA,"NCAA",1,NA,NA,"University","Washington","Athletic Department Surplus","Dollars_Millions",2011,"USA Today","0.211",NA,NA
+"110","Football","NCAA",1,NA,NA,NA,NA,"Teams","Teams",2011,"NCAA","241",NA,NA
+"111","Football","NCAA",2,NA,NA,NA,NA,"Teams","Teams",2011,"NCAA","150",NA,NA
+"112","Football","NCAA",3,NA,NA,NA,NA,"Teams","Teams",2011,"NCAA","240",NA,NA
+"113","Football","NCAA",1,NA,NA,NA,NA,"Games","Value",2011,"NCAA","1478",NA,NA
+"114","Football","NCAA",2,NA,NA,NA,NA,"Games","Value",2011,"NCAA","812",NA,NA
+"115","Football","NCAA",3,NA,NA,NA,NA,"Games","Value",2011,"NCAA","1208",NA,NA
+"116","Football","NCAA",1,NA,NA,NA,NA,"Total Attendance","Value_Millions",2011,"NCAA","43.81",NA,NA
+"117","Football","NCAA",2,NA,NA,NA,NA,"Total Attendance","Value_Millions",2011,"NCAA","3.03",NA,NA
+"118","Football","NCAA",3,NA,NA,NA,NA,"Total Attendance","Value_Millions",2011,"NCAA","2.38",NA,NA
+"119","Football","NCAA",1,NA,NA,NA,NA,"Average Attendance","Value_Millions",2011,"NCAA","29647",NA,NA
+"120","Football","NCAA",2,NA,NA,NA,NA,"Average Attendance","Value",2011,"NCAA","3739",NA,NA
+"121","Football","NCAA",3,NA,NA,NA,NA,"Average Attendance","Value",2011,"NCAA","1971",NA,NA
+"122","Football","NCAA",1,NA,NA,"University","Michigan","Average Attendance","Value",2011,"NCAA","112179",NA,NA
+"123","Football","NCAA",1,NA,NA,"University","Ohio State","Average Attendance","Value",2011,"NCAA","105231",NA,NA
+"124","Football","NCAA",1,NA,NA,"University","Alabama","Average Attendance","Value",2011,"NCAA","101821",NA,NA
+"125","Football","NCAA",1,NA,NA,"University","Penn State","Average Attendance","Value",2011,"NCAA","101427",NA,NA
+"126","Football","NCAA",1,NA,NA,"University","Texas","Average Attendance","Value",2011,"NCAA","100524",NA,NA
+"127","Football","NCAA",1,NA,NA,"University","Tennessee","Average Attendance","Value",2011,"NCAA","94642",NA,NA
+"128","Football","NCAA",1,NA,NA,"University","LSU","Average Attendance","Value",2011,"NCAA","92868",NA,NA
+"129","Football","NCAA",1,NA,NA,"University","Georgia","Average Attendance","Value",2011,"NCAA","92613",NA,NA
+"130","Football","NCAA",1,NA,NA,"University","Florida","Average Attendance","Value",2011,"NCAA","89061",NA,NA
+"131","Football","NCAA",1,NA,NA,"University","Texas A&M","Average Attendance","Value",2011,"NCAA","87183",NA,NA
+"132","Football","NCAA",1,NA,NA,"University","Auburn","Average Attendance","Value",2011,"NCAA","85792",NA,NA
+"133","Football","NCAA",1,NA,NA,"University","Nebraska","Average Attendance","Value",2011,"NCAA","85267",NA,NA
+"134","Football","NCAA",1,NA,NA,"University","Oklahoma","Average Attendance","Value",2011,"NCAA","85161",NA,NA
+"135","Football","NCAA",1,NA,NA,"University","Notre Dame","Average Attendance","Value",2011,"NCAA","80795",NA,NA
+"136","Football","NCAA",1,NA,NA,"University","Wisconsin","Average Attendance","Value",2011,"NCAA","79813",NA,NA
+"137","Football","NCAA",1,NA,NA,"University","South Carolina","Average Attendance","Value",2011,"NCAA","79131",NA,NA
+"138","Football","NCAA",1,NA,NA,"University","Clemson","Average Attendance","Value",2011,"NCAA","77959",NA,NA
+"139","Football","NCAA",1,NA,NA,"University","Florida State","Average Attendance","Value",2011,"NCAA","77842",NA,NA
+"140","Football","NCAA",1,NA,NA,"University","Southern California","Average Attendance","Value",2011,"NCAA","74806",NA,NA
+"141","Football","NCAA",1,NA,NA,"University","Michigan State","Average Attendance","Value",2011,"NCAA","74078",NA,NA
+"142","Football","NCAA",1,NA,NA,"University","Iowa","Average Attendance","Value",2011,"NCAA","70585",NA,NA
+"143","Football","NCAA",1,NA,NA,"University","Arkansas","Average Attendance","Value",2011,"NCAA","66990",NA,NA
+"144","Football","NCAA",1,NA,NA,"University","Virginia Tech","Average Attendance","Value",2011,"NCAA","66233",NA,NA
+"145","Football","NCAA",1,NA,NA,"University","Washington","Average Attendance","Value",2011,"NCAA","62531",NA,NA
+"146","Football","NCAA",1,NA,NA,"University","Missouri","Average Attendance","Value",2011,"NCAA","62095",NA,NA
+"147","Football","NCAA",1,NA,NA,"University","Brigham Young","Average Attendance","Value",2011,"NCAA","60265",NA,NA
+"148","Football","NCAA",1,NA,NA,"University","Kentucky","Average Attendance","Value",2011,"NCAA","60007",NA,NA
+"149","Football","NCAA",1,NA,NA,"University","Oregon","Average Attendance","Value",2011,"NCAA","59344",NA,NA
+"150","Football","NCAA",1,NA,NA,"University","Arizona State","Average Attendance","Value",2011,"NCAA","59007",NA,NA
+"151","Football","NCAA",1,NA,NA,"University","Oklahoma State","Average Attendance","Value",2011,"NCAA","57229",NA,NA
+"152","Football","NCAA",1,NA,NA,"University","Texas","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","87.6",NA,NA
+"153","Football","NCAA",1,NA,NA,"University","Ohio State","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","68.2",NA,NA
+"154","Football","NCAA",1,NA,NA,"University","Florida","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","66.2",NA,NA
+"155","Football","NCAA",1,NA,NA,"University","Georgia","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","65.2",NA,NA
+"156","Football","NCAA",1,NA,NA,"University","Alabama","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","64.6",NA,NA
+"157","Football","NCAA",1,NA,NA,"University","Louisiana State","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","61.9",NA,NA
+"158","Football","NCAA",1,NA,NA,"University","Penn State","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","61.8",NA,NA
+"159","Football","NCAA",1,NA,NA,"University","Auburn","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","58.6",NA,NA
+"160","Football","NCAA",1,NA,NA,"University","South Carolina","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","57.1",NA,NA
+"161","Football","NCAA",1,NA,NA,"University","Notre Dame","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","56.9",NA,NA
+"162","Football","NCAA",1,NA,NA,"University","Nebraska","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","55.2",NA,NA
+"163","Football","NCAA",1,NA,NA,"University","Michigan","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","52.2",NA,NA
+"164","Football","NCAA",1,NA,NA,"University","Michigan State","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","43.5",NA,NA
+"165","Football","NCAA",1,NA,NA,"University","Tennessee","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","42.8",NA,NA
+"166","Football","NCAA",1,NA,NA,"University","Oklahoma","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","42.6",NA,NA
+"167","Football","NCAA",1,NA,NA,"University","Wisconsin","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","42",NA,NA
+"168","Football","NCAA",1,NA,NA,"University","Iowa","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","30.9",NA,NA
+"169","Football","NCAA",1,NA,NA,"University","Arkansas","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","38.6",NA,NA
+"170","Football","NCAA",1,NA,NA,"University","Texas A&M","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","38.4",NA,NA
+"171","Football","NCAA",1,NA,NA,"University","Clemson","Total Football Revenue","Dollars_Millions",2011,"United States Department of Education","35.2",NA,NA
+"172","Football","NCAA",1,NA,NA,"University","Texas","Football Program Valuation","Dollars_Millions",2011,"Forbes","119",NA,NA
+"173","Football","NCAA",1,NA,NA,"University","Notre Dame","Football Program Valuation","Dollars_Millions",2011,"Forbes","108",NA,NA
+"174","Football","NCAA",1,NA,NA,"University","Penn State","Football Program Valuation","Dollars_Millions",2011,"Forbes","99",NA,NA
+"175","Football","NCAA",1,NA,NA,"University","Nebraska","Football Program Valuation","Dollars_Millions",2011,"Forbes","93",NA,NA
+"176","Football","NCAA",1,NA,NA,"University","Alabama","Football Program Valuation","Dollars_Millions",2011,"Forbes","92",NA,NA
+"177","Football","NCAA",1,NA,NA,"University","Florida","Football Program Valuation","Dollars_Millions",2011,"Forbes","88",NA,NA
+"178","Football","NCAA",1,NA,NA,"University","Louisiana State","Football Program Valuation","Dollars_Millions",2011,"Forbes","86",NA,NA
+"179","Football","NCAA",1,NA,NA,"University","Ohio State","Football Program Valuation","Dollars_Millions",2011,"Forbes","85",NA,NA
+"180","Football","NCAA",1,NA,NA,"University","Georgia","Football Program Valuation","Dollars_Millions",2011,"Forbes","84",NA,NA
+"181","Football","NCAA",1,NA,NA,"University","Oklahoma","Football Program Valuation","Dollars_Millions",2011,"Forbes","83",NA,NA
+"182","Football","NCAA",1,NA,NA,"University","Michigan","Football Program Valuation","Dollars_Millions",2011,"Forbes","81",NA,NA
+"183","Football","NCAA",1,NA,NA,"University","South Carolina","Football Program Valuation","Dollars_Millions",2011,"Forbes","80",NA,NA
+"184","Football","NCAA",1,NA,NA,"University","Tennessee","Football Program Valuation","Dollars_Millions",2011,"Forbes","78",NA,NA
+"185","Football","NCAA",1,NA,NA,"University","Auburn","Football Program Valuation","Dollars_Millions",2011,"Forbes","70",NA,NA
+"186","Football","NCAA",1,NA,NA,"University","Southern California","Football Program Valuation","Dollars_Millions",2011,"Forbes","68",NA,NA
+"187","Football","NCAA",1,NA,NA,"University","Michigan State","Football Program Valuation","Dollars_Millions",2011,"Forbes","57",NA,NA
+"188","Football","NCAA",1,NA,NA,"University","Arkansas","Football Program Valuation","Dollars_Millions",2011,"Forbes","56",NA,NA
+"189","Football","NCAA",1,NA,NA,"University","Texas A&M","Football Program Valuation","Dollars_Millions",2011,"Forbes","52",NA,NA
+"190","Football","NCAA",1,NA,NA,"University","Wisconsin","Football Program Valuation","Dollars_Millions",2011,"Forbes","48",NA,NA
+"191","Football","NCAA",1,NA,NA,"University","Oklahoma State","Football Program Valuation","Dollars_Millions",2011,"Forbes","47",NA,NA
+"192","Football","NCAA",1,NA," ","Conference","Big Ten","Total BCS Payout","Dollars_Millions",2011,"BCS","27.2",NA,NA
+"193","Football","NCAA",1,NA,NA,"Conference","Pac-12","Total BCS Payout","Dollars_Millions",2011,"BCS","27.2",NA,NA
+"194","Football","NCAA",1,NA,NA,"Conference","SEC","Total BCS Payout","Dollars_Millions",2011,"BCS","27.2",NA,NA
+"195","Football","NCAA",1,NA,NA,"Conference","ACC","Total BCS Payout","Dollars_Millions",2011,"BCS","21.2",NA,NA
+"196","Football","NCAA",1,NA,NA,"Conference","Big 12","Total BCS Payout","Dollars_Millions",2011,"BCS","21.2",NA,NA
+"197","Football","NCAA",1,NA,NA,"Conference","Big East","Total BCS Payout","Dollars_Millions",2011,"BCS","21.2",NA,NA
+"198","Football","NCAA",1,NA,NA,"Conference","Mountain West","Total BCS Payout","Dollars_Millions",2011,"BCS","12.8",NA,NA
+"199","Football","NCAA",1,NA,NA,"Conference","Western Athletic","Total BCS Payout","Dollars_Millions",2011,"BCS","4",NA,NA
+"200","Football","NCAA",1,NA,NA,"Conference","Conference USA","Total BCS Payout","Dollars_Millions",2011,"BCS","3.3",NA,NA
+"201","Football","NCAA",1,NA,NA,"Conference","Mid-American","Total BCS Payout","Dollars_Millions",2011,"BCS","2.6",NA,NA
+"202","Football","NCAA",1,NA,NA,"Conference","Sun Belt","Total BCS Payout","Dollars_Millions",2011,"BCS","1.9",NA,NA
+"203","Football","NCAA",1,NA,NA,"Conference","FCS conferences","Total BCS Payout","Dollars_Millions",2011,"BCS","2.2",NA,NA
+"204","Football","NCAA",1,NA,NA,"Conference","Independents","Total BCS Payout","Dollars_Millions",2011,"BCS","1.9",NA,NA
+"205","Men's Basketball","NCAA",NA,NA,NA,"Division","1","Fans","Percentage of US Adult Population",2012,"ESPN Sports Poll","0.48",NA,NA
+"206","Men's Basketball","NCAA",NA,NA,NA,"Division","1","Teams","Value",2012,"NCAA","338",NA,NA
+"207","Men's Basketball","NCAA",NA,NA,NA,"Division","2","Teams","Value",2012,"NCAA","278",NA,NA
+"208","Men's Basketball","NCAA",NA,NA,NA,"Division","3","Teams","Value",2012,"NCAA","405",NA,NA
+"209","Men's Basketball","NCAA",NA,NA,NA,"Division","1","Games","Value",2012,"NCAA","5335",NA,NA
+"210","Men's Basketball","NCAA",NA,NA,NA,"Division","2","Games","Value",2012,"NCAA","3723",NA,NA
+"211","Men's Basketball","NCAA",NA,NA,NA,"Division","3","Games","Value",2012,"NCAA","4910",NA,NA
+"212","Men's Basketball","NCAA",NA,NA,NA,"Division","1","Attendance","Value_Millions",2012,"NCAA","27.69",NA,NA
+"213","Men's Basketball","NCAA",NA,NA,NA,"Division","2","Attendance","Value_Millions",2012,"NCAA","2.79",NA,NA
+"214","Men's Basketball","NCAA",NA,NA,NA,"Division","3","Attendance","Value_Millions",2012,"NCAA","2",NA,NA
+"215","Men's Basketball","NCAA",NA,NA,NA,"Division","1","Average Attendance","Value",2012,"NCAA","5190",NA,NA
+"216","Men's Basketball","NCAA",NA,NA,NA,"Division","2","Average Attendance","Value",2012,"NCAA","750",NA,NA
+"217","Men's Basketball","NCAA",NA,NA,NA,"Division","3","Average Attendance","Value",2012,"NCAA","407",NA,NA
+"218","Men's Basketball","NCAA",NA,NA,NA,"University","Kentucky","Average Attendance","Value",2011,"NCAA","23721",NA,NA
+"219","Men's Basketball","NCAA",NA,NA,NA,"University","Syracuse","Average Attendance","Value",2011,"NCAA","23618",NA,NA
+"220","Men's Basketball","NCAA",NA,NA,NA,"University","Louisville","Average Attendance","Value",2011,"NCAA","21503",NA,NA
+"221","Men's Basketball","NCAA",NA,NA,NA,"University","North Carolina","Average Attendance","Value",2011,"NCAA","20159",NA,NA
+"222","Men's Basketball","NCAA",NA,NA,NA,"University","Wisconsin","Average Attendance","Value",2011,"NCAA","17181",NA,NA
+"223","Men's Basketball","NCAA",NA,NA,NA,"University","Creighton","Average Attendance","Value",2011,"NCAA","16665",NA,NA
+"224","Men's Basketball","NCAA",NA,NA,NA,"University","Tennessee","Average Attendance","Value",2011,"NCAA","16543",NA,NA
+"225","Men's Basketball","NCAA",NA,NA,NA,"University","Ohio State","Average Attendance","Value",2011,"NCAA","16511",NA,NA
+"226","Men's Basketball","NCAA",NA,NA,NA,"University","Indiana","Average Attendance","Value",2011,"NCAA","16462",NA,NA
+"227","Men's Basketball","NCAA",NA,NA,NA,"University","Kansas","Average Attendance","Value",2011,"NCAA","16445",NA,NA
+"228","Men's Basketball","NCAA",NA,NA,NA,"University","Memphis","Average Attendance","Value",2011,"NCAA","16234",NA,NA
+"229","Men's Basketball","NCAA",NA,NA,NA,"University","Brigham Young","Average Attendance","Value",2011,"NCAA","15424",NA,NA
+"230","Men's Basketball","NCAA",NA,NA,NA,"University","Marquette","Average Attendance","Value",2011,"NCAA","15138",NA,NA
+"231","Men's Basketball","NCAA",NA,NA,NA,"University","Illinois","Average Attendance","Value",2011,"NCAA","14986",NA,NA
+"232","Men's Basketball","NCAA",NA,NA,NA,"University","Michigan State","Average Attendance","Value",2011,"NCAA","14797",NA,NA
+"233","Men's Basketball","NCAA",NA,NA,NA,"University","New Mexico","Average Attendance","Value",2011,"NCAA","14454",NA,NA
+"234","Men's Basketball","NCAA",NA,NA,NA,"University","UNLV","Average Attendance","Value",2011,"NCAA","14025",NA,NA
+"235","Men's Basketball","NCAA",NA,NA,NA,"University","Vanderbilt","Average Attendance","Value",2011,"NCAA","13698",NA,NA
+"236","Men's Basketball","NCAA",NA,NA,NA,"University","Arizona","Average Attendance","Value",2011,"NCAA","13602",NA,NA
+"237","Men's Basketball","NCAA",NA,NA,NA,"University","North Carolina State","Average Attendance","Value",2011,"NCAA","13560",NA,NA
+"238","Men's Basketball","NCAA",NA,NA,NA,"University","Purdue","Average Attendance","Value",2011,"NCAA","13324",NA,NA
+"239","Men's Basketball","NCAA",NA,NA,NA,"University","Maryland","Average Attendance","Value",2011,"NCAA","13182",NA,NA
+"240","Men's Basketball","NCAA",NA,NA,NA,"University","Arkansas","Average Attendance","Value",2011,"NCAA","13096",NA,NA
+"241","Men's Basketball","NCAA",NA,NA,NA,"University","Iowa State","Average Attendance","Value",2011,"NCAA","13015",NA,NA
+"242","Men's Basketball","NCAA",NA,NA,NA,"University","Kansas State","Average Attendance","Value",2011,"NCAA","12783",NA,NA
+"243","Men's Basketball","NCAA",NA,NA,NA,"University","Connecticut","Average Attendance","Value",2011,"NCAA","12640",NA,NA
+"244","Men's Basketball","NCAA",NA,NA,NA,"University","Alabama","Average Attendance","Value",2011,"NCAA","12484",NA,NA
+"245","Men's Basketball","NCAA",NA,NA,NA,"University","Dayton","Average Attendance","Value",2011,"NCAA","12154",NA,NA
+"246","Men's Basketball","NCAA",NA,NA,NA,"University","San Diego State","Average Attendance","Value",2011,"NCAA","12096",NA,NA
+"247","Men's Basketball","NCAA",NA,NA,NA,"University","Texas","Average Attendance","Value",2011,"NCAA","11950",NA,NA
+"248","Men's Basketball","NCAA",NA,NA,NA,"University","Louisville","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","40.9",NA,NA
+"249","Men's Basketball","NCAA",NA,NA,NA,"University","Duke","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","28.9",NA,NA
+"250","Men's Basketball","NCAA",NA,NA,NA,"University","Arizona","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","21.2",NA,NA
+"251","Men's Basketball","NCAA",NA,NA,NA,"University","North Carolina","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","19.7",NA,NA
+"252","Men's Basketball","NCAA",NA,NA,NA,"University","Syracuse","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","19",NA,NA
+"253","Men's Basketball","NCAA",NA,NA,NA,"University","Kentucky","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","18.6",NA,NA
+"254","Men's Basketball","NCAA",NA,NA,NA,"University","Indiana","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","17.8",NA,NA
+"255","Men's Basketball","NCAA",NA,NA,NA,"University","Ohio State","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","17",NA,NA
+"256","Men's Basketball","NCAA",NA,NA,NA,"University","Michigan State","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","16.5",NA,NA
+"257","Men's Basketball","NCAA",NA,NA,NA,"University","Texas","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","16.4",NA,NA
+"258","Men's Basketball","NCAA",NA,NA,NA,"University","Wisconsin","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","16.3",NA,NA
+"259","Men's Basketball","NCAA",NA,NA,NA,"University","Marquette","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","15.6",NA,NA
+"260","Men's Basketball","NCAA",NA,NA,NA,"University","Illinois","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","15.4",NA,NA
+"261","Men's Basketball","NCAA",NA,NA,NA,"University","Arkansas","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","14.6",NA,NA
+"262","Men's Basketball","NCAA",NA,NA,NA,"University","Tennessee","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","13.8",NA,NA
+"263","Men's Basketball","NCAA",NA,NA,NA,"University","Minnesota","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","13.7",NA,NA
+"264","Men's Basketball","NCAA",NA,NA,NA,"University","Pittsburgh","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","13.6",NA,NA
+"265","Men's Basketball","NCAA",NA,NA,NA,"University","Oklahoma State","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","12.3",NA,NA
+"266","Men's Basketball","NCAA",NA,NA,NA,"University","UCLA","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","11.6",NA,NA
+"267","Men's Basketball","NCAA",NA,NA,NA,"University","Kansas","Men's Basketball Revenue","Dollars_Millions",2011,"United States Department of Education","11.5",NA,NA
+"268","Men's Basketball","NCAA",NA,NA,NA,"Event",NA,"National Championship Location","Location",2013,"NCAA","New Orleans Arena (New Orleans, Louisiana)",NA,NA
+"269","Men's Basketball","NCAA",NA,NA,NA,"Event",NA,"National Championship Location","Location",2014,"NCAA","Sommet Center (Nashville, Tennessee)",NA,NA
+"270","Men's Basketball","NCAA",NA,NA,NA,"Event",NA,"National Championship Location","Location",2015,"NCAA","St. Pete Times Forum (Tampa, Florida)",NA,NA
+"271","Men's Basketball","NCAA",NA,NA,NA,"Event",NA,"National Championship Location","Location",2016,"NCAA","Lucas Oil Stadium (Indianapolis, Indiana)",NA,NA

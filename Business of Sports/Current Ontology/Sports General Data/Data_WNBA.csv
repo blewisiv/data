@@ -1,0 +1,31 @@
+"","League","Variable","Facet_Type","Facet_Value","Facet_Type.1","Value_Type","Source","Period","Date","Value","Value_Details","NA."
+"1","WNBA","Franchises","League",NA,"League Meta Data","Franchises","WNBA",NA,NA,12,NA,NA
+"2","WNBA","Total Regular Season Games","League",NA,"League Meta Data","Games","WNBA",NA,NA,408,NA,NA
+"3","WNBA","Franchise Regular Season Home Games","League",NA,"League Meta Data","Games","WNBA",NA,NA,17,NA,NA
+"4","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",1997,NA,9669,NA,NA
+"5","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",1998,NA,10869,NA,NA
+"6","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",1999,NA,10207,NA,NA
+"7","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2000,NA,9072,NA,NA
+"8","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2001,NA,9075,NA,NA
+"9","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2002,NA,9228,NA,NA
+"10","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2003,NA,8800,NA,NA
+"11","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2004,NA,8613,NA,NA
+"12","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2005,NA,8172,NA,NA
+"13","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2006,NA,7490,NA,NA
+"14","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2007,NA,7750,NA,NA
+"15","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2008,NA,7948,NA,NA
+"16","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2009,NA,8039,NA,NA
+"17","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2010,NA,7834,NA,NA
+"18","WNBA","Average Home Game Attendance","League","League","Attendance","Average Fans Per Game","WNBA",2011,NA,7955,NA,NA
+"19","WNBA","Average Home Game Attendance","Franchise","Washington Mystics","Attendance","Average Fans Per Game","WNBA",2011,NA,10449,NA,NA
+"20","WNBA","Average Home Game Attendance","Franchise","Los Angeles Sparks","Attendance","Average Fans Per Game","WNBA",2011,NA,10316,NA,NA
+"21","WNBA","Average Home Game Attendance","Franchise","Phoenix Mercury","Attendance","Average Fans Per Game","WNBA",2011,NA,9167,NA,NA
+"22","WNBA","Average Home Game Attendance","Franchise","San Antonio Silver Stars","Attendance","Average Fans Per Game","WNBA",2011,NA,8751,NA,NA
+"23","WNBA","Average Home Game Attendance","Franchise","Seattle Storm","Attendance","Average Fans Per Game","WNBA",2011,NA,8659,NA,NA
+"24","WNBA","Average Home Game Attendance","Franchise","Minnesota Lynx","Attendance","Average Fans Per Game","WNBA",2011,NA,8447,NA,NA
+"25","WNBA","Average Home Game Attendance","Franchise","Indiana Fever","Attendance","Average Fans Per Game","WNBA",2011,NA,8054,NA,NA
+"26","WNBA","Average Home Game Attendance","Franchise","New York Liberty","Attendance","Average Fans Per Game","WNBA",2011,NA,7702,NA,NA
+"27","WNBA","Average Home Game Attendance","Franchise","Connecticut Sun","Attendance","Average Fans Per Game","WNBA",2011,NA,7056,NA,NA
+"28","WNBA","Average Home Game Attendance","Franchise","Atlanta Dream","Attendance","Average Fans Per Game","WNBA",2011,NA,6487,NA,NA
+"29","WNBA","Average Home Game Attendance","Franchise","Chicago Sky","Attendance","Average Fans Per Game","WNBA",2011,NA,5536,NA,NA
+"30","WNBA","Average Home Game Attendance","Franchise","Tulsa Shock","Attendance","Average Fans Per Game","WNBA",2011,NA,4828,NA,NA

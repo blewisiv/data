@@ -1,0 +1,470 @@
+Player,Wikipedia_Player_URL,Position_ID,Position,Last_Name,First_Name,Height,Height (inches),Height (meters),Weight (lbs),Weight (kg),DOB,From,TeamCode,Jersey
+Devin Harris,http://en.wikipedia.org/wiki/Devin_Harris,1.5,G,Harris,Devin,6'3'',75,1.91,192,87,2/27/1983,Wisconsin,ATL,34
+Al Horford,http://en.wikipedia.org/wiki/Al_Horford,5.5,F/C,Horford,Al,6'10'',82,2.08,250,113,6/3/1986,Florida,ATL,15
+John Jenkins,http://en.wikipedia.org/wiki/John_Jenkins,1.5,G,Jenkins,John,6'4'',76,1.93,220,100,3/6/1991,Vanderbilt,ATL,12
+Ivan Johnson,http://en.wikipedia.org/wiki/Ivan_Johnson_(basketball),4,PF,Johnson,Ivan,6'8'',80,2.03,255,116,4/10/1984,Cal State San Bernardino ,ATL,44
+Kyle Korver,http://en.wikipedia.org/wiki/Kyle_Korver,2.5,G/F,Korver,Kyle,6'7'',79,2.01,212,96,3/17/1981,Creighton,ATL,26
+Anthony Morrow,http://en.wikipedia.org/wiki/Anthony_Morrow,1.5,G,Morrow,Anthony,6'5'',77,1.96,210,95,9/27/1985,Georgia Tech,ATL,22
+Zaza Pachulia,http://en.wikipedia.org/wiki/Zaza_Pachulia,6,C,Pachulia,Zaza,6'11'',83,2.11,275,125,2/10/1984,Republic of Georgia,ATL,27
+Johan Petro,http://en.wikipedia.org/wiki/Johan_Petro,6,C,Petro,Johan,7'0'',84,2.13,247,112,1/27/1986,France,ATL,10
+Mike Scott,http://en.wikipedia.org/wiki/Mike_Scott,4,F,Scott,Mike,6'8'',80,2.03,237,108,7/16/1988,Virginia,ATL,32
+Josh Smith,http://en.wikipedia.org/wiki/Josh_Smith,4,F,Smith,Josh,6'9'',81,2.06,225,102,12/5/1985,Oak Hill Academy (VA),ATL,5
+DeShawn Stevenson,http://en.wikipedia.org/wiki/DeShawn_Stevenson,2.5,G/F,Stevenson,DeShawn,6'5'',77,1.96,218,99,4/3/1981,Wshington Union High School (CA),ATL,92
+Jeff Teague,http://en.wikipedia.org/wiki/Jeff_Teague,1.5,G,Teague,Jeff,6'2'',74,1.88,181,82,6/10/1988,Wake Forest,ATL,0
+Anthony Tolliver,http://en.wikipedia.org/wiki/Anthony_Tolliver,4,PF,Tolliver,Anthony,6'8'',80,2.03,240,109,6/1/1985,Creighton,ATL,4
+Louis Williams,http://en.wikipedia.org/wiki/Louis_Williams,1.5,G,Williams,Louis,6'1'',73,1.85,175,79,10/27/1986,South Gwinnett High School (GA),ATL,3
+Andray Blatche,http://en.wikipedia.org/wiki/Andray_Blatche,4.5,PF/C,Blatche,Andray,6'11,83,2.11,260,118,8/22/1986,South Kent HS (CT),BKN,0
+Keith Bogans,http://en.wikipedia.org/wiki/Keith_Bogans,2.5,G/F,Bogans,Keith,6'5'',77,1.96,215,98,5/12/1980,Kentucky,BKN,10
+MarShon Brooks,http://en.wikipedia.org/wiki/MarShon_Brooks,2.5,G/F,Brooks,MarShon,6'5'',77,1.96,200,91,1/26/1989,Providence,BKN,2
+Josh Childress,http://en.wikipedia.org/wiki/Josh_Childress,2.5,SG/SF,Childress,Josh,6'8,80,2.03,209,95,6/20/1983,Stanford,BKN,2
+Reggie Evans,http://en.wikipedia.org/wiki/Reggie_Evans,4,F,Evans,Reggie,6'8'',80,2.03,245,111,5/18/1980,Iowa,BKN,30
+Kris Humphries,http://en.wikipedia.org/wiki/Kris_Humphries,4,F,Humphries,Kris,6'9'',81,2.06,235,107,2/6/1985,Minnesota,BKN,43
+Joe Johnson,http://en.wikipedia.org/wiki/Joe_Johnson,2.5,G/F,Johnson,Joe,6'7'',79,2.01,240,109,6/29/1981,Arkansas,BKN,7
+Brook Lopez,http://en.wikipedia.org/wiki/Brook_Lopez,6,C,Lopez,Brook,7'0'',84,2.13,265,120,4/1/1988,Stanford,BKN,11
+Tornike Shengelia,http://en.wikipedia.org/wiki/Tornike_Shengelia,4,F,Shengelia,Tornike,6'9'',81,2.06,228,103,10/5/1991,Republic of Georgia,BKN,20
+Jerry Stackhouse,http://en.wikipedia.org/wiki/Jerry_Stackhouse,2.5,G/F,Stackhouse,Jerry,6'6'',78,1.98,218,99,11/5/1974,North Carolina,BKN,42
+Tyshawn Taylor,http://en.wikipedia.org/wiki/Tyshawn_Taylor,1.5,G,Taylor,Tyshawn,6'3'',75,1.91,185,84,4/12/1990,Kansas,BKN,41
+Mirza Teletovic,http://en.wikipedia.org/wiki/Mirza_Teletovic,4,F,Teletovic,Mirza,6'9'',81,2.06,255,116,9/17/1985,Bosnia,BKN,33
+Gerald Wallace,http://en.wikipedia.org/wiki/Gerald_Wallace,4,F,Wallace,Gerald,6'7'',79,2.01,220,100,7/3/1982,Alabama,BKN,45
+C. J. Watson,http://en.wikipedia.org/wiki/C. J._Watson,1.5,G,Watson,C. J.,6'2'',74,1.88,175,79,4/17/1984,Tennessee,BKN,1
+Deron Williams,http://en.wikipedia.org/wiki/Deron_Williams,1.5,G,Williams,Deron,6'3'',75,1.91,209,95,6/26/1984,Illinois,BKN,8
+Leandro Barbosa,http://en.wikipedia.org/wiki/Leandro_Barbosa,2.5,PG/SG,Barbosa,Leandro,6'3'',75,1.91,194,88,11/28/1982,Brazil,BOS,12
+Brandon Bass,http://en.wikipedia.org/wiki/Brandon_Bass,4,F,Bass,Brandon,6'8'',80,2.03,250,113,4/30/1985,LSU,BOS,30
+Avery Bradley,http://en.wikipedia.org/wiki/Avery_Bradley,1.5,G,Bradley,Avery,6'2'',74,1.88,180,82,11/26/1990,Texas,BOS,0
+Dionte Christmas,http://en.wikipedia.org/wiki/Dionte_Christmas,1.5,G,Christmas,Dionte,6'5'',77,1.96,205,93,9/15/1986,Temple,BOS,50
+Jason Collins,http://en.wikipedia.org/wiki/Jason_Collins,6,C,Collins,Jason,7'0'',84,2.13,255,116,12/2/1978,Stanford,BOS,36
+Kevin Garnett,http://en.wikipedia.org/wiki/Kevin_Garnett,5.5,F/C,Garnett,Kevin,6'11'',83,2.11,253,115,5/19/1976,Farragut HS (IL),BOS,5
+Jeff Green,http://en.wikipedia.org/wiki/Jeff_Green_(basketball),3,F,Green,Jeff,6'9,81,2.06,235,107,8/28/2006,Georgetown,BOS,8
+Kris Joseph,http://en.wikipedia.org/wiki/Kris_Joseph,4,F,Joseph,Kris,6'7'',79,2.01,210,95,12/17/1988,Syracuse,BOS,43
+Courtney Lee,http://en.wikipedia.org/wiki/Courtney_Lee,2.5,G/F,Lee,Courtney,6'5'',77,1.96,200,91,10/3/1985,Western Kentucky,BOS,11
+Fab Melo,http://en.wikipedia.org/wiki/Fab_Melo,6,C,Melo,Fab,7'0'',84,2.13,255,116,6/20/1990,Syracuse,BOS,13
+Darko Milicic,http://en.wikipedia.org/wiki/Darko_Mili%C4%8Di%C4%87,5,C,Milicic,Darko,7'0'',84,2.13,175,125,6/20/1985,Serbia,BOS,99
+Paul Pierce,http://en.wikipedia.org/wiki/Paul_Pierce,4,F,Pierce,Paul,6'7'',79,2.01,235,107,10/13/1977,Kansas,BOS,34
+Rajon Rondo,http://en.wikipedia.org/wiki/Rajon_Rondo,1.5,G,Rondo,Rajon,6'1'',73,1.85,186,84,2/22/1986,Kentucky,BOS,9
+Jamar Smith,http://en.wikipedia.org/wiki/Jamar_Smith,1.5,G,Smith,Jamar,6'3'',75,1.91,185,84,4/7/1987,Southern Indiana,BOS,12
+Jared Sullinger,http://en.wikipedia.org/wiki/Jared_Sullinger,4,F,Sullinger,Jared,6'9'',81,2.06,260,118,3/4/1992,Ohio State,BOS,7
+Jason Terry,http://en.wikipedia.org/wiki/Jason_Terry,1.5,G,Terry,Jason,6'2'',74,1.88,180,82,9/15/1977,Arizona,BOS,4
+Chris Wilcox,http://en.wikipedia.org/wiki/Chris_Wilcox,5.5,F/C,Wilcox,Chris,6'10'',82,2.08,235,107,9/3/1982,Maryland,BOS,44
+Bismack Biyombo,http://en.wikipedia.org/wiki/Bismack_Biyombo,5.5,F/C,Biyombo,Bismack,6'9'',81,2.06,245,111,8/28/1992,DR Congo,CHA,0
+DeSagana Diop,http://en.wikipedia.org/wiki/DeSagana_Diop,6,C,Diop,DeSagana,7'0'',84,2.13,280,127,1/30/1982,Oak Hill Academy (VA),CHA,7
+Ben Gordon,http://en.wikipedia.org/wiki/Ben_Gordon,1.5,G,Gordon,Ben,6'3'',75,1.91,200,91,4/4/1983,Connecticut,CHA,32
+Brendan Haywood,http://en.wikipedia.org/wiki/Brendan_Haywood,6,C,Haywood,Brendan,7'0'',84,2.13,263,119,11/27/1979,North Carolina,CHA,33
+Gerald Henderson,http://en.wikipedia.org/wiki/Gerald_Henderson,2.5,G/F,Henderson,Gerald,6'5'',77,1.96,215,98,12/9/1987,Duke,CHA,9
+Michael Kidd-Gilchrist,http://en.wikipedia.org/wiki/Michael_Kidd-Gilchrist,4,F,Kidd-Gilchrist,Michael,6'7'',79,2.01,232,105,9/26/1993,Kentucky,CHA,14
+Byron Mullens,http://en.wikipedia.org/wiki/Byron_Mullens,6,C,Mullens,Byron,7'0'',84,2.13,275,125,2/14/1989,Ohio State,CHA,22
+Ramon Sessions,http://en.wikipedia.org/wiki/Ramon_Sessions,1.5,G,Sessions,Ramon,6'3'',75,1.91,190,86,4/11/1986,Nevada,CHA,3
+Jeffery Taylor,http://en.wikipedia.org/wiki/Jeffery_Taylor,2.5,G/F,Taylor,Jeffery,6'7'',79,2.01,225,102,5/23/1989,Vanderbilt,CHA,44
+Tyrus Thomas,http://en.wikipedia.org/wiki/Tyrus_Thomas,4,F,Thomas,Tyrus,6'10'',82,2.08,225,102,8/17/1986,LSU,CHA,12
+Kemba Walker,http://en.wikipedia.org/wiki/Kemba_Walker,1.5,G,Walker,Kemba,6'1'',73,1.85,184,83,5/8/1990,Connecticut,CHA,15
+Reggie Williams,http://en.wikipedia.org/wiki/Reggie_Williams,2.5,G/F,Williams,Reggie,6'6'',78,1.98,205,93,9/14/1986,Virginia Military,CHA,55
+Marco Belinelli,http://en.wikipedia.org/wiki/Marco_Belinelli,1.5,G,Belinelli,Marco,6'5'',77,1.96,195,88,3/25/1986,Italy,CHI,8
+Carlos Boozer,http://en.wikipedia.org/wiki/Carlos_Boozer,4,F,Boozer,Carlos,6'9'',81,2.06,266,121,11/20/1981,Duke,CHI,5
+Jimmy Butler,http://en.wikipedia.org/wiki/Jimmy_Butler,2.5,G/F,Butler,Jimmy,6'7'',79,2.01,220,100,9/14/1989,Marquette,CHI,21
+Luol Deng,http://en.wikipedia.org/wiki/Luol_Deng,4,F,Deng,Luol,6'9'',81,2.06,220,100,4/16/1985,Duke,CHI,9
+Taj Gibson,http://en.wikipedia.org/wiki/Taj_Gibson,4,F,Gibson,Taj,6'9'',81,2.06,225,102,6/24/1985,Southern California,CHI,22
+Richard Hamilton,http://en.wikipedia.org/wiki/Richard_Hamilton,2.5,G/F,Hamilton,Richard,6'7'',79,2.01,193,88,2/14/1978,Connecticut,CHI,32
+Kirk Hinrich,http://en.wikipedia.org/wiki/Kirk_Hinrich,1.5,G,Hinrich,Kirk,6'4'',76,1.93,190,86,1/2/1981,Kansas,CHI,12
+Nazr Mohammed,http://en.wikipedia.org/wiki/Nazr_Mohammed,6,C,Mohammed,Nazr,6'10'',82,2.08,250,113,9/5/1977,Kentucky,CHI,6
+Joakim Noah,http://en.wikipedia.org/wiki/Joakim_Noah,6,C,Noah,Joakim,6'11'',83,2.11,232,105,2/25/1985,Florida,CHI,13
+Vladimir Radmanovic,http://en.wikipedia.org/wiki/Vladimir_Radmanovic,4,F,Radmanovic,Vladimir,6'10'',82,2.08,235,107,11/19/1980,Serbia,CHI,77
+Nate Robinson,http://en.wikipedia.org/wiki/Nate_Robinson,1.5,G,Robinson,Nate,5'9'',69,1.75,180,82,5/31/1984,Washington,CHI,2
+Derrick Rose,http://en.wikipedia.org/wiki/Derrick_Rose,1.5,G,Rose,Derrick,6'3'',75,1.91,190,86,10/4/1988,Memphis,CHI,1
+Marquis Teague,http://en.wikipedia.org/wiki/Marquis_Teague,1.5,G,Teague,Marquis,6'2'',74,1.88,190,86,2/28/1993,Kentucky,CHI,25
+Omri Casspi,http://en.wikipedia.org/wiki/Omri_Casspi,4,F,Casspi,Omri,6'9'',81,2.06,225,102,6/22/1988,Israel,CLE,36
+Alonzo Gee,http://en.wikipedia.org/wiki/Alonzo_Gee,2.5,SG/SF,Gee,Alonzo,6'6,78,1.98,219,99,5/29/1987,Alabama,CLE,33
+Daniel Gibson,http://en.wikipedia.org/wiki/Daniel_Gibson,1.5,G,Gibson,Daniel,6'2'',74,1.88,200,91,2/27/1986,Texas,CLE,1
+Luke Harangody,http://en.wikipedia.org/wiki/Luke_Harangody,4,F,Harangody,Luke,6'7'',79,2.01,245,111,1/2/1986,Notre Dame,CLE,44
+Kyrie Irving,http://en.wikipedia.org/wiki/Kyrie_Irving,1.5,G,Irving,Kyrie,6'3'',75,1.91,191,87,3/23/1992,Duke,CLE,2
+Jon Leuer,http://en.wikipedia.org/wiki/Jon_Leuer,4,F,Leuer,Jon,6'10'',82,2.08,228,103,5/14/1989,Wisconsin,CLE,30
+Jeremy Pargo,http://en.wikipedia.org/wiki/Jeremy_Pargo,1.5,G,Pargo,Jeremy,6'2'',74,1.88,219,99,3/17/1986,Gonzaga,CLE,8
+Samardo Samuels,http://en.wikipedia.org/wiki/Samardo_Samuels,5.5,F/C,Samuels,Samardo,6'9'',81,2.06,260,118,1/9/1989,Louisville,CLE,24
+Donald Sloan,http://en.wikipedia.org/wiki/Donald_Sloan,1.5,G,Sloan,Donald,6'3'',75,1.91,205,93,1/15/1988,Texas A&M,CLE,15
+Tristan Thompson,http://en.wikipedia.org/wiki/Tristan_Thompson,5.5,F/C,Thompson,Tristan,6'9'',81,2.06,227,103,3/13/1991,Texas,CLE,13
+Anderson Varejão,http://en.wikipedia.org/wiki/Anderson_Varejão,5.5,F/C,Varejão,Anderson,6'11'',83,2.11,260,118,9/28/1982,Brazil,CLE,17
+Dion Waiters,http://en.wikipedia.org/wiki/Dion_Waiters,1.5,G,Waiters,Dion,6'4'',76,1.93,215,98,12/1/1991,Syracuse,CLE,3
+Luke Walton,http://en.wikipedia.org/wiki/Luke_Walton,4,F,Walton,Luke,6'8'',80,2.03,235,107,3/28/1980,Arizona,CLE,4
+Tyler Zeller,http://en.wikipedia.org/wiki/Tyler_Zeller,6,C,Zeller,Tyler,7'0'',84,2.13,250,113,1/17/1990,North Carolina,CLE,40
+Rodrigue Beaubois,http://en.wikipedia.org/wiki/Rodrigue_Beaubois,1.5,G,Beaubois,Rodrigue,6'2'',74,1.88,185,84,2/24/1988,France,DAL,3
+Elton Brand,http://en.wikipedia.org/wiki/Elton_Brand,4,F,Brand,Elton,6'9'',81,2.06,254,115,3/11/1979,Duke,DAL,42
+Vince Carter,http://en.wikipedia.org/wiki/Vince_Carter,2.5,G/F,Carter,Vince,6'6'',78,1.98,220,100,1/26/1977,North Carolina,DAL,25
+Darren Collison,http://en.wikipedia.org/wiki/Darren_Collison,1.5,G,Collison,Darren,6'0'',72,1.83,160,73,8/23/1987,UCLA,DAL,4
+Jae Crowder,http://en.wikipedia.org/wiki/Jae_Crowder,4,F,Crowder,Jae,6'6'',78,1.98,235,107,4/6/1990,Marquette,DAL,9
+Jared Cunningham,http://en.wikipedia.org/wiki/Jared_Cunningham,1.5,G,Cunningham,Jared,6'4'',76,1.93,195,88,5/22/1991,Oregon State,DAL,1
+Eddy Curry,http://en.wikipedia.org/wiki/Eddy_Curry,5,C,Curry,Eddy,7'0'',84,2.13,295,134,12/5/1982,Thornwood (IL),DAL,52
+Bernard James,http://en.wikipedia.org/wiki/Bernard_James,6,C,James,Bernard,6'10'',82,2.08,240,109,2/7/1985,Florida State,DAL,5
+Dahntay Jones,http://en.wikipedia.org/wiki/Dahntay_Jones,2.5,G/F,Jones,Dahntay,6'6'',78,1.98,225,102,12/27/1980,Duke,DAL,30
+Dominique Jones,http://en.wikipedia.org/wiki/Dominique_Jones,1.5,G,Jones,Dominique,6'4'',76,1.93,215,98,10/15/1988,South Florida,DAL,20
+Chris Kaman,http://en.wikipedia.org/wiki/Chris_Kaman,6,C,Kaman,Chris,7'0'',84,2.13,265,120,4/28/1982,Central Michigan,DAL,35
+Shawn Marion,http://en.wikipedia.org/wiki/Shawn_Marion,4,F,Marion,Shawn,6'7'',79,2.01,228,103,5/7/1978,UNLV,DAL,0
+O. J. Mayo,http://en.wikipedia.org/wiki/O. J._Mayo,1.5,G,Mayo,O. J.,6'4'',76,1.93,210,95,11/5/1987,Southern California,DAL,32
+Dirk Nowitzki,http://en.wikipedia.org/wiki/Dirk_Nowitzki,4,F,Nowitzki,Dirk,7'0'',84,2.13,245,111,6/19/1978,Germany,DAL,41
+Brandan Wright,http://en.wikipedia.org/wiki/Brandan_Wright,5.5,F/C,Wright,Brandan,6'10'',82,2.08,210,95,10/5/1987,North Carolina,DAL,34
+Corey Brewer,http://en.wikipedia.org/wiki/Corey_Brewer,2.5,G/F,Brewer,Corey,6'9'',81,2.06,188,85,3/5/1986,Florida,DEN,13
+Wilson Chandler,http://en.wikipedia.org/wiki/Wilson_Chandler,2.5,G/F,Chandler,Wilson,6'8'',80,2.03,225,102,5/10/1987,DePaul,DEN,21
+Kenneth Faried,http://en.wikipedia.org/wiki/Kenneth_Faried,4,F,Faried,Kenneth,6'8'',80,2.03,228,103,11/18/1989,Morehead State,DEN,35
+Evan Fournier,http://en.wikipedia.org/wiki/Evan_Fournier,1.5,G,Fournier,Evan,6'6'',78,1.98,200,91,10/29/1992,France,DEN,94
+Danilo Gallinari,http://en.wikipedia.org/wiki/Danilo_Gallinari,4,F,Gallinari,Danilo,6'10'',82,2.08,225,102,8/8/1988,Italy,DEN,8
+Jordan Hamilton,http://en.wikipedia.org/wiki/Jordan_Hamilton,2.5,G/F,Hamilton,Jordan,6'7'',79,2.01,220,100,6/10/1990,Texas,DEN,1
+Andre Iguodala,http://en.wikipedia.org/wiki/Andre_Iguodala,2.5,G/F,Iguodala,Andre,6'6'',78,1.98,207,94,1/28/1984,Arizona,DEN,9
+Kosta Koufos,http://en.wikipedia.org/wiki/Kosta_Koufos,6,C,Koufos,Kosta,7'0'',84,2.13,265,120,2/24/1989,Ohio State,DEN,41
+Ty Lawson,http://en.wikipedia.org/wiki/Ty_Lawson,1.5,G,Lawson,Ty,5'11'',71,1.8,195,88,11/3/1987,North Carolina,DEN,3
+JaVale McGee,http://en.wikipedia.org/wiki/JaVale_McGee,6,C,McGee,JaVale,7'0'',84,2.13,252,114,1/19/1988,Nevada,DEN,34
+Andre Miller,http://en.wikipedia.org/wiki/Andre_Miller,1.5,G,Miller,Andre,6'2'',74,1.88,200,91,3/19/1976,Utah,DEN,24
+Quincy Miller,http://en.wikipedia.org/wiki/Quincy_Miller,4,F,Miller,Quincy,6'9'',81,2.06,210,95,11/18/1992,Baylor,DEN,30
+Timofey Mozgov,http://en.wikipedia.org/wiki/Timofey_Mozgov,6,C,Mozgov,Timofey,7'1'',85,2.16,250,113,7/16/1986,Russia,DEN,25
+Anthony Randolph,http://en.wikipedia.org/wiki/Anthony_Randolph,5.5,F/C,Randolph,Anthony,6'11'',83,2.11,225,102,7/15/1989,LSU,DEN,15
+Julyan Stone,http://en.wikipedia.org/wiki/Julyan_Stone,1.5,G,Stone,Julyan,6'6'',78,1.98,200,91,12/7/1988,Texas-El Paso,DEN,10
+Will Bynum,http://en.wikipedia.org/wiki/Will_Bynum,1.5,G,Bynum,Will,6'0'',72,1.83,185,84,1/4/1983,Georgia Tech,DET,12
+Austin Daye,http://en.wikipedia.org/wiki/Austin_Daye,4,F,Daye,Austin,6'11'',83,2.11,200,91,6/5/1988,Gonzaga,DET,5
+Andre Drummond,http://en.wikipedia.org/wiki/Andre_Drummond,5.5,F/C,Drummond,Andre,6'10'',82,2.08,270,122,10/8/1993,Connecticut,DET,1
+Kim English,http://en.wikipedia.org/wiki/Kim_English,1.5,G,English,Kim,6'6'',78,1.98,192,87,9/24/1988,Missouri,DET,24
+Jonas Jerebko,http://en.wikipedia.org/wiki/Jonas_Jerebko,4,F,Jerebko,Jonas,6'10'',82,2.08,231,105,3/2/1987,Sweden,DET,33
+Brandon Knight,http://en.wikipedia.org/wiki/Brandon_Knight,1.5,G,Knight,Brandon,6'3'',75,1.91,185,84,12/2/1991,Kentucky,DET,7
+Vyacheslav Kravtsov,http://en.wikipedia.org/wiki/Vyacheslav_Kravtsov,6,C,Kravtsov,Vyacheslav,6'11'',83,2.11,254,115,8/25/1987,Ukraine,DET,55
+Corey Maggette,http://en.wikipedia.org/wiki/Corey_Maggette,2.5,G/F,Maggette,Corey,6'6'',78,1.98,225,102,11/12/1979,Duke,DET,50
+Jason Maxiell,http://en.wikipedia.org/wiki/Jason_Maxiell,4,F,Maxiell,Jason,6'7'',79,2.01,260,118,2/18/1983,Cincinnati,DET,54
+Khris Middleton,http://en.wikipedia.org/wiki/Khris_Middleton,2.5,G/F,Middleton,Khris,6'8'',80,2.03,216,98,12/8/1991,Texas,DET,32
+Greg Monroe,http://en.wikipedia.org/wiki/Greg_Monroe,5.5,F/C,Monroe,Greg,6'11'',83,2.11,250,113,6/4/1990,Georgetown,DET,10
+Tayshaun Prince,http://en.wikipedia.org/wiki/Tayshaun_Prince,4,F,Prince,Tayshaun,6'9'',81,2.06,215,98,2/28/1980,Kentucky,DET,22
+Kyle Singler,http://en.wikipedia.org/wiki/Kyle_Singler,4,F,Singler,Kyle,6'8'',80,2.03,230,104,5/4/1988,Duke,DET,25
+Rodney Stuckey,http://en.wikipedia.org/wiki/Rodney_Stuckey,1.5,G,Stuckey,Rodney,6'5'',77,1.96,205,93,4/21/1986,Eastern Washington,DET,3
+Charlie Villanueva,http://en.wikipedia.org/wiki/Charlie_Villanueva,4,F,Villanueva,Charlie,6'11'',83,2.11,232,105,8/24/1984,Connecticut,DET,31
+Harrison Barnes,http://en.wikipedia.org/wiki/Harrison_Barnes,4,F,Barnes,Harrison,6'8'',80,2.03,228,103,5/30/1992,North Carolina,GSW,40
+Kent Bazemore,http://en.wikipedia.org/wiki/Kent_Bazemore,2.5,G/F,Bazemore,Kent,6'5'',77,1.96,201,91,7/1/1989,Old Dominion,GSW,20
+Andris Biedrinš,http://en.wikipedia.org/wiki/Andris_Biedrinš,6,C,Biedrinš,Andris,7'0'',84,2.13,240,109,4/2/1986,Latvia,GSW,15
+Andrew Bogut,http://en.wikipedia.org/wiki/Andrew_Bogut,6,C,Bogut,Andrew,7'0'',84,2.13,260,118,11/28/1984,Utah,GSW,12
+Stephen Curry,http://en.wikipedia.org/wiki/Stephen_Curry,1.5,G,Curry,Stephen,6'3'',75,1.91,185,84,3/14/1988,Davidson,GSW,30
+Festus Ezeli,http://en.wikipedia.org/wiki/Festus_Ezeli,6,C,Ezeli,Festus,6'11'',83,2.11,264,120,10/21/1989,Vanderbilt,GSW,31
+Draymond Green,http://en.wikipedia.org/wiki/Draymond_Green,4,F,Green,Draymond,6'7'',79,2.01,236,107,3/4/1990,Michigan State,GSW,23
+Jarrett Jack,http://en.wikipedia.org/wiki/Jarrett_Jack,1.5,G,Jack,Jarrett,6'3'',75,1.91,197,89,10/28/1983,Georgia Tech,GSW,2
+Richard Jefferson,http://en.wikipedia.org/wiki/Richard_Jefferson,4,F,Jefferson,Richard,6'7'',79,2.01,230,104,6/21/1980,Arizona,GSW,44
+Charles Jenkins,http://en.wikipedia.org/wiki/Charles_Jenkins,1.5,G,Jenkins,Charles,6'3'',75,1.91,220,100,2/28/1989,Hofstra,GSW,22
+Carl Landry,http://en.wikipedia.org/wiki/Carl_Landry,4,F,Landry,Carl,6'9'',81,2.06,248,112,9/19/1983,Purdue,GSW,7
+David Lee,http://en.wikipedia.org/wiki/David_Lee,5.5,F/C,Lee,David,6'9'',81,2.06,240,109,4/29/1983,Florida,GSW,10
+Brandon Rush,http://en.wikipedia.org/wiki/Brandon_Rush,1.5,G,Rush,Brandon,6'6'',78,1.98,210,95,7/7/1985,Kansas,GSW,4
+Klay Thompson,http://en.wikipedia.org/wiki/Klay_Thompson,2.5,G/F,Thompson,Klay,6'7'',79,2.01,205,93,2/8/1990,Washington State,GSW,11
+Jeremy Tyler,http://en.wikipedia.org/wiki/Jeremy_Tyler,5.5,F/C,Tyler,Jeremy,6'10'',82,2.08,260,118,6/21/1991,San Diego HS (CA),GSW,3
+Cole Aldrich,http://en.wikipedia.org/wiki/Cole_Aldrich,6,C,Aldrich,Cole,6'11'',83,2.11,245,111,10/31/1988,Kansas,HOU,31
+Ömer Asik,http://en.wikipedia.org/wiki/Ömer_Asik,6,C,Asik,Ömer,7'0'',84,2.13,255,116,7/4/1986,Turkey,HOU,3
+Daequan Cook,http://en.wikipedia.org/wiki/Daequan_Cook,1.5,G,Cook,Daequan,6'5'',77,1.96,210,95,4/28/1987,Ohio State,HOU,14
+Carlos Delfino,http://en.wikipedia.org/wiki/Carlos_Delfino,2.5,G/F,Delfino,Carlos,6'6,78,1.98,230,104,8/29/1982,Argentina,HOU,10
+Toney Douglas,http://en.wikipedia.org/wiki/Toney_Douglas,1.5,G,Douglas,Toney,6'2'',74,1.88,185,84,6/16/1986,Florida State,HOU,15
+James Harden,http://en.wikipedia.org/wiki/James_Harden,1.5,G,Harden,James,6'5'',77,1.96,220,100,8/26/1989,Arizona State,HOU,13
+Terrence Jones,http://en.wikipedia.org/wiki/Terrence_Jones,4,F,Jones,Terrence,6'9'',81,2.06,252,114,1/9/1992,Kentucky,HOU,6
+Jeremy Lin,http://en.wikipedia.org/wiki/Jeremy_Lin,1.5,G,Lin,Jeremy,6'3'',75,1.91,200,91,8/23/1988,Harvard,HOU,7
+Scott Machado,http://en.wikipedia.org/wiki/Scott_Machado,1,PG,Machado,Scott,6'1,73,1.85,205,93,6/8/1990,Iona College,HOU,3
+Marcus Morris,http://en.wikipedia.org/wiki/Marcus_Morris,4,F,Morris,Marcus,6'9'',81,2.06,235,107,2/9/1989,Kansas,HOU,2
+Donatas Motiejunas,http://en.wikipedia.org/wiki/Donatas_Motiejunas,5.5,F/C,Motiejunas,Donatas,7'0'',84,2.13,224,102,9/20/1990,Lithuania,HOU,20
+Chandler Parsons,http://en.wikipedia.org/wiki/Chandler_Parsons,4,F,Parsons,Chandler,6'9'',81,2.06,227,103,10/25/1988,Florida,HOU,25
+Patrick Patterson,http://en.wikipedia.org/wiki/Patrick_Patterson,4,F,Patterson,Patrick,6'9'',81,2.06,235,107,3/14/1989,Kentucky,HOU,54
+Royce White,http://en.wikipedia.org/wiki/Royce_White,4,F,White,Royce,6'8'',80,2.03,270,122,4/10/1991,Iowa State,HOU,30
+D. J. Augustin,http://en.wikipedia.org/wiki/D. J._Augustin,1.5,G,Augustin,D. J.,6'0'',72,1.83,180,82,11/10/1987,Texas,IND,14
+Sundiata Gaines,http://en.wikipedia.org/wiki/Sundiata_Gaines,1,PG,Gaines,Sundiata ,6'1,73,1.85,200,91,4/18/1986,Georgia,IND,2
+Paul George,http://en.wikipedia.org/wiki/Paul_George,2.5,G/F,George,Paul,6'8'',80,2.03,215,98,5/2/1990,Fresno State,IND,24
+Danny Granger,http://en.wikipedia.org/wiki/Danny_Granger,4,F,Granger,Danny,6'8'',80,2.03,228,103,4/20/1983,New Mexico,IND,33
+Gerald Green,http://en.wikipedia.org/wiki/Gerald_Green,2.5,G/F,Green,Gerald,6'8'',80,2.03,200,91,1/26/1986,Gulf Shores Academy (TX),IND,25
+Tyler Hansbrough,http://en.wikipedia.org/wiki/Tyler_Hansbrough,4,F,Hansbrough,Tyler,6'9'',81,2.06,250,113,11/3/1985,North Carolina,IND,50
+Roy Hibbert,http://en.wikipedia.org/wiki/Roy_Hibbert,6,C,Hibbert,Roy,7'2'',86,2.18,260,118,12/11/1986,Georgetown,IND,55
+George Hill,http://en.wikipedia.org/wiki/George_Hill,1.5,G,Hill,George,6'2'',74,1.88,180,82,5/4/1986,IUPUI,IND,3
+Orlando Johnson,http://en.wikipedia.org/wiki/Orlando_Johnson,1.5,G,Johnson,Orlando,6'5'',77,1.96,205,93,3/11/1989,UC Santa Barbara,IND,11
+Ian Mahinmi,http://en.wikipedia.org/wiki/Ian_Mahinmi,6,C,Mahinmi,Ian,6'11'',83,2.11,230,104,11/5/1986,France,IND,28
+Jeff Pendergraph,http://en.wikipedia.org/wiki/Jeff_Pendergraph,5.5,F/C,Pendergraph,Jeff,6'9'',81,2.06,240,109,4/29/1987,Arizona State,IND,29
+Miles Plumlee,http://en.wikipedia.org/wiki/Miles_Plumlee,5.5,F/C,Plumlee,Miles,6'10'',82,2.08,245,111,9/1/1988,Duke,IND,13
+Lance Stephenson,http://en.wikipedia.org/wiki/Lance_Stephenson,1.5,G,Stephenson,Lance,6'5'',77,1.96,220,100,9/5/1990,Cincinnati,IND,1
+David West,http://en.wikipedia.org/wiki/David_West,4,F,West,David,6'9'',81,2.06,240,109,8/29/1980,Xavier,IND,21
+Sam Young,http://en.wikipedia.org/wiki/Sam_Young_(basketball),2.5,G/F,Young,Sam,6'6,78,1.98,220,100,6/1/1985,Pittsburgh,IND,4
+Matt Barnes,http://en.wikipedia.org/wiki/Matt_Barnes,3,SF,Barnes,Matt,6'7'',79,2.01,226,103,3/9/1980,UCLA,LAC,22
+Chauncey Billups,http://en.wikipedia.org/wiki/Chauncey_Billups,1.5,G,Billups,Chauncey,6'3'',75,1.91,210,95,9/25/1976,Colorado,LAC,1
+Eric Bledsoe,http://en.wikipedia.org/wiki/Eric_Bledsoe,1.5,G,Bledsoe,Eric,6'1'',73,1.85,195,88,12/9/1989,Kentucky,LAC,12
+Caron Butler,http://en.wikipedia.org/wiki/Caron_Butler,4,F,Butler,Caron,6'7'',79,2.01,228,103,3/13/1980,Connecticut,LAC,5
+Jamal Crawford,http://en.wikipedia.org/wiki/Jamal_Crawford,1.5,G,Crawford,Jamal,6'5'',77,1.96,200,91,3/20/1980,Michigan,LAC,11
+Willie Green,http://en.wikipedia.org/wiki/Willie_Green,1.5,G,Green,Willie,6'3'',75,1.91,201,91,7/28/1981,Detroit,LAC,34
+Blake Griffin,http://en.wikipedia.org/wiki/Blake_Griffin,4,F,Griffin,Blake,6'10'',82,2.08,251,114,3/16/1989,Oklahoma,LAC,32
+Grant Hill,http://en.wikipedia.org/wiki/Grant_Hill,4,F,Hill,Grant,6'8'',80,2.03,225,102,10/5/1972,Duke,LAC,33
+Ryan Hollins,http://en.wikipedia.org/wiki/Ryan_Hollins,6,C,Hollins,Ryan,7'0'',84,2.13,240,109,10/10/1984,UCLA,LAC,15
+DeAndre Jordan,http://en.wikipedia.org/wiki/DeAndre_Jordan,6,C,Jordan,DeAndre,6'11'',83,2.11,265,120,7/21/1988,Texas A&M,LAC,6
+Travis Leslie,http://en.wikipedia.org/wiki/Travis_Leslie,1.5,G,Leslie,Travis,6'4'',76,1.93,205,93,3/29/1990,Georgia,LAC,23
+Lamar Odom,http://en.wikipedia.org/wiki/Lamar_Odom,4,F,Odom,Lamar,6'10'',82,2.08,230,104,11/6/1979,Rhode Island,LAC,7
+Chris Paul,http://en.wikipedia.org/wiki/Chris_Paul,1.5,G,Paul,Chris,6'0'',72,1.83,175,79,5/6/1985,Wake Forest,LAC,3
+Trey Thompkins,http://en.wikipedia.org/wiki/Trey_Thompkins,4,F,Thompkins,Trey,6'10'',82,2.08,245,111,5/29/1990,Georgia,LAC,9
+Ronny Turiaf,http://en.wikipedia.org/wiki/Ronny_Turiaf,6,C,Turiaf,Ronny,6'10'',82,2.08,249,113,1/13/1983,Gonzaga,LAC,21
+Steve Blake,http://en.wikipedia.org/wiki/Steve_Blake,1.5,G,Blake,Steve,6'3'',75,1.91,172,78,2/26/1980,Maryland,LAL,5
+Kobe Bryant,http://en.wikipedia.org/wiki/Kobe_Bryant,2,SG,Bryant,Kobe,6'6'',78,1.98,205,93,8/23/1978,Lower Merion HS (PA),LAL,24
+Earl Clark,http://en.wikipedia.org/wiki/Earl_Clark,4,F,Clark,Earl,6'10'',82,2.08,225,102,1/17/1988,Louisville,LAL,3
+Chris Duhon,http://en.wikipedia.org/wiki/Chris_Duhon,1.5,G,Duhon,Chris,6'1'',73,1.85,190,86,8/31/1982,Duke,LAL,25
+Devin Ebanks,http://en.wikipedia.org/wiki/Devin_Ebanks,4,F,Ebanks,Devin,6'9'',81,2.06,215,98,10/28/1989,West Virginia,LAL,3
+Pau Gasol,http://en.wikipedia.org/wiki/Pau_Gasol,5.5,F/C,Gasol,Pau,7'0'',84,2.13,250,113,7/6/1980,Spain,LAL,16
+Jordan Hill,http://en.wikipedia.org/wiki/Jordan_Hill,5.5,F/C,Hill,Jordan,6'10'',82,2.08,235,107,7/27/1987,Arizona,LAL,27
+Dwight Howard,http://en.wikipedia.org/wiki/Dwight_Howard,6,C,Howard,Dwight,6'11'',83,2.11,265,120,12/8/1985,SW Atlanta Academy (GA),LAL,12
+Antawn Jamison,http://en.wikipedia.org/wiki/Antawn_Jamison,4,F,Jamison,Antawn,6'9'',81,2.06,235,107,6/12/1976,North Carolina,LAL,4
+Jodie Meeks,http://en.wikipedia.org/wiki/Jodie_Meeks,2,SG,Meeks,Jodie,6'4'',76,1.93,208,94,8/21/2012,Kentucky,LAL,20
+Darius Morris,http://en.wikipedia.org/wiki/Darius_Morris,1.5,G,Morris,Darius,6'4'',76,1.93,190,86,1/3/1991,Michigan,LAL,1
+Steve Nash,http://en.wikipedia.org/wiki/Steve_Nash,1.5,G,Nash,Steve,6'3'',75,1.91,178,81,2/7/1974,Santa Clara,LAL,10
+Robert Sacre,http://en.wikipedia.org/wiki/Robert_Sacre,6,C,Sacre,Robert,7'0'',84,2.13,260,118,6/6/1989,Gonzaga,LAL,50
+Metta World Peace,http://en.wikipedia.org/wiki/Metta_World Peace,4,F,World Peace,Metta,6'7'',79,2.01,260,118,11/13/1979,St. John's,LAL,15
+Tony Allen,http://en.wikipedia.org/wiki/Tony_Allen,2,SG,Allen,Tony,6'4'',76,1.93,213,97,1/11/1982,Oklahoma State,MEM,9
+Darrell Arthur,http://en.wikipedia.org/wiki/Darrell_Arthur,4.5,PF,Arthur,Darrell,6'9'',81,2.06,235,107,3/25/1988,Kansas,MEM,0
+Jerryd Bayless,http://en.wikipedia.org/wiki/Jerryd_Bayless,1,PG,Bayless,Jerryd,6'3'',75,1.91,200,91,8/20/1988,Arizona,MEM,7
+Mike Conley,http://en.wikipedia.org/wiki/Mike_Conley,1,PG,Conley,Mike,6'1'',73,1.85,185,84,10/11/1987,Ohio State,MEM,11
+Wayne Ellington,http://en.wikipedia.org/wiki/Wayne_Ellington,2,SG,Ellington,Wayne,6'4'',76,1.93,200,91,11/29/1987,North Carolina,MEM,3
+Marc Gasol,http://en.wikipedia.org/wiki/Marc_Gasol,6,C,Gasol,Marc,7'1'',85,2.16,265,120,1/29/1985,Spain,MEM,33
+Rudy Gay,http://en.wikipedia.org/wiki/Rudy_Gay,3,SF,Gay,Rudy,6'8'',80,2.03,230,104,8/17/1986,Connecticut,MEM,22
+Hamed Haddadi,http://en.wikipedia.org/wiki/Hamed_Haddadi,6,C,Haddadi,Hamed,7'2'',86,2.18,265,120,5/19/1985,Iran,MEM,15
+Quincy Pondexter,http://en.wikipedia.org/wiki/Quincy_Pondexter,3,SF,Pondexter,Quincy,6'6'',78,1.98,225,102,3/10/1988,Washington,MEM,20
+Zach Randolph,http://en.wikipedia.org/wiki/Zach_Randolph,4.5,PF,Randolph,Zach,6'9'',81,2.06,260,118,7/16/1981,Michigan State,MEM,50
+Josh Selby,http://en.wikipedia.org/wiki/Josh_Selby,1,PG,Selby,Josh,6'2'',74,1.88,183,83,3/27/1991,Kansas,MEM,2
+Marreese Speights,http://en.wikipedia.org/wiki/Marreese_Speights,6,C,Speights,Marreese,6'10'',82,2.08,255,116,8/4/1987,Florida,MEM,5
+Tony Wroten,http://en.wikipedia.org/wiki/Tony_Wroten,1,PG,Wroten,Tony,6'6'',78,1.98,205,93,4/14/1993,Washington,MEM,8
+Ray Allen,http://en.wikipedia.org/wiki/Ray_Allen,1.5,G,Allen,Ray,6'5'',77,1.96,205,93,7/20/1975,Connecticut,MIA,34
+Joel Anthony,http://en.wikipedia.org/wiki/Joel_Anthony,5.5,F/C,Anthony,Joel,6'9'',81,2.06,245,111,8/9/1982,UNLV,MIA,50
+Shane Battier,http://en.wikipedia.org/wiki/Shane_Battier,4,F,Battier,Shane,6'8'',80,2.03,225,102,9/9/1978,Duke,MIA,31
+Chris Bosh,http://en.wikipedia.org/wiki/Chris_Bosh,5.5,F/C,Bosh,Chris,6'11'',83,2.11,235,107,5/19/1984,Georgia Tech,MIA,1
+Mario Chalmers,http://en.wikipedia.org/wiki/Mario_Chalmers,1.5,G,Chalmers,Mario,6'2'',74,1.88,190,86,3/24/1986,Kansas,MIA,15
+Norris Cole,http://en.wikipedia.org/wiki/Norris_Cole,1.5,G,Cole,Norris,6'2'',74,1.88,170,77,10/13/1988,Cleveland State,MIA,30
+Josh Harrellson,http://en.wikipedia.org/wiki/Josh_Harrellson,5,C,Harrellson,Josh,6'10,82,2.08,275,125,2/12/1989,Kentucky,MIA,55
+Terrel Harris,http://en.wikipedia.org/wiki/Terrel_Harris,2,SG,Harris,Terrel,6'4,76,1.93,190,86,8/10/1987,Oklahoma State,MIA,14
+Udonis Haslem,http://en.wikipedia.org/wiki/Udonis_Haslem,5.5,F/C,Haslem,Udonis,6'8'',80,2.03,235,107,6/9/1980,Florida,MIA,40
+LeBron James,http://en.wikipedia.org/wiki/LeBron_James,4,F,James,LeBron,6'8'',80,2.03,250,113,12/30/1984,Saint Vincent Saint. Mary HS (OH),MIA,6
+James Jones,http://en.wikipedia.org/wiki/James_Jones,2.5,G/F,Jones,James,6'8'',80,2.03,215,98,10/4/1980,Miami (FL),MIA,22
+Rashard Lewis,http://en.wikipedia.org/wiki/Rashard_Lewis,4,F,Lewis,Rashard,6'10'',82,2.08,230,104,8/8/1979,Elsik HS (TX),MIA,9
+Mike Miller,http://en.wikipedia.org/wiki/Mike_Miller,2.5,G/F,Miller,Mike,6'8'',80,2.03,210,95,2/19/1980,Florida,MIA,13
+Dexter Pittman,http://en.wikipedia.org/wiki/Dexter_Pittman,6,C,Pittman,Dexter,6'11'',83,2.11,285,129,3/2/1988,Texas,MIA,45
+Dwyane Wade,http://en.wikipedia.org/wiki/Dwyane_Wade,1.5,G,Wade,Dwyane,6'4'',76,1.93,220,100,1/17/1982,Marquette,MIA,3
+Samuel Dalembert,http://en.wikipedia.org/wiki/Samuel_Dalembert,6,C,Dalembert,Samuel,6'11'',83,2.11,250,113,5/10/1981,Seton Hall,MIL,21
+Mike Dunleavy,http://en.wikipedia.org/wiki/Mike_Dunleavy,2.5,G/F,Dunleavy,Mike,6'9'',81,2.06,230,104,9/15/1980,Duke,MIL,17
+Monta Ellis,http://en.wikipedia.org/wiki/Monta_Ellis,1.5,G,Ellis,Monta,6'3'',75,1.91,185,84,10/26/1985,Lanier HS (MS),MIL,11
+Drew Gooden,http://en.wikipedia.org/wiki/Drew_Gooden,5.5,F/C,Gooden,Drew,6'10'',82,2.08,250,113,9/24/1981,Kansas,MIL,0
+Tobias Harris,http://en.wikipedia.org/wiki/Tobias_Harris,4,F,Harris,Tobias,6'8'',80,2.03,226,103,7/15/1992,Tennessee,MIL,15
+John Henson,http://en.wikipedia.org/wiki/John_Henson,4,F,Henson,John,6'11'',83,2.11,220,100,12/28/1990,North Carolina,MIL,31
+Ersan Ilyasova,http://en.wikipedia.org/wiki/Ersan_Ilyasova,4,F,Ilyasova,Ersan,6'10'',82,2.08,235,107,5/15/1987,Turkey,MIL,7
+Brandon Jennings,http://en.wikipedia.org/wiki/Brandon_Jennings,1.5,G,Jennings,Brandon,6'1'',73,1.85,169,77,9/23/1989,Oak Hill Academy (VA),MIL,3
+Doron Lamb,http://en.wikipedia.org/wiki/Doron_Lamb,1.5,G,Lamb,Doron,6'4'',76,1.93,210,95,11/6/1991,Kentucky,MIL,20
+Marquis Daniels,http://en.wikipedia.org/wiki/Marquis_Daniels,,,Marquis,Marquis,6'6'',78,1.98,200,91,1/7/1981,Mt. Zion Christian Academy (NC),MIL,6
+Luc Mbah a Moute,http://en.wikipedia.org/wiki/Luc_Mbah a Moute,4,F,Mbah a Moute,Luc,6'8'',80,2.03,230,104,9/9/1986,UCLA,MIL,12
+Larry Sanders,http://en.wikipedia.org/wiki/Larry_Sanders,5.5,F/C,Sanders,Larry,6'11'',83,2.11,235,107,11/21/1988,Virginia Commonwealth,MIL,8
+Ekpe Udoh,http://en.wikipedia.org/wiki/Ekpe_Udoh,5.5,F/C,Udoh,Ekpe,6'10'',82,2.08,245,111,5/20/1987,Baylor,MIL,13
+Beno Udrih,http://en.wikipedia.org/wiki/Beno_Udrih,1.5,G,Udrih,Beno,6'3'',75,1.91,205,93,7/5/1982,Slovenia,MIL,19
+Lou Amudson,http://en.wikipedia.org/wiki/Lou_Amundson,5.5,PF/C,Amudson,Lou,6'9'',81,2.06,225,102,12/7/1982,UNLV,MIN,17
+José Juan Barea,http://en.wikipedia.org/wiki/Juan Barea_Barea,1.5,G,Barea,Juan Barea,6'0'',72,1.83,175,79,6/26/1984,Northeastern,MIN,11
+Chase Budinger,http://en.wikipedia.org/wiki/Chase_Budinger,4,F,Budinger,Chase,6'7'',79,2.01,218,99,5/22/1988,Arizona,MIN,10
+Will Conroy,http://en.wikipedia.org/wiki/Will_Conroy,1,PG,Conroy,Will,6'2,74,1.88,195,88,12/8/1982,Washington,MIN,5
+Dante Cunningham,http://en.wikipedia.org/wiki/Dante_Cunningham,4,F,Cunningham,Dante,6'8'',80,2.03,230,104,4/22/1987,Villanova,MIN,33
+Andrei Kirilenko,http://en.wikipedia.org/wiki/Andrei_Kirilenko,4,F,Kirilenko,Andrei,6'9'',81,2.06,215,98,2/18/1981,Russia,MIN,47
+Malcolm Lee,http://en.wikipedia.org/wiki/Malcolm_Lee,1.5,G,Lee,Malcolm,6'5'',77,1.96,200,91,5/22/1990,UCLA,MIN,8
+Kevin Love,http://en.wikipedia.org/wiki/Kevin_Love,5.5,F/C,Love,Kevin,6'10'',82,2.08,240,109,9/7/1988,UCLA,MIN,42
+Nikola Pekovic,http://en.wikipedia.org/wiki/Nikola_Pekovic,6,C,Pekovic,Nikola,6'11'',83,2.11,290,132,1/3/1986,Montenegro,MIN,14
+Luke Ridnour,http://en.wikipedia.org/wiki/Luke_Ridnour,1.5,G,Ridnour,Luke,6'2'',74,1.88,175,79,2/13/1981,Oregon,MIN,13
+Brandon Roy,http://en.wikipedia.org/wiki/Brandon_Roy,1.5,G,Roy,Brandon,6'6'',78,1.98,211,96,7/23/1984,Washington,MIN,3
+Ricky Rubio,http://en.wikipedia.org/wiki/Ricky_Rubio,1.5,G,Rubio,Ricky,6'4'',76,1.93,180,82,10/21/1990,Spain,MIN,9
+Alexey Shved,http://en.wikipedia.org/wiki/Alexey_Shved,1.5,G,Shved,Alexey,6'6'',78,1.98,182,83,12/16/1988,Russia,MIN,1
+Greg Stiemsma,http://en.wikipedia.org/wiki/Greg_Stiemsma,6,C,Stiemsma,Greg,6'11'',83,2.11,260,118,9/26/1985,Wisconsin,MIN,34
+Derrick Williams,http://en.wikipedia.org/wiki/Derrick_Williams,4,F,Williams,Derrick,6'8'',80,2.03,241,109,5/25/1991,Arizona,MIN,7
+Al-Farouq Aminu,http://en.wikipedia.org/wiki/Al-Farouq_Aminu,4,F,Aminu,Al-Farouq,6'9'',81,2.06,215,98,9/21/1990,Wake Forest,NOH,0
+Ryan Anderson,http://en.wikipedia.org/wiki/Ryan_Anderson,4,F,Anderson,Ryan,6'10'',82,2.08,240,109,5/6/1988,California,NOH,33
+Anthony Davis,http://en.wikipedia.org/wiki/Anthony_Davis,5.5,F/C,Davis,Anthony,6'11'',83,2.11,220,100,4/11/1993,Kentucky,NOH,23
+Eric Gordon,http://en.wikipedia.org/wiki/Eric_Gordon,1.5,G,Gordon,Eric,6'3'',75,1.91,215,98,12/25/1988,Indiana,NOH,10
+Xavier Henry,http://en.wikipedia.org/wiki/Xavier_Henry,1.5,G,Henry,Xavier,6'6'',78,1.98,220,100,3/15/1991,Kansas,NOH,4
+Robin Lopez,http://en.wikipedia.org/wiki/Robin_Lopez,6,C,Lopez,Robin,7'0'',84,2.13,255,116,4/1/1988,Stanford,NOH,15
+Roger Mason,http://en.wikipedia.org/wiki/Roger_Mason,1.5,G,Mason,Roger,6'5'',77,1.96,205,93,9/10/1980,Virginia,NOH,8
+Darius Miller,http://en.wikipedia.org/wiki/Darius_Miller,4,F,Miller,Darius,6'8'',80,2.03,235,107,3/21/1990,Kentucky,NOH,2
+Austin Rivers,http://en.wikipedia.org/wiki/Austin_Rivers,1.5,G,Rivers,Austin,6'4'',76,1.93,200,91,8/1/1992,Duke,NOH,25
+Brian Roberts,http://en.wikipedia.org/wiki/Brian_Roberts_(basketball),1,G,Roberts,Brian,6'1,73,1.85,180,82,12/3/1985,St. John's,NOH,22
+Jason Smith,http://en.wikipedia.org/wiki/Jason_Smith,5.5,F/C,Smith,Jason,7'0'',84,2.13,240,109,3/2/1986,Colorado State,NOH,14
+Lance Thomas,http://en.wikipedia.org/wiki/Lance_Thomas,4,F,Thomas,Lance,6'8'',80,2.03,225,102,4/24/1988,Duke,NOH,42
+Greivis Vásquez,http://en.wikipedia.org/wiki/Greivis_Vásquez,1.5,G,Vásquez,Greivis,6'6'',78,1.98,211,96,1/16/1987,Maryland,NOH,21
+Hakim Warrick,http://en.wikipedia.org/wiki/Hakim_Warrick,4,F,Warrick,Hakim,6'9'',81,2.06,219,99,7/8/1982,Syracuse,NOH,1
+Carmelo Anthony,http://en.wikipedia.org/wiki/Carmelo_Anthony,4,F,Anthony,Carmelo,6'8'',80,2.03,230,104,5/29/1984,Syracuse,NYK,7
+Ronnie Brewer,http://en.wikipedia.org/wiki/Ronnie_Brewer,1.5,G,Brewer,Ronnie,6'7'',79,2.01,227,103,3/20/1985,Arkansas,NYK,11
+Marcus Camby,http://en.wikipedia.org/wiki/Marcus_Camby,6,C,Camby,Marcus,6'11'',83,2.11,235,107,3/22/1974,Massachusetts,NYK,23
+Tyson Chandler,http://en.wikipedia.org/wiki/Tyson_Chandler,6,C,Chandler,Tyson,7'1'',85,2.16,240,109,10/2/1982,Dominguez HS (CA),NYK,6
+Chris Copeland,http://en.wikipedia.org/wiki/Chris_Copeland,4,F,Copeland,Chris,6'8'',80,2.03,224,102,3/17/1984,Colorado,NYK,14
+Raymond Felton,http://en.wikipedia.org/wiki/Raymond_Felton,1.5,G,Felton,Raymond,6'1'',73,1.85,205,93,6/26/1984,North Carolina,NYK,2
+Jason Kidd,http://en.wikipedia.org/wiki/Jason_Kidd,1.5,G,Kidd,Jason,6'4'',76,1.93,210,95,3/23/1973,California,NYK,5
+Steve Novak,http://en.wikipedia.org/wiki/Steve_Novak,4,F,Novak,Steve,6'10'',82,2.08,240,109,6/13/1983,Marquette,NYK,16
+Pablo Prigioni,http://en.wikipedia.org/wiki/Pablo_Prigioni,1.5,G,Prigioni,Pablo,6'3'',75,1.91,180,82,3/17/1977,Argentina,NYK,9
+Iman Shumpert,http://en.wikipedia.org/wiki/Iman_Shumpert,1.5,G,Shumpert,Iman,6'5'',77,1.96,220,100,6/26/1990,Georgia Tech,NYK,21
+J. R. Smith,http://en.wikipedia.org/wiki/J. R._Smith,1.5,G,Smith,J. R.,6'6'',78,1.98,220,100,9/9/1985,St. Benedict's Prep (NJ),NYK,8
+Amar'e Stoudemire,http://en.wikipedia.org/wiki/Amar'e_Stoudemire,5.5,F/C,Stoudemire,Amar'e,6'11'',83,2.11,260,118,11/16/1982,Cypress Creek HS (FL),NYK,1
+Kurt Thomas,http://en.wikipedia.org/wiki/Kurt_Thomas,5.5,F/C,Thomas,Kurt,6'9'',81,2.06,230,104,10/4/1972,Texas Christian,NYK,40
+James White,http://en.wikipedia.org/wiki/James_White,2.5,G/F,White,James,6'7'',79,2.01,200,91,10/21/1982,Cincinnati,NYK,4
+Nick Collison,http://en.wikipedia.org/wiki/Nick_Collison,5.5,F/C,Collison,Nick,6'10'',82,2.08,255,116,10/26/1980,Kansas,OKC,4
+Kevin Durant,http://en.wikipedia.org/wiki/Kevin_Durant,2.5,G/F,Durant,Kevin,6'9'',81,2.06,230,104,9/29/1988,Texas,OKC,35
+Serge Ibaka,http://en.wikipedia.org/wiki/Serge_Ibaka,4,F,Ibaka,Serge,6'10'',82,2.08,235,107,9/18/1989,Republic of the Congo,OKC,9
+Reggie Jackson,http://en.wikipedia.org/wiki/Reggie_Jackson,1.5,G,Jackson,Reggie,6'3'',75,1.91,208,94,4/16/1990,Boston College,OKC,15
+Perry III Jones,http://en.wikipedia.org/wiki/Perry III_Jones,4,F,Jones,Perry III,6'11'',83,2.11,234,106,9/24/1991,Baylor,OKC,3
+Jeremy Lamb,http://en.wikipedia.org/wiki/Jeremy_Lamb,1.5,G,Lamb,Jeremy,6'5'',77,1.96,185,84,5/30/1992,Connecticut,OKC,11
+DeAndre Liggins,http://en.wikipedia.org/wiki/DeAndre_Liggins,2,SG,Liggins,DeAndre,6'6,78,1.98,209,95,3/31/1988,Kentucky,OKC,25
+Kevin Martin,http://en.wikipedia.org/wiki/Kevin_Martin,2,SG,Martin,Kevin,6'7'',79,2.01,185,84,2/1/1983,Western Carolina,OKC,23
+Eric Maynor,http://en.wikipedia.org/wiki/Eric_Maynor,1.5,G,Maynor,Eric,6'3'',75,1.91,175,79,6/11/1987,Virginia Commonwealth,OKC,6
+Daniel Orton,http://en.wikipedia.org/wiki/Daniel_Orton,5,C,Orton,Daniel,6'10'',82,2.08,255,116,8/6/1990,Kentucky,OKC,33
+Kendrick Perkins,http://en.wikipedia.org/wiki/Kendrick_Perkins,6,C,Perkins,Kendrick,6'10'',82,2.08,267,121,11/10/1984,Clifton J. Ozen HS (TX),OKC,5
+Thabo Sefolosha,http://en.wikipedia.org/wiki/Thabo_Sefolosha,2.5,G/F,Sefolosha,Thabo,6'7'',79,2.01,215,98,5/2/1984,Switzerland,OKC,2
+Hasheem Thabeet,http://en.wikipedia.org/wiki/Hasheem_Thabeet,6,C,Thabeet,Hasheem,7'3'',87,2.21,263,119,2/16/1987,Connecticut,OKC,34
+Russell Westbrook,http://en.wikipedia.org/wiki/Russell_Westbrook,1.5,G,Westbrook,Russell,6'3'',75,1.91,187,85,11/12/1988,UCLA,OKC,0
+Arron Afflalo,http://en.wikipedia.org/wiki/Arron_Afflalo,1.5,G,Afflalo,Arron,6'5'',77,1.96,215,98,10/15/1985,UCLA,ORL,6
+Gustavo Ayón,http://en.wikipedia.org/wiki/Gustavo_Ayón,5.5,F/C,Ayón,Gustavo,6'10'',82,2.08,250,113,4/1/1985,San Jos State,ORL,19
+Glen Davis,http://en.wikipedia.org/wiki/Glen_Davis,5.5,F/C,Davis,Glen,6'9'',81,2.06,289,131,1/1/1986,LSU,ORL,11
+Maurice Harkless,http://en.wikipedia.org/wiki/Maurice_Harkless,4,F,Harkless,Maurice,6'8.75'',80.75,2.05,222,101,5/11/1993,St. John's,ORL,4
+Al Harrington,http://en.wikipedia.org/wiki/Al_Harrington,4,F,Harrington,Al,6'9'',81,2.06,250,113,2/17/1980,St. Patrick HS (NJ),ORL,7
+DeQuan Jones,http://en.wikipedia.org/wiki/DeQuan_Jones,2.5,SG/SF,Jones,DeQuan,6'8'',80,2.03,221,100,6/20/1990,Miami (FL),ORL,20
+Josh McRoberts,http://en.wikipedia.org/wiki/Josh_McRoberts,4.5,PF,McRoberts,Josh,6'10'',82,2.08,240,109,2/28/1987,Duke,ORL,17
+E'Twaun Moore,http://en.wikipedia.org/wiki/E%27Twaun_Moore,1.5,PG/SG,Moore,E'Twaun ,6'4,76,1.93,191,87,2/25/1989,Purdue,ORL,55
+Jameer Nelson,http://en.wikipedia.org/wiki/Jameer_Nelson,1.5,G,Nelson,Jameer,6'0'',72,1.83,190,86,2/9/1982,Saint Joseph's,ORL,14
+Andrew Nicholson,http://en.wikipedia.org/wiki/Andrew_Nicholson,4,F,Nicholson,Andrew,6'9'',81,2.06,250,113,12/8/1989,St. Bonaventure,ORL,44
+Kyle O'Quinn,http://en.wikipedia.org/wiki/Kyle_O'Quinn,4,F,O'Quinn,Kyle,6'10'',82,2.08,224,102,3/26/1990,Norfolk State,ORL,9
+J. J. Redick,http://en.wikipedia.org/wiki/J. J._Redick,1.5,G,Redick,J. J.,6'4'',76,1.93,190,86,6/24/1984,Duke,ORL,7
+Hedo Türkogluu,http://en.wikipedia.org/wiki/Hedo_Türkogluu,4,F,Türkogluu,Hedo,6'10'',82,2.08,220,100,3/19/1979,Turkey,ORL,15
+Nikola Vucevic,http://en.wikipedia.org/wiki/Nikola_Vucevic,5.5,F/C,Vucevic,Nikola,7'0'',84,2.13,240,109,10/24/1990,Southern California,ORL,8
+Lavoy Allen,http://en.wikipedia.org/wiki/Lavoy_Allen,5.5,F/C,Allen,Lavoy,6'9'',81,2.06,225,102,2/4/1989,Temple,PHL,50
+Kwame Brown,http://en.wikipedia.org/wiki/Kwame_Brown,6,C,Brown,Kwame,6'11'',83,2.11,270,122,3/10/1982,Glynn Adademy (GA),PHL,54
+Andrew Bynum,http://en.wikipedia.org/wiki/Andrew_Bynum,6,C,Bynum,Andrew,7'0'',84,2.13,285,129,10/27/1987,St. Joseph HS (NJ),PHL,17
+Spencer Hawes,http://en.wikipedia.org/wiki/Spencer_Hawes,6,C,Hawes,Spencer,7'1'',85,2.16,245,111,4/28/1988,Washington,PHL,0
+Jrue Holiday,http://en.wikipedia.org/wiki/Jrue_Holiday,1.5,G,Holiday,Jrue,6'4'',76,1.93,180,82,6/12/1990,UCLA,PHL,11
+Arnett Moultrie,http://en.wikipedia.org/wiki/Arnett_Moultrie,4,F,Moultrie,Arnett,6'11'',83,2.11,233,106,11/18/1990,Mississippi State,PHL,23
+Jason Richardson,http://en.wikipedia.org/wiki/Jason_Richardson,2.5,G/F,Richardson,Jason,6'6'',78,1.98,225,102,1/20/1981,Michigan State,PHL,23
+Evan Turner,http://en.wikipedia.org/wiki/Evan_Turner,2.5,G/F,Turner,Evan,6'7'',79,2.01,205,93,10/27/1988,Ohio State,PHL,12
+Damien Wilkins,http://en.wikipedia.org/wiki/Damien_Wilkins,3,F,Wilkins,Damien,6'6'',78,1.98,225,102,1/11/1980,Georgia,PHL,8
+Dorell Wright,http://en.wikipedia.org/wiki/Dorell_Wright,4,F,Wright,Dorell,6'9'',81,2.06,205,93,12/2/1985,South Kent HS (CT),PHL,5
+Nick Young,http://en.wikipedia.org/wiki/Nick_Young,2.5,G/F,Young,Nick,6'7'',79,2.01,210,95,6/1/1985,Southern California,PHL,1
+Thaddeus Young,http://en.wikipedia.org/wiki/Thaddeus_Young,4,F,Young,Thaddeus,6'8'',80,2.03,220,100,6/21/1988,Georgia Tech,PHL,21
+Michael Beasley,http://en.wikipedia.org/wiki/Michael_Beasley,4,F,Beasley,Michael,6'10'',82,2.08,235,107,1/9/1989,Kansas State,PHO,0
+Shannon Brown,http://en.wikipedia.org/wiki/Shannon_Brown,1.5,G,Brown,Shannon,6'4'',76,1.93,210,95,11/29/1985,Michigan State,PHO,26
+Goran Dragic,http://en.wikipedia.org/wiki/Goran_Dragic,1.5,G,Dragic,Goran,6'3'',75,1.91,190,86,5/6/1986,Slovenia,PHO,1
+Jared Dudley,http://en.wikipedia.org/wiki/Jared_Dudley,2.5,G/F,Dudley,Jared,6'7'',79,2.01,225,102,7/10/1985,Boston College,PHO,3
+Channing Frye,http://en.wikipedia.org/wiki/Channing_Frye,5.5,F/C,Frye,Channing,6'11'',83,2.11,245,111,5/17/1983,Arizona,PHO,8
+Marcin Gortat,http://en.wikipedia.org/wiki/Marcin_Gortat,6,C,Gortat,Marcin,6'11'',83,2.11,240,109,2/17/1984,Poland,PHO,4
+Wesley Johnson,http://en.wikipedia.org/wiki/Wesley_Johnson,2.5,G/F,Johnson,Wesley,6'7'',79,2.01,215,98,7/11/1987,Syracuse,PHO,2
+Kendall Marshall,http://en.wikipedia.org/wiki/Kendall_Marshall,1.5,G,Marshall,Kendall,6'4'',76,1.93,195,88,8/19/1991,North Carolina,PHO,12
+Markieff Morris,http://en.wikipedia.org/wiki/Markieff_Morris,4,F,Morris,Markieff,6'10'',82,2.08,245,111,9/2/1989,Kansas,PHO,11
+Jermaine O'Neal,http://en.wikipedia.org/wiki/Jermaine_O%27Neal,4.5,PF,O'Neal,Jermaine,6'11,83,2.11,255,116,10/13/1978,Eau Claire HS,PHO,20
+Luis Scola,http://en.wikipedia.org/wiki/Luis_Scola,4,F,Scola,Luis,6'9'',81,2.06,245,111,4/30/1980,Argentina,PHO,14
+Sebastian Telfair,http://en.wikipedia.org/wiki/Sebastian_Telfair,1.5,G,Telfair,Sebastian,6'0'',72,1.83,175,79,6/9/1985,Abraham Lincoln HS (NY),PHO,31
+P. J. Tucker,http://en.wikipedia.org/wiki/P. J._Tucker,4,F,Tucker,P. J.,6'6'',78,1.98,225,102,5/5/1985,Texas,PHO,17
+Luke Zeller,http://en.wikipedia.org/wiki/Luke_Zeller,5.5,PF/C,Zeller,Luke,6'11'',83,2.11,245,111,4/7/1987,Notre Dame,PHO,40
+LaMarcus Aldridge,http://en.wikipedia.org/wiki/LaMarcus_Aldridge,5.5,F/C,Aldridge,LaMarcus,6'11'',83,2.11,240,109,7/19/1985,Texas,POR,12
+Luke Babbitt,http://en.wikipedia.org/wiki/Luke_Babbitt,4,F,Babbitt,Luke,6'9'',81,2.06,225,102,1/6/1991,Nevada,POR,8
+Will Barton,http://en.wikipedia.org/wiki/Will_Barton,2.5,G/F,Barton,Will,6'6'',78,1.98,175,79,9/4/1988,Memphis,POR,5
+Nicolas Batum,http://en.wikipedia.org/wiki/Nicolas_Batum,2.5,G/F,Batum,Nicolas,6'8'',80,2.03,200,91,12/14/1988,France,POR,88
+Víctor Claver,http://en.wikipedia.org/wiki/Víctor_Claver,4,F,Claver,Víctor,6'10'',82,2.08,236,107,8/30/1988,Spain,POR,18
+Joel Freeland,http://en.wikipedia.org/wiki/Joel_Freeland,5.5,F/C,Freeland,Joel,6'10'',82,2.08,250,113,2/7/1987,England,POR,19
+J. J. Hickson,http://en.wikipedia.org/wiki/J. J._Hickson,4,F,Hickson,J. J.,6'9'',81,2.06,242,110,9/4/1988,North Carolina State,POR,21
+Jared Jeffries,http://en.wikipedia.org/wiki/Jared_Jeffries,5.5,F/C,Jeffries,Jared,6'11'',83,2.11,240,109,11/25/1981,Indiana,POR,24
+Meyers Leonard,http://en.wikipedia.org/wiki/Meyers_Leonard,6,C,Leonard,Meyers,7'1'',85,2.16,245,111,2/27/1992,Illinois,POR,11
+Damian Lillard,http://en.wikipedia.org/wiki/Damian_Lillard,1.5,G,Lillard,Damian,6'3'',75,1.91,195,88,7/15/1990,Weber State,POR,0
+Wesley Matthews,http://en.wikipedia.org/wiki/Wesley_Matthews,1.5,G,Matthews,Wesley,6'5'',77,1.96,220,100,10/14/1986,Marquette,POR,2
+Sasha Pavlovic,http://en.wikipedia.org/wiki/Sasha_Pavlovic,2.5,G/F,Pavlovic,Sasha,6'7'',79,2.01,235,107,11/15/1983,Yugoslavia,POR,3
+Ronnie Price,http://en.wikipedia.org/wiki/Ronnie_Price,1.5,G,Price,Ronnie,6'2'',74,1.88,190,86,6/21/1983,Utah Valley,POR,1
+Nolan Smith,http://en.wikipedia.org/wiki/Nolan_Smith,1.5,G,Smith,Nolan,6'2'',74,1.88,185,84,7/25/1988,Duke,POR,4
+Elliot Williams,http://en.wikipedia.org/wiki/Elliot_Williams,1.5,G,Williams,Elliot,6'5'',77,1.96,180,82,6/20/1989,Memphis,POR,9
+Aaron Brooks,http://en.wikipedia.org/wiki/Aaron_Brooks,1.5,G,Brooks,Aaron,6'0'',72,1.83,161,73,1/14/1985,Oregon,SAC,3
+DeMarcus Cousins,http://en.wikipedia.org/wiki/DeMarcus_Cousins,6,C,Cousins,DeMarcus,6'11'',83,2.11,270,122,8/13/1990,Kentucky,SAC,15
+Tyreke Evans,http://en.wikipedia.org/wiki/Tyreke_Evans,1.5,G,Evans,Tyreke,6'6'',78,1.98,220,100,9/19/1989,Memphis,SAC,13
+Jimmer Fredette,http://en.wikipedia.org/wiki/Jimmer_Fredette,1.5,G,Fredette,Jimmer,6'2'',74,1.88,195,88,2/25/1989,Brigham Young,SAC,7
+Francisco García,http://en.wikipedia.org/wiki/Francisco_García,2.5,G/F,García,Francisco,6'7'',79,2.01,195,88,12/31/1980,Louisville,SAC,32
+Chuck Hayes,http://en.wikipedia.org/wiki/Chuck_Hayes,5.5,F/C,Hayes,Chuck,6'6'',78,1.98,250,113,6/11/1983,Kentucky,SAC,42
+Tyler Honeycutt,http://en.wikipedia.org/wiki/Tyler_Honeycutt,4,F,Honeycutt,Tyler,6'8'',80,2.03,188,85,7/15/1990,UCLA,SAC,9
+James Johnson,http://en.wikipedia.org/wiki/James_Johnson,4,F,Johnson,James,6'9'',81,2.06,245,111,2/20/1987,Wake Forest,SAC,52
+Travis Outlaw,http://en.wikipedia.org/wiki/Travis_Outlaw,4,F,Outlaw,Travis,6'9'',81,2.06,207,94,9/18/1984,Starkville HS (MS),SAC,25
+Thomas Robinson,http://en.wikipedia.org/wiki/Thomas_Robinson,4,F,Robinson,Thomas,6'9'',81,2.06,244,111,3/18/1991,Kansas,SAC,0
+John Salmons,http://en.wikipedia.org/wiki/John_Salmons,2.5,G/F,Salmons,John,6'6'',78,1.98,207,94,12/12/1979,Miami (FL),SAC,5
+Isaiah Thomas,http://en.wikipedia.org/wiki/Isaiah_Thomas,1.5,G,Thomas,Isaiah,5'9'',69,1.75,185,84,2/7/1989,Washington,SAC,22
+Jason Thompson,http://en.wikipedia.org/wiki/Jason_Thompson,4,F,Thompson,Jason,6'11'',83,2.11,250,113,7/21/1986,Rider,SAC,34
+Marcus Thornton,http://en.wikipedia.org/wiki/Marcus_Thornton,1.5,G,Thornton,Marcus,6'4'',76,1.93,205,93,6/5/1987,LSU,SAC,23
+James Anderson,http://en.wikipedia.org/wiki/James_Anderson,1.5,G,Anderson,James,6'6'',78,1.98,215,98,3/25/1989,Oklahoma State,SAS,25
+DeJuan Blair,http://en.wikipedia.org/wiki/DeJuan_Blair,6,C,Blair,DeJuan,6'7'',79,2.01,270,122,4/22/1989,Pittsburgh,SAS,45
+Matt Bonner,http://en.wikipedia.org/wiki/Matt_Bonner,5.5,F/C,Bonner,Matt,6'10'',82,2.08,235,107,4/5/1980,Florida,SAS,15
+Derrick Byars,http://en.wikipedia.org/wiki/Derrick_Byars,2.5,G/F,Byars,Derrick,6'7'',79,2.01,220,100,4/25/1984,Vanderbilt,SAS,34
+Nando De Colo,http://en.wikipedia.org/wiki/Nando_De Colo,1.5,G,De Colo,Nando,6'5'',77,1.96,200,91,6/23/1987,France,SAS,33
+Boris Diaw,http://en.wikipedia.org/wiki/Boris_Diaw,5.5,F/C,Diaw,Boris,6'8'',80,2.03,235,107,4/16/1982,France,SAS,33
+Tim Duncan,http://en.wikipedia.org/wiki/Tim_Duncan,4,F,Duncan,Tim,6'11'',83,2.11,255,116,4/25/1976,Wake Forest,SAS,21
+Manu Ginóbili,http://en.wikipedia.org/wiki/Manu_Ginóbili,1.5,G,Ginóbili,Manu,6'6'',78,1.98,205,93,7/28/1977,Argentina,SAS,20
+Danny Green,http://en.wikipedia.org/wiki/Danny_Green,2.5,G/F,Green,Danny,6'6'',78,1.98,210,95,6/22/1987,North Carolina,SAS,4
+Stephen Jackson,http://en.wikipedia.org/wiki/Stephen_Jackson,2.5,G/F,Jackson,Stephen,6'8'',80,2.03,220,100,4/5/1978,Oak Hill Academy (HS),SAS,3
+Cory Joseph,http://en.wikipedia.org/wiki/Cory_Joseph,1.5,G,Joseph,Cory,6'3'',75,1.91,185,84,8/20/1991,Texas,SAS,5
+Kawhi Leonard,http://en.wikipedia.org/wiki/Kawhi_Leonard,2.5,G/F,Leonard,Kawhi,6'7'',79,2.01,225,102,6/29/1991,San Diego State,SAS,2
+Patrick Mills,http://en.wikipedia.org/wiki/Patrick_Mills,1.5,G,Mills,Patrick,6'0'',72,1.83,185,84,8/11/1988,Saint Mary's,SAS,8
+Gary Neal,http://en.wikipedia.org/wiki/Gary_Neal,1.5,G,Neal,Gary,6'4'',76,1.93,210,95,10/3/1984,Towson,SAS,14
+Tony Parker,http://en.wikipedia.org/wiki/Tony_Parker,1.5,G,Parker,Tony,6'2'',74,1.88,185,84,5/17/1982,France,SAS,9
+Tiago Splitter,http://en.wikipedia.org/wiki/Tiago_Splitter,5.5,F/C,Splitter,Tiago,6'11'',83,2.11,240,109,1/1/1985,Brazil,SAS,22
+Quincy Acy,http://en.wikipedia.org/wiki/Quincy_Acy,4,F,Acy,Quincy,6'7'',79,2.01,225,102,10/6/1990,Baylor,TOR,4
+Alan Anderson,http://en.wikipedia.org/wiki/Alan_Anderson,2.5,G/F,Anderson,Alan,6'6'',78,1.98,220,100,10/16/1982,Michigan State,TOR,6
+Andrea Bargnani,http://en.wikipedia.org/wiki/Andrea_Bargnani,5.5,F/C,Bargnani,Andrea,7'0'',84,2.13,250,113,10/26/1985,Italy,TOR,7
+José Calderón,http://en.wikipedia.org/wiki/José_Calderón,1.5,G,Calderón,José,6'3'',75,1.91,210,95,9/28/1981,Spain,TOR,8
+Ed Davis,http://en.wikipedia.org/wiki/Ed_Davis,4,F,Davis,Ed,6'10'',82,2.08,215,98,6/5/1989,North Carolina,TOR,32
+DeMar DeRozan,http://en.wikipedia.org/wiki/DeMar_DeRozan,2.5,G/F,DeRozan,DeMar,6'7'',79,2.01,220,100,8/7/1989,Southern California,TOR,10
+Landry Fields,http://en.wikipedia.org/wiki/Landry_Fields,2.5,G/F,Fields,Landry,6'7'',79,2.01,215,98,6/27/1988,Stanford,TOR,9
+Aaron Gray,http://en.wikipedia.org/wiki/Aaron_Gray,6,C,Gray,Aaron,7'0'',84,2.13,270,122,12/7/1984,Pittsburgh,TOR,34
+Amir Johnson,http://en.wikipedia.org/wiki/Amir_Johnson,5.5,F/C,Johnson,Amir,6'9'',81,2.06,210,95,5/1/1987,Westchester HS (CA),TOR,15
+Linas Kleiza,http://en.wikipedia.org/wiki/Linas_Kleiza,4,F,Kleiza,Linas,6'8'',80,2.03,234,106,1/3/1985,Missouri,TOR,11
+Kyle Lowry,http://en.wikipedia.org/wiki/Kyle_Lowry,1.5,G,Lowry,Kyle,6'0'',72,1.83,205,93,3/25/1986,Villanova,TOR,3
+John Lucas,http://en.wikipedia.org/wiki/John_Lucas,1.5,G,Lucas,John,5'11'',71,1.8,165,75,11/21/1982,Oklahoma State,TOR,5
+Dominic McGuire,http://en.wikipedia.org/wiki/Dominic_McGuire,3.5,SF/PF,McGuire,Dominic,6'9,81,2.06,235,107,10/20/1985,Fresno State,TOR,5
+Terrence Ross,http://en.wikipedia.org/wiki/Terrence_Ross,1.5,G,Ross,Terrence,6'6'',78,1.98,195,88,2/5/1991,Washington,TOR,31
+Jonas Valanciunas,http://en.wikipedia.org/wiki/Jonas_Valanciunas,6,C,Valanciunas,Jonas,6'11'',83,2.11,231,105,6/5/1992,Lithuania,TOR,17
+Alec Burks,http://en.wikipedia.org/wiki/Alec_Burks,1.5,G,Burks,Alec,6'6'',78,1.98,202,92,7/20/1991,Colorado,UTA,10
+DeMarre Carroll,http://en.wikipedia.org/wiki/DeMarre_Carroll,4,F,Carroll,DeMarre,6'8'',80,2.03,212,96,7/27/1986,Missouri,UTA,3
+Jeremy Evans,http://en.wikipedia.org/wiki/Jeremy_Evans,4,F,Evans,Jeremy,6'9'',81,2.06,194,88,10/24/1987,Western Kentucky,UTA,40
+Derrick Favors,http://en.wikipedia.org/wiki/Derrick_Favors,5.5,F/C,Favors,Derrick,6'10'',82,2.08,248,112,7/15/1991,Georgia Tech,UTA,15
+Randy Foye,http://en.wikipedia.org/wiki/Randy_Foye,1.5,G,Foye,Randy,6'4'',76,1.93,213,97,9/24/1983,Villanova,UTA,21
+Gordon Hayward,http://en.wikipedia.org/wiki/Gordon_Hayward,4,F,Hayward,Gordon,6'8'',80,2.03,210,95,3/23/1990,Butler,UTA,20
+Al Jefferson,http://en.wikipedia.org/wiki/Al_Jefferson,6,C,Jefferson,Al,6'10'',82,2.08,289,131,1/4/1985,Prentiss HS (MS),UTA,25
+Enes Kanter,http://en.wikipedia.org/wiki/Enes_Kanter,6,C,Kanter,Enes,6'11'',83,2.11,267,121,5/20/1992,Turkey,UTA,0
+Paul Millsap,http://en.wikipedia.org/wiki/Paul_Millsap,4,F,Millsap,Paul,6'8'',80,2.03,253,115,2/10/1985,Louisiana Tech,UTA,24
+Kevin Murphy,http://en.wikipedia.org/wiki/Kevin_Murphy,1.5,G,Murphy,Kevin,6'6'',78,1.98,195,88,3/6/1990,Tennessee Tech,UTA,55
+Jamaal Tinsley,http://en.wikipedia.org/wiki/Jamaal_Tinsley,1.5,G,Tinsley,Jamaal,6'3'',75,1.91,197,89,2/28/1978,Iowa State,UTA,6
+Earl Watson,http://en.wikipedia.org/wiki/Earl_Watson,1.5,G,Watson,Earl,6'1'',73,1.85,199,90,6/12/1979,UCLA,UTA,11
+Marvin Williams,http://en.wikipedia.org/wiki/Marvin_Williams,4,F,Williams,Marvin,6'9'',81,2.06,245,111,6/19/1986,North Carolina,UTA,2
+Mo Williams,http://en.wikipedia.org/wiki/Mo_Williams,1.5,G,Williams,Mo,6'1'',73,1.85,195,88,12/19/1982,Alabama,UTA,16
+A.J. Price,http://en.wikipedia.org/wiki/A.J._Price,,,A.J.,Price,6'2'',74,1.88,185,84,10/7/1986,Connecticut,WAS,12
+Trevor Ariza,http://en.wikipedia.org/wiki/Trevor_Ariza,4,F,Ariza,Trevor,6'8'',80,2.03,210,95,6/30/1985,UCLA,WAS,1
+Earl Barron,http://en.wikipedia.org/wiki/Earl_Barron,5,C,Barron,Earl,7'0,84,2.13,250,113,8/14/1981,Memphis,WAS,30
+Bradley Beal,http://en.wikipedia.org/wiki/Bradley_Beal,1.5,G,Beal,Bradley,6'5'',77,1.96,207,94,6/28/1993,Florida,WAS,3
+Trevor Booker,http://en.wikipedia.org/wiki/Trevor_Booker,4,F,Booker,Trevor,6'8'',80,2.03,240,109,11/25/1987,Clemson,WAS,35
+Jordan Crawford,http://en.wikipedia.org/wiki/Jordan_Crawford,1.5,G,Crawford,Jordan,6'4'',76,1.93,195,88,10/23/1988,Xavier,WAS,15
+Jannero_Pargo,http://en.wikipedia.org/wiki/Jannero_Pargo,,,Jannero,Pargo,6'1'',73,1.85,185,84,10/22/1979,Arkansas,WAS,7
+Cartier Martin,http://en.wikipedia.org/wiki/Cartier_Martin,2.5,G/F,Martin,Cartier,6'7'',79,2.01,220,100,11/20/1984,Kansas State,WAS,20
+Nenê,http://en.wikipedia.org/wiki/_Nenê,6,C,Nenê,,6'11'',83,2.11,250,113,9/13/1982,Brazil,WAS,42
+Emeka Okafor,http://en.wikipedia.org/wiki/Emeka_Okafor,6,C,Okafor,Emeka,6'10'',82,2.08,255,116,9/28/1982,Connecticut,WAS,50
+Kevin Seraphin,http://en.wikipedia.org/wiki/Kevin_Seraphin,5.5,F/C,Seraphin,Kevin,6'9'',81,2.06,275,125,12/7/1989,France,WAS,13
+Chris Singleton,http://en.wikipedia.org/wiki/Chris_Singleton,4,F,Singleton,Chris,6'8'',80,2.03,230,104,11/21/1989,Florida State,WAS,31
+Jan Veselý,http://en.wikipedia.org/wiki/Jan_Veselý,4,F,Veselý,Jan,6'11'',83,2.11,240,109,4/24/1990,Czech Republic,WAS,24
+John Wall,http://en.wikipedia.org/wiki/John_Wall,1.5,G,Wall,John,6'4'',76,1.93,195,88,9/6/1990,Kentucky,WAS,2
+Martell Webster,http://en.wikipedia.org/wiki/Martell_Webster,2.5,G/F,Webster,Martell,6'7,79,2.01,230,104,12/4/1986,Seattle Preparatory School HS,WAS,5
+Kelenna Azubuike,http://en.wikipedia.org/wiki/Kelenna_Azubuike,1.5,G,Azubuike,Kelenna,6'5'',77,1.96,215,98,12/16/1983,Kentucky,,
+Oscar Bellfield,http://en.wikipedia.org/wiki/Oscar_Bellfield,1,PG,Bellfield,Oscar,6'2,74,1.88,190,86,1/11/1990,UNLV,,0
+Jon Brockman,http://en.wikipedia.org/wiki/Jon_Brockman,4,F,Brockman,Jon,6'7'',79,2.01,255,116,3/20/1987,Washington,,
+Keyon Dooling,http://en.wikipedia.org/wiki/Keyon_Dooling,1.5,G,Dooling,Keyon,6'3'',75,1.91,195,88,5/8/1980,Missouri,,51
+Ronald Dupree,http://en.wikipedia.org/wiki/Ronald_Dupree,3,SF,Dupree,Ronald,6'7,79,2.01,210,95,1/26/1981,LSU,,
+Jerome Dyson,http://en.wikipedia.org/wiki/Jerome_Dyson,1.5,G,Dyson,Jerome,6'3'',75,1.91,180,82,5/1/1987,Connecticut,,
+Christian Eyenga,http://en.wikipedia.org/wiki/Christian_Eyenga,2.5,G/F,Eyenga,Christian,6'7'',79,2.01,210,95,6/22/1989,DR Congo,,88
+Gary Forbes,http://en.wikipedia.org/wiki/Gary_Forbes,3,SF,Forbes,Gary,6'7'',79,2.01,220,100,2/25/1985,Massachusetts,,
+Andrew Goudelock,http://en.wikipedia.org/wiki/Andrew_Goudelock,1.5,G,Goudelock,Andrew,6'3'',75,1.91,200,91,7/12/1988,College of Charleston,,0
+Donté Greene,http://en.wikipedia.org/wiki/Dont%C3%A9_Greene,3,F,Greene,Donté,6'11,83,2.11,226,103,2/21/2008,Syracuse,,20
+Justin Hamilton,http://en.wikipedia.org/wiki/Justin_Hamilton,6,C,Hamilton,Justin,7'0'',84,2.13,260,118,4/1/1990,LSU,,
+Justin Harper,http://en.wikipedia.org/wiki/Justin_Harper,5.5,F/C,Harper,Justin,6'10'',82,2.08,225,102,8/30/1989,Richmond,,32
+Lazar Hayward,http://en.wikipedia.org/wiki/Lazar_Hayward,4,F,Hayward,Lazar,6'6'',78,1.98,225,102,11/26/1986,Marquette,,11
+Robbie Hummel,http://en.wikipedia.org/wiki/Robbie_Hummel,2.5,G/F,Hummel,Robbie,6'8'',80,2.03,215,98,3/8/1989,Purdue,,6
+Damion James,http://en.wikipedia.org/wiki/Damion_James,3,SF,James,Damion,6'7,79,2.01,225,102,10/7/1989,Texas,,10
+JaJuan Johnson,http://en.wikipedia.org/wiki/JaJuan_Johnson,4,F,Johnson,JaJuan,6'10'',82,2.08,221,100,2/8/1989,Purdue,,
+Darius Johnson-Odom,http://en.wikipedia.org/wiki/Darius_Johnson-Odom,2,SG,Johnson-Odom,Darius,6'2'',74,1.88,200,91,9/28/1989,Marquette,,7
+Kevin Jones,http://en.wikipedia.org/wiki/Kevin_Jones_(basketball),3,SF,Jones,Kevin,6'8,80,2.03,260,118,8/28/1989,West Virginia,,5
+D.J. Kennedy,http://en.wikipedia.org/wiki/D.J._Kennedy,2.5,G/F,Kennedy,D.J.,6'5'',77,1.96,214,97,5/11/1989,St. John's,,
+Ognjen Kuzmic,http://en.wikipedia.org/wiki/Ognjen_Kuzmic,6,C,Kuzmic,Ognjen,7'1'',85,2.16,231,105,5/16/1990,Bosnia and Herzegovina,,
+Shaun Livingston,http://en.wikipedia.org/wiki/Shaun_Livingston,1.5,G,Livingston,Shaun,6'7'',79,2.01,175,79,9/11/1985,Peoria Central HS,,
+Shelvin Mack,http://en.wikipedia.org/wiki/Shelvin_Mack,1.5,G,Mack,Shelvin,6'3'',75,1.91,207,94,4/22/1990,Butler,,22
+Reeves Nelson,http://en.wikipedia.org/wiki/Reeves_Nelson,3,SF,Nelson,Reeves,6'8,80,2.03,235,107,9/18/1991,UCLA,,22
+Shavlik Randolph,http://en.wikipedia.org/wiki/Shavlik_Randolph,4,PF,Randolph,Shavlik,6'10,82,2.08,240,109,11/24/1983,Duke,,
+Andy Rautins,http://en.wikipedia.org/wiki/Andy_Rautins,2,SG,Rautins,Andy,6'4,76,1.93,190,86,11/2/2006,Syracuse,,
+Quentin Richardson,http://en.wikipedia.org/wiki/Quentin_Richardson,4,F,Richardson,Quentin,6'6'',78,1.98,228,103,4/13/1980,DePaul,,5
+Tomas Satoransky,http://en.wikipedia.org/wiki/Tomas_Satoransky,1.5,G,Satoransky,Tomas,6'7'',79,2.01,210,95,10/30/1991,Czech Republic,,14
+John Shurna,http://en.wikipedia.org/wiki/John_Shurna,3,SF,Shurna,John,6'9,81,2.06,215,98,4/30/1990,Northwestern,,24
+Henry Sims,http://en.wikipedia.org/wiki/Henry_Sims_(basketball),5,C,Sims,Henry,6'10,82,2.08,245,111,3/27/1990,Georgetown,,22
+Chris Smith,http://en.wikipedia.org/wiki/Chris_Smith,1.5,G,Smith,Chris,6'2'',74,1.88,195,88,10/13/1987,Louisville,,
+Greg Somogyi,http://en.wikipedia.org/wiki/Greg_Somogyi,5,C,Somogyi,Greg,7'3,87,2.21,242,110,10/1/1989,UCSB,,55
+Garrett Temple,http://en.wikipedia.org/wiki/Garrett_Temple,2,SG,Temple,Garret,6'6,78,1.98,195,88,5/8/1986,LSU,,
+Hollis Thompson,http://en.wikipedia.org/wiki/Hollis_Thompson,4,F,Thompson,Hollis,6'8'',80,2.03,212,96,4/3/1991,Georgetown,,21
+Mychel Thompson,http://en.wikipedia.org/wiki/Mychel_Thompson,2.5,SG/SF,Thompson,Mychel,6'6,78,1.98,211,96,6/1/1988,Pepperdine,,21
+Izzet Türkyilmaz,http://en.wikipedia.org/wiki/Izzet_Türkyilmaz,5.5,F/C,Türkyilmaz,Izzet,7'0'',84,2.13,211,96,5/20/1990,Turkey,,
+Delonte West,http://en.wikipedia.org/wiki/Delonte_West,1.5,G,West,Delonte,6'3'',75,1.91,180,82,7/26/1983,Saint Joseph's,,13
+Sean Williams,http://en.wikipedia.org/wiki/Sean_Williams,5.5,F/C,Williams,Sean,6'10'',82,2.08,235,107,9/13/1986,Boston College,,
+Jordan Williams,http://en.wikipedia.org/wiki/Jordan_Williams,5.5,F/C,Williams,Jordan,6'10'',82,2.08,260,118,10/11/1990,Maryland,,
