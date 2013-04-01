@@ -1,0 +1,33 @@
+"","League","Age_Group","Sport","Location_Value","Location_Type","Variable","Facet_Type","Facet_Value","Value_Type","Source","Period","Date","Value","Value_Details"
+"1",NA,"Youth","Basketball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,24,NA
+"2",NA,"Youth","Baseball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,13.8,NA
+"3",NA,"Youth","Soccer","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,13.7,NA
+"4",NA,"Youth","Touch Football","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,9,NA
+"5",NA,"Youth","Softball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,8.5,NA
+"6",NA,"Youth","Indoor Volleyball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,7.3,NA
+"7",NA,"Youth","Football","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,6.8,NA
+"8",NA,"Youth","Flag Football","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,6.6,NA
+"9",NA,"Youth","Indoor Soccer","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.9,NA
+"10",NA,"Youth","Grass Volleyball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.9,NA
+"11",NA,"Youth","Paintball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.6,NA
+"12",NA,"Youth","Beach Volleyball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.5,NA
+"13",NA,"Youth","Track and Field","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.4,NA
+"14",NA,"Youth","Ultimate Frisbee","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4.4,NA
+"15",NA,"Youth","Gymnastics","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,4,NA
+"16",NA,"Youth","Cheerleading","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,3,NA
+"17",NA,"Youth","Wrestling","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,3,NA
+"18",NA,"Youth","Fast Pitch Softball","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,2.6,NA
+"19",NA,"Youth","Ice hockey","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,2.1,NA
+"20",NA,"Youth","Roller hockey","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,1.4,NA
+"21",NA,"Youth","Lacrosse","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,1.2,NA
+"22",NA,"Youth","Field hockey","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,1.1,NA
+"23",NA,"Youth","Rugby","United States","Country","Participants",NA,NA,"Value_Millions","SGMA",2012,NA,0.765,NA
+"24","Little League Baseball","Youth","Baseball","United States","Country","Participants",NA,NA,"Value_Millions","Little League Baseball",2012,NA,2.7,NA
+"25","Babe Ruth League","Youth","Baseball","United States","Country","Participants",NA,NA,"Value_Millions","Babe Ruth League",2012,NA,0.8865,NA
+"26","PONY League Baseball","Youth","Baseball","United States","Country","Participants",NA,NA,"Value_Millions","PONY League Baseball",2012,NA,0.5,NA
+"27","Pop Warner","Youth","Football","United States","Country","Participants",NA,NA,"Value_Millions","Pop Warner",2012,NA,0.25,NA
+"28","American Youth Football","Youth","Football","United States","Country","Participants","Age","5 to 16","Value_Millions","American Youth Football",2012,NA,0.574,NA
+"29","American Youth Football","Youth","Football","United States","Country","Teams","Age","5 to 16","Value","American Youth Football",2012,NA,16000,NA
+"30","United States Soccer Federation","Youth","Soccer","United States","Country","Participants","Age","5 to 19","Value_Millions","United States Soccer Federation",2012,NA,3,NA
+"31","United States Soccer Federation","Youth","Soccer","United States","Country","Volunteers",NA,NA,"Value","United States Soccer Federation",2012,NA,0.6,NA
+"32","American Youth Soccer","Youth","Soccer","United States","Country","Participants",NA,NA,"Value_Millions","American Youth Soccer",2012,NA,0.65,NA

@@ -1,0 +1,206 @@
+"","League","Variable","Facet","Facet_Value","Value_Type","Source","Period","Date","Value","Value_Details"
+"1","NBA","Franchises","League",NA,"Franchises","NBA",NA,NA,30,NA
+"2","NBA","Total Regular Season Games","League",NA,"Games","NBA",NA,NA,1230,NA
+"3","NBA","Franchise Regular Season Home Games","League",NA,"Games","NBA",NA,NA,41,NA
+"4","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","1997-1998",NA,17135,NA
+"5","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","1998-1999",NA,16738,NA
+"6","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","1999-2000",NA,16135,NA
+"7","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2000-2001",NA,16784,NA
+"8","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2001-2002",NA,16974,NA
+"9","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2002-2003",NA,16883,NA
+"10","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2003-2004",NA,16994,NA
+"11","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2004-2005",NA,17314,NA
+"12","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2005-2006",NA,17543,NA
+"13","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2006-2007",NA,17760,NA
+"14","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2007-2008",NA,17311,NA
+"15","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2008-2009",NA,17520,NA
+"16","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2009-2010",NA,17149,NA
+"17","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2010-2011",NA,17323,NA
+"18","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2011-2012",NA,17273,NA
+"19","NBA","Average Home Game Attendance","League",NA,"Average Fans Per Game","NBA","2012-2013",2012-12-06,16594,NA
+"20","NBA","Average Home Game Attendance","Franchise","Chicago Bulls","Average Fans Per Game","NBA","2011-2012",NA,22161,NA
+"21","NBA","Average Home Game Attendance","Franchise","Portland Trailblazers","Average Fans Per Game","NBA","2011-2012",NA,20496,NA
+"22","NBA","Average Home Game Attendance","Franchise","Dallas Mavericks","Average Fans Per Game","NBA","2011-2012",NA,20334,NA
+"23","NBA","Average Home Game Attendance","Franchise","Miami Heat","Average Fans Per Game","NBA","2011-2012",NA,19935,NA
+"24","NBA","Average Home Game Attendance","Franchise","New York Knicks","Average Fans Per Game","NBA","2011-2012",NA,19763,NA
+"25","NBA","Average Home Game Attendance","Franchise","Utah Jazz","Average Fans Per Game","NBA","2011-2012",NA,19306,NA
+"26","NBA","Average Home Game Attendance","Franchise","Los Angeles Clippers","Average Fans Per Game","NBA","2011-2012",NA,19219,NA
+"27","NBA","Average Home Game Attendance","Franchise","Los Angeles Lakers","Average Fans Per Game","NBA","2011-2012",NA,18997,NA
+"28","NBA","Average Home Game Attendance","Franchise","Orlando Magic","Average Fans Per Game","NBA","2011-2012",NA,18896,NA
+"29","NBA","Average Home Game Attendance","Franchise","Golden State Warriors","Average Fans Per Game","NBA","2011-2012",NA,18857,NA
+"30","NBA","Average Home Game Attendance","Franchise","Boston Celtics","Average Fans Per Game","NBA","2011-2012",NA,18624,NA
+"31","NBA","Average Home Game Attendance","Franchise","San Antonio Spurs","Average Fans Per Game","NBA","2011-2012",NA,18396,NA
+"32","NBA","Average Home Game Attendance","Franchise","Oklahoma City Thunder","Average Fans Per Game","NBA","2011-2012",NA,18203,NA
+"33","NBA","Average Home Game Attendance","Franchise","Philadelphia 76ers","Average Fans Per Game","NBA","2011-2012",NA,17502,NA
+"34","NBA","Average Home Game Attendance","Franchise","Minnesota Timberwolves","Average Fans Per Game","NBA","2011-2012",NA,17490,NA
+"35","NBA","Average Home Game Attendance","Franchise","Denver Nuggets","Average Fans Per Game","NBA","2011-2012",NA,17029,NA
+"36","NBA","Average Home Game Attendance","Franchise","Toronto Raptors","Average Fans Per Game","NBA","2011-2012",NA,16835,NA
+"37","NBA","Average Home Game Attendance","Franchise","Washington Wizards","Average Fans Per Game","NBA","2011-2012",NA,16728,NA
+"38","NBA","Average Home Game Attendance","Franchise","Cleveland Cavaliers","Average Fans Per Game","NBA","2011-2012",NA,15926,NA
+"39","NBA","Average Home Game Attendance","Franchise","Memphis Grizzlies","Average Fans Per Game","NBA","2011-2012",NA,15704,NA
+"40","NBA","Average Home Game Attendance","Franchise","Phoenix Suns","Average Fans Per Game","NBA","2011-2012",NA,15597,NA
+"41","NBA","Average Home Game Attendance","Franchise","Houston Rockets","Average Fans Per Game","NBA","2011-2012",NA,15363,NA
+"42","NBA","Average Home Game Attendance","Franchise","Atlanta Hawks","Average Fans Per Game","NBA","2011-2012",NA,15199,NA
+"43","NBA","Average Home Game Attendance","Franchise","New Orleans Hornets","Average Fans Per Game","NBA","2011-2012",NA,15109,NA
+"44","NBA","Average Home Game Attendance","Franchise","Charlotte Bobcats","Average Fans Per Game","NBA","2011-2012",NA,14757,NA
+"45","NBA","Average Home Game Attendance","Franchise","Milwaukee Bucks","Average Fans Per Game","NBA","2011-2012",NA,14718,NA
+"46","NBA","Average Home Game Attendance","Franchise","Sacramento Kings","Average Fans Per Game","NBA","2011-2012",NA,14508,NA
+"47","NBA","Average Home Game Attendance","Franchise","Detroit Pistons","Average Fans Per Game","NBA","2011-2012",NA,14413,NA
+"48","NBA","Average Home Game Attendance","Franchise","Indiana Pacers","Average Fans Per Game","NBA","2011-2012",NA,14168,NA
+"49","NBA","Average Home Game Attendance","Franchise","New Jersey Nets","Average Fans Per Game","NBA","2011-2012",NA,13961,NA
+"50","NBA","Average Home Game Attendance","Franchise","Chicago Bulls","Average Fans Per Game","NBA","2012-2013",2012-12-06,21552,NA
+"51","NBA","Average Home Game Attendance","Franchise","Portland Trailblazers","Average Fans Per Game","NBA","2012-2013",2012-12-06,20221,NA
+"52","NBA","Average Home Game Attendance","Franchise","Miami Heat","Average Fans Per Game","NBA","2012-2013",2012-12-06,19915,NA
+"53","NBA","Average Home Game Attendance","Franchise","Dallas Mavericks","Average Fans Per Game","NBA","2012-2013",2012-12-06,19839,NA
+"54","NBA","Average Home Game Attendance","Franchise","Los Angeles Clippers","Average Fans Per Game","NBA","2012-2013",2012-12-06,19067,NA
+"55","NBA","Average Home Game Attendance","Franchise","New York Knicks","Average Fans Per Game","NBA","2012-2013",2012-12-06,19033,NA
+"56","NBA","Average Home Game Attendance","Franchise","Los Angeles Lakers","Average Fans Per Game","NBA","2012-2013",2012-12-06,18997,NA
+"57","NBA","Average Home Game Attendance","Franchise","Toronto Raptors","Average Fans Per Game","NBA","2012-2013",2012-12-06,18761,NA
+"58","NBA","Average Home Game Attendance","Franchise","Utah Jazz","Average Fans Per Game","NBA","2012-2013",2012-12-06,18720,NA
+"59","NBA","Average Home Game Attendance","Franchise","Boston Celtics","Average Fans Per Game","NBA","2012-2013",2012-12-06,18624,NA
+"60","NBA","Average Home Game Attendance","Franchise","Golden State Warriors","Average Fans Per Game","NBA","2012-2013",2012-12-06,18583,NA
+"61","NBA","Average Home Game Attendance","Franchise","San Antonio Spurs","Average Fans Per Game","NBA","2012-2013",2012-12-06,18291,NA
+"62","NBA","Average Home Game Attendance","Franchise","Oklahoma City Thunder","Average Fans Per Game","NBA","2012-2013",2012-12-06,18203,NA
+"63","NBA","Average Home Game Attendance","Franchise","Cleveland Cavaliers","Average Fans Per Game","NBA","2012-2013",2012-12-06,17814,NA
+"64","NBA","Average Home Game Attendance","Franchise","Orlando Magic","Average Fans Per Game","NBA","2012-2013",2012-12-06,17576,NA
+"65","NBA","Average Home Game Attendance","Franchise","Denver Nuggets","Average Fans Per Game","NBA","2012-2013",2012-12-06,17163,NA
+"66","NBA","Average Home Game Attendance","Franchise","Brooklyn Nets","Average Fans Per Game","NBA","2012-2013",2012-12-06,16974,NA
+"67","NBA","Average Home Game Attendance","Franchise","Minnesota Timberwolves","Average Fans Per Game","NBA","2012-2013",2012-12-06,16754,NA
+"68","NBA","Average Home Game Attendance","Franchise","Memphis Grizzlies","Average Fans Per Game","NBA","2012-2013",2012-12-06,16165,NA
+"69","NBA","Average Home Game Attendance","Franchise","Houston Rockets","Average Fans Per Game","NBA","2012-2013",2012-12-06,15850,NA
+"70","NBA","Average Home Game Attendance","Franchise","Washington Wizards","Average Fans Per Game","NBA","2012-2013",2012-12-06,15538,NA
+"71","NBA","Average Home Game Attendance","Franchise","Philadelphia 76ers","Average Fans Per Game","NBA","2012-2013",2012-12-06,15446,NA
+"72","NBA","Average Home Game Attendance","Franchise","Phoenix Suns","Average Fans Per Game","NBA","2012-2013",2012-12-06,15063,NA
+"73","NBA","Average Home Game Attendance","Franchise","Charlotte Bobcats","Average Fans Per Game","NBA","2012-2013",2012-12-06,14978,NA
+"74","NBA","Average Home Game Attendance","Franchise","Indiana Pacers","Average Fans Per Game","NBA","2012-2013",2012-12-06,14077,NA
+"75","NBA","Average Home Game Attendance","Franchise","Milwaukee Bucks","Average Fans Per Game","NBA","2012-2013",2012-12-06,14034,NA
+"76","NBA","Average Home Game Attendance","Franchise","New Orleans Hornets","Average Fans Per Game","NBA","2012-2013",2012-12-06,14033,NA
+"77","NBA","Average Home Game Attendance","Franchise","Atlanta Hawks","Average Fans Per Game","NBA","2012-2013",2012-12-06,13943,NA
+"78","NBA","Average Home Game Attendance","Franchise","Sacramento Kings","Average Fans Per Game","NBA","2012-2013",2012-12-06,12562,NA
+"79","NBA","Average Home Game Attendance","Franchise","Detroit Pistons","Average Fans Per Game","NBA","2012-2013",2012-12-06,12136,NA
+"80","NBA","Estimated Franchise Value","Franchise","Los Angeles Lakers","Dollars_Millions","Forbes","2012",2012-04-01,900,NA
+"81","NBA","Estimated Franchise Value","Franchise","New York Knicks","Dollars_Millions","Forbes","2012",2012-04-01,780,NA
+"82","NBA","Estimated Franchise Value","Franchise","Chicago Bulls","Dollars_Millions","Forbes","2012",2012-04-01,600,NA
+"83","NBA","Estimated Franchise Value","Franchise","Dallas Mavericks","Dollars_Millions","Forbes","2012",2012-04-01,497,NA
+"84","NBA","Estimated Franchise Value","Franchise","Boston Celtics","Dollars_Millions","Forbes","2012",2012-04-01,482,NA
+"85","NBA","Estimated Franchise Value","Franchise","Miami Heat","Dollars_Millions","Forbes","2012",2012-04-01,457,NA
+"86","NBA","Estimated Franchise Value","Franchise","Houston Rockets","Dollars_Millions","Forbes","2012",2012-04-01,453,NA
+"87","NBA","Estimated Franchise Value","Franchise","Golden State Warriors","Dollars_Millions","Forbes","2012",2012-04-01,450,NA
+"88","NBA","Estimated Franchise Value","Franchise","San Antonio Spurs","Dollars_Millions","Forbes","2012",2012-04-01,418,NA
+"89","NBA","Estimated Franchise Value","Franchise","Phoenix Suns","Dollars_Millions","Forbes","2012",2012-04-01,395,NA
+"90","NBA","Estimated Franchise Value","Franchise","Orlando Magic","Dollars_Millions","Forbes","2012",2012-04-01,385,NA
+"91","NBA","Estimated Franchise Value","Franchise","Toronto Raptors","Dollars_Millions","Forbes","2012",2012-04-01,382,NA
+"92","NBA","Estimated Franchise Value","Franchise","Portland Trail Blazers","Dollars_Millions","Forbes","2012",2012-04-01,370,NA
+"93","NBA","Estimated Franchise Value","Franchise","Brooklyn Nets","Dollars_Millions","Forbes","2012",2012-04-01,357,NA
+"94","NBA","Estimated Franchise Value","Franchise","Oklahoma City Thunder","Dollars_Millions","Forbes","2012",2012-04-01,348,NA
+"95","NBA","Estimated Franchise Value","Franchise","Utah Jazz","Dollars_Millions","Forbes","2012",2012-04-01,335,NA
+"96","NBA","Estimated Franchise Value","Franchise","Detroit Pistons","Dollars_Millions","Forbes","2012",2012-04-01,332,NA
+"97","NBA","Estimated Franchise Value","Franchise","Cleveland Cavaliers","Dollars_Millions","Forbes","2012",2012-04-01,329,NA
+"98","NBA","Estimated Franchise Value","Franchise","Washington Wizards","Dollars_Millions","Forbes","2012",2012-04-01,328,NA
+"99","NBA","Estimated Franchise Value","Franchise","Los Angeles Clippers","Dollars_Millions","Forbes","2012",2012-04-01,324,NA
+"100","NBA","Estimated Franchise Value","Franchise","Denver Nuggets","Dollars_Millions","Forbes","2012",2012-04-01,316,NA
+"101","NBA","Estimated Franchise Value","Franchise","Philadelphia 76ers","Dollars_Millions","Forbes","2012",2012-04-01,314,NA
+"102","NBA","Estimated Franchise Value","Franchise","Sacramento Kings","Dollars_Millions","Forbes","2012",2012-04-01,300,NA
+"103","NBA","Estimated Franchise Value","Franchise","New Orleans Hornets","Dollars_Millions","Forbes","2012",2012-04-01,285,NA
+"104","NBA","Estimated Franchise Value","Franchise","Indiana Pacers","Dollars_Millions","Forbes","2012",2012-04-01,283,NA
+"105","NBA","Estimated Franchise Value","Franchise","Charlotte Bobcats","Dollars_Millions","Forbes","2012",2012-04-01,277,NA
+"106","NBA","Estimated Franchise Value","Franchise","Minnesota Timberwolves","Dollars_Millions","Forbes","2012",2012-04-01,272,NA
+"107","NBA","Estimated Franchise Value","Franchise","Atlanta Hawks","Dollars_Millions","Forbes","2012",2012-04-01,270,NA
+"108","NBA","Estimated Franchise Value","Franchise","Memphis Grizzlies","Dollars_Millions","Forbes","2012",2012-04-01,269,NA
+"109","NBA","Estimated Franchise Value","Franchise","Milwaukee Bucks","Dollars_Millions","Forbes","2012",2012-04-01,268,NA
+"110","NBA","Franchise Transaction","Franchise","Boston Celtics","Dollars_Millions","NBA","2003",NA,360,NA
+"111","NBA","Franchise Transaction","Franchise","Phoenix Suns","Dollars_Millions","NBA","2004",NA,401,NA
+"112","NBA","Franchise Transaction","Franchise","New Jersey Nets","Dollars_Millions","NBA","2004",NA,300,"Price for 80% stake in the team and 45% of the Brooklyn arena at Atlantic Yards; includes $180 million in assumed debt"
+"113","NBA","Franchise Transaction","Franchise","Atlanta Hawks/Thrashers","Dollars_Millions","NBA","2004",NA,250,"Total price for sale of NBA and NHL teams, which were sold together"
+"114","NBA","Franchise Transaction","Franchise","Cleveland Cavaliers","Dollars_Millions","NBA","2005",NA,375,NA
+"115","NBA","Franchise Transaction","Franchise","Oklahoma City Thunder","Dollars_Millions","NBA","2006",NA,350,NA
+"116","NBA","Franchise Transaction","Franchise","New Jersey Nets","Dollars_Millions","NBA","2009",NA,380,"."
+"117","NBA","Franchise Transaction","Franchise","Charlotte Bobcats","Dollars_Millions","NBA","2010",NA,270,NA
+"118","NBA","Franchise Transaction","Franchise","Golden State Warriors","Dollars_Millions","NBA","2010",NA,450,NA
+"119","NBA","Franchise Transaction","Franchise","Philadelphia 76ers","Dollars_Millions","NBA","2011",NA,280,NA
+"120","NBA","Franchise Transaction","Franchise","Memphis Grizzlies","Dollars_Millions","NBA","2012",NA,350,"."
+"121","NBA","Average Ticket","Franchise","New York Knicks","Dollars","Team Marketing Report","2011-2012",NA,117.47,NA
+"122","NBA","Average Ticket","Franchise","Los Angeles Lakers","Dollars","Team Marketing Report","2011-2012",NA,99.25,NA
+"123","NBA","Average Ticket","Franchise","Miami Heat","Dollars","Team Marketing Report","2011-2012",NA,67,NA
+"124","NBA","Average Ticket","Franchise","Chicago Bulls","Dollars","Team Marketing Report","2011-2012",NA,68.37,NA
+"125","NBA","Average Ticket","Franchise","Boston Celtics","Dollars","Team Marketing Report","2011-2012",NA,68.55,NA
+"126","NBA","Average Ticket","Franchise","Phoenix Suns","Dollars","Team Marketing Report","2011-2012",NA,60.63,NA
+"127","NBA","Average Ticket","Franchise","Los Angeles Clippers","Dollars","Team Marketing Report","2011-2012",NA,51.47,NA
+"128","NBA","Average Ticket","Franchise","San Antonio Spurs","Dollars","Team Marketing Report","2011-2012",NA,58.48,NA
+"129","NBA","Average Ticket","Franchise","Toronto Raptors","Dollars","Team Marketing Report","2011-2012",NA,46.98,NA
+"130","NBA","Average Ticket","Franchise","Dallas Mavericks","Dollars","Team Marketing Report","2011-2012",NA,49.45,NA
+"131","NBA","Average Ticket","Franchise","Portland Trail Blazers","Dollars","Team Marketing Report","2011-2012",NA,48.4,NA
+"132","NBA","Average Ticket","Franchise","Denver Nuggets","Dollars","Team Marketing Report","2011-2012",NA,47.3,NA
+"133","NBA","Average Ticket","Franchise","Milwaukee Bucks","Dollars","Team Marketing Report","2011-2012",NA,46,NA
+"134","NBA","Average Ticket","Franchise","Oklahoma City Thunder","Dollars","Team Marketing Report","2011-2012",NA,47.15,NA
+"135","NBA","Average Ticket","Franchise","Sacramento Kings","Dollars","Team Marketing Report","2011-2012",NA,48.17,NA
+"136","NBA","Average Ticket","Franchise","Cleveland Cavaliers","Dollars","Team Marketing Report","2011-2012",NA,48.62,NA
+"137","NBA","Average Ticket","Franchise","Orlando Magic","Dollars","Team Marketing Report","2011-2012",NA,43.65,NA
+"138","NBA","Average Ticket","Franchise","New Jersey Nets","Dollars","Team Marketing Report","2011-2012",NA,37.06,NA
+"139","NBA","Average Ticket","Franchise","Houston Rockets","Dollars","Team Marketing Report","2011-2012",NA,41,NA
+"140","NBA","Average Ticket","Franchise","Utah Jazz","Dollars","Team Marketing Report","2011-2012",NA,42.1,NA
+"141","NBA","Average Ticket","Franchise","Philadelphia 76ers","Dollars","Team Marketing Report","2011-2012",NA,39.25,NA
+"142","NBA","Average Ticket","Franchise","Detroit Pistons","Dollars","Team Marketing Report","2011-2012",NA,41.26,NA
+"143","NBA","Average Ticket","Franchise","Golden State Warriors","Dollars","Team Marketing Report","2011-2012",NA,34.13,NA
+"144","NBA","Average Ticket","Franchise","Atlanta Hawks","Dollars","Team Marketing Report","2011-2012",NA,36.13,NA
+"145","NBA","Average Ticket","Franchise","Minnesota Timberwolves","Dollars","Team Marketing Report","2011-2012",NA,31.5,NA
+"146","NBA","Average Ticket","Franchise","New Orleans Hornets","Dollars","Team Marketing Report","2011-2012",NA,30.49,NA
+"147","NBA","Average Ticket","Franchise","Washington Wizards","Dollars","Team Marketing Report","2011-2012",NA,23.64,NA
+"148","NBA","Average Ticket","Franchise","Indiana Pacers","Dollars","Team Marketing Report","2011-2012",NA,30.59,NA
+"149","NBA","Average Ticket","Franchise","Charlotte Bobcats","Dollars","Team Marketing Report","2011-2012",NA,29.27,NA
+"150","NBA","Average Ticket","Franchise","Memphis Grizzlies","Dollars","Team Marketing Report","2011-2012",NA,22.95,NA
+"151","NBA","Fan Cost Index","Franchise","New York Knicks","Dollars","Team Marketing Report","2011-2012",NA,608.78,NA
+"152","NBA","Fan Cost Index","Franchise","Los Angeles Lakers","Dollars","Team Marketing Report","2011-2012",NA,514,NA
+"153","NBA","Fan Cost Index","Franchise","Miami Heat","Dollars","Team Marketing Report","2011-2012",NA,423,NA
+"154","NBA","Fan Cost Index","Franchise","Chicago Bulls","Dollars","Team Marketing Report","2011-2012",NA,393.98,NA
+"155","NBA","Fan Cost Index","Franchise","Boston Celtics","Dollars","Team Marketing Report","2011-2012",NA,392.6,NA
+"156","NBA","Fan Cost Index","Franchise","Phoenix Suns","Dollars","Team Marketing Report","2011-2012",NA,346.52,NA
+"157","NBA","Fan Cost Index","Franchise","Los Angeles Clippers","Dollars","Team Marketing Report","2011-2012",NA,322.88,NA
+"158","NBA","Fan Cost Index","Franchise","San Antonio Spurs","Dollars","Team Marketing Report","2011-2012",NA,319.34,NA
+"159","NBA","Fan Cost Index","Franchise","Toronto Raptors","Dollars","Team Marketing Report","2011-2012",NA,319.32,NA
+"160","NBA","Fan Cost Index","Franchise","Dallas Mavericks","Dollars","Team Marketing Report","2011-2012",NA,311.78,NA
+"161","NBA","Fan Cost Index","Franchise","Portland Trail Blazers","Dollars","Team Marketing Report","2011-2012",NA,296.58,NA
+"162","NBA","Fan Cost Index","Franchise","Denver Nuggets","Dollars","Team Marketing Report","2011-2012",NA,295.7,NA
+"163","NBA","Fan Cost Index","Franchise","Milwaukee Bucks","Dollars","Team Marketing Report","2011-2012",NA,289,NA
+"164","NBA","Fan Cost Index","Franchise","Oklahoma City Thunder","Dollars","Team Marketing Report","2011-2012",NA,280.6,NA
+"165","NBA","Fan Cost Index","Franchise","Sacramento Kings","Dollars","Team Marketing Report","2011-2012",NA,277.68,NA
+"166","NBA","Fan Cost Index","Franchise","Cleveland Cavaliers","Dollars","Team Marketing Report","2011-2012",NA,275.98,NA
+"167","NBA","Fan Cost Index","Franchise","Orlando Magic","Dollars","Team Marketing Report","2011-2012",NA,275.9,NA
+"168","NBA","Fan Cost Index","Franchise","New Jersey Nets","Dollars","Team Marketing Report","2011-2012",NA,272.74,NA
+"169","NBA","Fan Cost Index","Franchise","Houston Rockets","Dollars","Team Marketing Report","2011-2012",NA,271.46,NA
+"170","NBA","Fan Cost Index","Franchise","Utah Jazz","Dollars","Team Marketing Report","2011-2012",NA,271.36,NA
+"171","NBA","Fan Cost Index","Franchise","Philadelphia 76ers","Dollars","Team Marketing Report","2011-2012",NA,263.9,NA
+"172","NBA","Fan Cost Index","Franchise","Detroit Pistons","Dollars","Team Marketing Report","2011-2012",NA,257.04,NA
+"173","NBA","Fan Cost Index","Franchise","Golden State Warriors","Dollars","Team Marketing Report","2011-2012",NA,252.5,NA
+"174","NBA","Fan Cost Index","Franchise","Atlanta Hawks","Dollars","Team Marketing Report","2011-2012",NA,238.52,NA
+"175","NBA","Fan Cost Index","Franchise","Minnesota Timberwolves","Dollars","Team Marketing Report","2011-2012",NA,225.5,NA
+"176","NBA","Fan Cost Index","Franchise","New Orleans Hornets","Dollars","Team Marketing Report","2011-2012",NA,217.96,NA
+"177","NBA","Fan Cost Index","Franchise","Washington Wizards","Dollars","Team Marketing Report","2011-2012",NA,212.54,NA
+"178","NBA","Fan Cost Index","Franchise","Indiana Pacers","Dollars","Team Marketing Report","2011-2012",NA,208.74,NA
+"179","NBA","Fan Cost Index","Franchise","Charlotte Bobcats","Dollars","Team Marketing Report","2011-2012",NA,203.06,NA
+"180","NBA","Fan Cost Index","Franchise","Memphis Grizzlies","Dollars","Team Marketing Report","2011-2012",NA,192.8,NA
+"181","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2007",NA,6.8,NA
+"182","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2008",NA,6.3,NA
+"183","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2009",NA,7.6,NA
+"184","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2010",NA,6.8,NA
+"185","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2011",NA,9.1,NA
+"186","NBA","Average Rating","Event","All Star Game","Average Rating","The Nielsen Company","2012",NA,8.2,NA
+"187","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2007",NA,6.2,NA
+"188","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2008",NA,9.3,NA
+"189","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2009",NA,8.4,NA
+"190","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2010",NA,10.6,NA
+"191","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2011",NA,10.2,NA
+"192","NBA","Average Rating","Event","NBA Finals","Average Rating","The Nielsen Company","2012",NA,10.1,NA
+"193","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2007",NA,4,NA
+"194","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2008",NA,6,NA
+"195","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2009",NA,5,NA
+"196","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2010",NA,7,NA
+"197","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2011",NA,6,NA
+"198","NBA","Number of Games","Event","NBA Finals","Average Rating","The Nielsen Company","2012",NA,5,NA
+"199","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2007",NA,9.3,NA
+"200","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2008",NA,14.9,NA
+"201","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2009",NA,14.3,NA
+"202","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2010",NA,18.1,NA
+"203","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2011",NA,17.4,NA
+"204","NBA","Television Viewers","Event","NBA Finals","Average_Viewers_Millions","The Nielsen Company","2012",NA,16.9,NA
+"205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

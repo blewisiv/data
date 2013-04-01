@@ -1,0 +1,146 @@
+"","League","Variable","Facet_Type","Facet_Value","Value_Type","Source","Period","Date","Value","Value_Details","NA.","NA..1"
+"1","NHL","Franchises","League",NA,"Franchises","NHL",NA,NA,"30",NA,NA," "
+"2","NHL","Total Regular Season Games","League",NA,"Games","NHL",NA,NA,"1230",NA,NA," "
+"3","NHL","Franchise Regular Season Home Games","League",NA,"Games","NHL",NA,NA,"31",NA,NA," "
+"4","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2000-2001",NA,"16563",NA,NA," "
+"5","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2001-2002",NA,"16760",NA,NA," "
+"6","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2002-2003",NA,"16592",NA,NA," "
+"7","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2003-2004",NA,"16533",NA,NA," "
+"8","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2004-2005",NA,"NA","Season Canceled",NA," "
+"9","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2005-2006",NA,"16954",NA,NA," "
+"10","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2006-2007",NA,"16956",NA,NA," "
+"11","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2007-2008",NA,"17308",NA,NA," "
+"12","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2008-2009",NA,"17460",NA,NA," "
+"13","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2009-2010",NA,"17070",NA,NA," "
+"14","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2010-2011",NA,"17132",NA,NA," "
+"15","NHL","Average Home Game Attendance","League","League","Average Fans Per Game","NHL","2011-2012",NA,"16737",NA,NA," "
+"16","NHL","Average Home Game Attendance","Franchise","Chicago Blackhawks","Average Fans Per Game","NHL","2011-2012",NA,"21553",NA,NA," "
+"17","NHL","Average Home Game Attendance","Franchise","Montreal Canadiens","Average Fans Per Game","NHL","2011-2012",NA,"21273",NA,NA," "
+"18","NHL","Average Home Game Attendance","Franchise","Philadelphia Flyers","Average Fans Per Game","NHL","2011-2012",NA,"20433",NA,NA," "
+"19","NHL","Average Home Game Attendance","Franchise","Detroit Red Wings","Average Fans Per Game","NHL","2011-2012",NA,"20114",NA,NA," "
+"20","NHL","Average Home Game Attendance","Franchise","Toronto Maple Leafs","Average Fans Per Game","NHL","2011-2012",NA,"19506",NA,NA," "
+"21","NHL","Average Home Game Attendance","Franchise","Ottawa Senators","Average Fans Per Game","NHL","2011-2012",NA,"19356",NA,NA," "
+"22","NHL","Average Home Game Attendance","Franchise","Calgary Flames","Average Fans Per Game","NHL","2011-2012",NA,"19289",NA,NA," "
+"23","NHL","Average Home Game Attendance","Franchise","Vancouver Canucks","Average Fans Per Game","NHL","2011-2012",NA,"18884",NA,NA," "
+"24","NHL","Average Home Game Attendance","Franchise","St. Louis Blues","Average Fans Per Game","NHL","2011-2012",NA,"18809",NA,NA," "
+"25","NHL","Average Home Game Attendance","Franchise","Pittsburgh Penguins","Average Fans Per Game","NHL","2011-2012",NA,"18566",NA,NA," "
+"26","NHL","Average Home Game Attendance","Franchise","Buffalo Sabres","Average Fans Per Game","NHL","2011-2012",NA,"18550",NA,NA," "
+"27","NHL","Average Home Game Attendance","Franchise","Washington Capitals","Average Fans Per Game","NHL","2011-2012",NA,"18506",NA,NA," "
+"28","NHL","Average Home Game Attendance","Franchise","Tampa Bay Lightning","Average Fans Per Game","NHL","2011-2012",NA,"18468",NA,NA," "
+"29","NHL","Average Home Game Attendance","Franchise","New York Rangers","Average Fans Per Game","NHL","2011-2012",NA,"18191",NA,NA," "
+"30","NHL","Average Home Game Attendance","Franchise","Los Angeles Kings","Average Fans Per Game","NHL","2011-2012",NA,"17920",NA,NA," "
+"31","NHL","Average Home Game Attendance","Franchise","Minnesota Wild","Average Fans Per Game","NHL","2011-2012",NA,"17772",NA,NA,NA
+"32","NHL","Average Home Game Attendance","Franchise","Boston Bruins","Average Fans Per Game","NHL","2011-2012",NA,"17564",NA,NA,NA
+"33","NHL","Average Home Game Attendance","Franchise","San Jose Sharks","Average Fans Per Game","NHL","2011-2012",NA,"17562",NA,NA,NA
+"34","NHL","Average Home Game Attendance","Franchise","Edmonton Oilers","Average Fans Per Game","NHL","2011-2012",NA,"16839",NA,NA,NA
+"35","NHL","Average Home Game Attendance","Franchise","Nashville Predators","Average Fans Per Game","NHL","2011-2012",NA,"16690",NA,NA,NA
+"36","NHL","Average Home Game Attendance","Franchise","Florida Panthers","Average Fans Per Game","NHL","2011-2012",NA,"16628",NA,NA,NA
+"37","NHL","Average Home Game Attendance","Franchise","Carolina Hurricanes","Average Fans Per Game","NHL","2011-2012",NA,"16042",NA,NA,NA
+"38","NHL","Average Home Game Attendance","Franchise","Colorado Avalanche","Average Fans Per Game","NHL","2011-2012",NA,"15498",NA,NA,NA
+"39","NHL","Average Home Game Attendance","Franchise","New Jersey Devils","Average Fans Per Game","NHL","2011-2012",NA,"15396",NA,NA,NA
+"40","NHL","Average Home Game Attendance","Franchise","Winnipeg Jets","Average Fans Per Game","NHL","2011-2012",NA,"15004",NA,NA,NA
+"41","NHL","Average Home Game Attendance","Franchise","Anaheim Ducks","Average Fans Per Game","NHL","2011-2012",NA,"14760",NA,NA,NA
+"42","NHL","Average Home Game Attendance","Franchise","Columbus Blue Jackets","Average Fans Per Game","NHL","2011-2012",NA,"14660",NA,NA,NA
+"43","NHL","Average Home Game Attendance","Franchise","Dallas Stars","Average Fans Per Game","NHL","2011-2012",NA,"14226",NA,NA,NA
+"44","NHL","Average Home Game Attendance","Franchise","New York Islanders","Average Fans Per Game","NHL","2011-2012",NA,"13191",NA,NA,NA
+"45","NHL","Average Home Game Attendance","Franchise","Phoenix Coyotes","Average Fans Per Game","NHL","2011-2012",NA,"12420",NA,NA,NA
+"46","NHL","Franchise Transaction","Franchise","Ottawa Senators","Dollars_Millions","NHL","2003",NA,"110",NA,NA,NA
+"47","NHL","Franchise Transaction","Franchise","Buffalo Sabres","Dollars_Millions","NHL","2003",NA,"92",NA,NA,NA
+"48","NHL","Franchise Transaction","Franchise","Atlanta Thrashers/Hawks","Dollars_Millions","NHL","2004",NA,"250","*  total price for sale of NHL and NBA teams, which were sold together",NA,NA
+"49","NHL","Franchise Transaction","Franchise","St. Louis Blues","Dollars_Millions","NHL","2006",NA,"150",NA,NA,NA
+"50","NHL","Franchise Transaction","Franchise","Nashville Predators","Dollars_Millions","NHL","2007",NA,"193",NA,NA,NA
+"51","NHL","Franchise Transaction","Franchise","Phoenix Coyotes","Dollars_Millions","NHL","2009",NA,"140",NA,NA,NA
+"52","NHL","Franchise Transaction","Franchise","Montreal Canadiens","Dollars_Millions","NHL","2009",NA,"575","** includes Bell Centre Arena",NA,NA
+"53","NHL","Franchise Transaction","Franchise","Tampa Bay Lightening","Dollars_Millions","NHL","2010",NA,"93",NA,NA,NA
+"54","NHL","Franchise Transaction","Franchise","Atlanta Thrashers","Dollars_Millions","NHL","2011",NA,"110",NA,NA,NA
+"55","NHL","Franchise Transaction","Franchise","Toronto Maple Leafs","Dollars_Millions","NHL","2012",NA,"1300","*** includes Maple Leaf Sports & Entertainment network",NA,NA
+"56",NA,"Average Ticket","Franchise","Toronto Maple Leafs","Dollars","Team Marketing Report","2011-2012",NA,"123.77",NA,NA,NA
+"57",NA,"Average Ticket","Franchise","Montreal Canadiens","Dollars","Team Marketing Report",NA,NA,"88.67",NA,NA,NA
+"58",NA,"Average Ticket","Franchise","Winnipeg Jets","Dollars","Team Marketing Report",NA,NA,"98.27",NA,NA,NA
+"59",NA,"Average Ticket","Franchise","New York Rangers","Dollars","Team Marketing Report",NA,NA,"66.2",NA,NA,NA
+"60",NA,"Average Ticket","Franchise","Calgary Flames","Dollars","Team Marketing Report",NA,NA,"68.18",NA,NA,NA
+"61",NA,"Average Ticket","Franchise","Vancouver Canucks","Dollars","Team Marketing Report",NA,NA,"68.38",NA,NA,NA
+"62",NA,"Average Ticket","Franchise","Edmonton Oilers","Dollars","Team Marketing Report",NA,NA,"70.13",NA,NA,NA
+"63",NA,"Average Ticket","Franchise","Chicago Blackhawks","Dollars","Team Marketing Report",NA,NA,"55.72",NA,NA,NA
+"64",NA,"Average Ticket","Franchise","Philadelphia Flyers","Dollars","Team Marketing Report",NA,NA,"66.89",NA,NA,NA
+"65",NA,"Average Ticket","Franchise","Washington Capitals","Dollars","Team Marketing Report",NA,NA,"62.42",NA,NA,NA
+"66",NA,"Average Ticket","Franchise","Boston Bruins","Dollars","Team Marketing Report",NA,NA,"58.94",NA,NA,NA
+"67",NA,"Average Ticket","Franchise","Minnesota Wild","Dollars","Team Marketing Report",NA,NA,"62.63",NA,NA,NA
+"68",NA,"Average Ticket","Franchise","Pittsburgh Penguins","Dollars","Team Marketing Report",NA,NA,"63.06",NA,NA,NA
+"69",NA,"Average Ticket","Franchise","Florida Panthers","Dollars","Team Marketing Report",NA,NA,"55.67",NA,NA,NA
+"70",NA,"Average Ticket","Franchise","Ottawa Senators","Dollars","Team Marketing Report",NA,NA,"55.51",NA,NA,NA
+"71",NA,"Average Ticket","Franchise","Anaheim Ducks","Dollars","Team Marketing Report",NA,NA,"45.68",NA,NA,NA
+"72",NA,"Average Ticket","Franchise","Los Angeles Kings","Dollars","Team Marketing Report",NA,NA,"51.92",NA,NA,NA
+"73",NA,"Average Ticket","Franchise","San Jose Sharks","Dollars","Team Marketing Report",NA,NA,"49.73",NA,NA,NA
+"74",NA,"Average Ticket","Franchise","Detroit Red Wings","Dollars","Team Marketing Report",NA,NA,"53.28",NA,NA,NA
+"75",NA,"Average Ticket","Franchise","New York Islanders","Dollars","Team Marketing Report",NA,NA,"49.06",NA,NA,NA
+"76",NA,"Average Ticket","Franchise","Nashville Predators","Dollars","Team Marketing Report",NA,NA,"51.04",NA,NA,NA
+"77",NA,"Average Ticket","Franchise","New Jersey Devils","Dollars","Team Marketing Report",NA,NA,"45.86",NA,NA,NA
+"78",NA,"Average Ticket","Franchise","Columbus Blue Jackets","Dollars","Team Marketing Report",NA,NA,"47.95",NA,NA,NA
+"79",NA,"Average Ticket","Franchise","Carolina Hurricanes","Dollars","Team Marketing Report",NA,NA,"41.58",NA,NA,NA
+"80",NA,"Average Ticket","Franchise","St. Louis Blues","Dollars","Team Marketing Report",NA,NA,"41.57",NA,NA,NA
+"81",NA,"Average Ticket","Franchise","Colorado Avalanche","Dollars","Team Marketing Report",NA,NA,"40.62",NA,NA,NA
+"82",NA,"Average Ticket","Franchise","Buffalo Sabres","Dollars","Team Marketing Report",NA,NA,"38.28",NA,NA,NA
+"83",NA,"Average Ticket","Franchise","Tampa Bay Lightning","Dollars","Team Marketing Report",NA,NA,"37.73",NA,NA,NA
+"84",NA,"Average Ticket","Franchise","Phoenix Coyotes","Dollars","Team Marketing Report",NA,NA,"36.15",NA,NA,NA
+"85",NA,"Average Ticket","Franchise","Dallas Stars","Dollars","Team Marketing Report",NA,NA,"29.95",NA,NA,NA
+"86",NA,"Average Premium Ticket","Franchise","Toronto Maple Leafs","Dollars","Team Marketing Report",NA,NA,"199.41",NA,NA,NA
+"87",NA,"Average Premium Ticket","Franchise","Montreal Canadiens","Dollars","Team Marketing Report",NA,NA,"133.89",NA,NA,NA
+"88",NA,"Average Premium Ticket","Franchise","Winnipeg Jets","Dollars","Team Marketing Report",NA,NA,"176.5",NA,NA,NA
+"89",NA,"Average Premium Ticket","Franchise","New York Rangers","Dollars","Team Marketing Report",NA,NA,"307.35",NA,NA,NA
+"90",NA,"Average Premium Ticket","Franchise","Calgary Flames","Dollars","Team Marketing Report",NA,NA,"152.52",NA,NA,NA
+"91",NA,"Average Premium Ticket","Franchise","Vancouver Canucks","Dollars","Team Marketing Report",NA,NA,"145.19",NA,NA,NA
+"92",NA,"Average Premium Ticket","Franchise","Edmonton Oilers","Dollars","Team Marketing Report",NA,NA,"182.66",NA,NA,NA
+"93",NA,"Average Premium Ticket","Franchise","Chicago Blackhawks","Dollars","Team Marketing Report",NA,NA,"124.8",NA,NA,NA
+"94",NA,"Average Premium Ticket","Franchise","Philadelphia Flyers","Dollars","Team Marketing Report",NA,NA,"172.66",NA,NA,NA
+"95",NA,"Average Premium Ticket","Franchise","Washington Capitals","Dollars","Team Marketing Report",NA,NA,"208.18",NA,NA,NA
+"96",NA,"Average Premium Ticket","Franchise","Boston Bruins","Dollars","Team Marketing Report",NA,NA,"115.18",NA,NA,NA
+"97",NA,"Average Premium Ticket","Franchise","Minnesota Wild","Dollars","Team Marketing Report",NA,NA,"99.38",NA,NA,NA
+"98",NA,"Average Premium Ticket","Franchise","Pittsburgh Penguins","Dollars","Team Marketing Report",NA,NA,"159.5",NA,NA,NA
+"99",NA,"Average Premium Ticket","Franchise","Florida Panthers","Dollars","Team Marketing Report",NA,NA,"85.68",NA,NA,NA
+"100",NA,"Average Premium Ticket","Franchise","Ottawa Senators","Dollars","Team Marketing Report",NA,NA,"124.9",NA,NA,NA
+"101",NA,"Average Premium Ticket","Franchise","Anaheim Ducks","Dollars","Team Marketing Report",NA,NA,"103.11",NA,NA,NA
+"102",NA,"Average Premium Ticket","Franchise","Los Angeles Kings","Dollars","Team Marketing Report",NA,NA,"107.68",NA,NA,NA
+"103",NA,"Average Premium Ticket","Franchise","San Jose Sharks","Dollars","Team Marketing Report",NA,NA,"112.68",NA,NA,NA
+"104",NA,"Average Premium Ticket","Franchise","Detroit Red Wings","Dollars","Team Marketing Report",NA,NA,"66.48",NA,NA,NA
+"105",NA,"Average Premium Ticket","Franchise","New York Islanders","Dollars","Team Marketing Report",NA,NA,"97.24",NA,NA,NA
+"106",NA,"Average Premium Ticket","Franchise","Nashville Predators","Dollars","Team Marketing Report",NA,NA,"113.5",NA,NA,NA
+"107",NA,"Average Premium Ticket","Franchise","New Jersey Devils","Dollars","Team Marketing Report",NA,NA,"163.2",NA,NA,NA
+"108",NA,"Average Premium Ticket","Franchise","Columbus Blue Jackets","Dollars","Team Marketing Report",NA,NA,"98.92",NA,NA,NA
+"109",NA,"Average Premium Ticket","Franchise","Carolina Hurricanes","Dollars","Team Marketing Report",NA,NA,"79.66",NA,NA,NA
+"110",NA,"Average Premium Ticket","Franchise","St. Louis Blues","Dollars","Team Marketing Report",NA,NA,"135.4",NA,NA,NA
+"111",NA,"Average Premium Ticket","Franchise","Colorado Avalanche","Dollars","Team Marketing Report",NA,NA,"119.33",NA,NA,NA
+"112",NA,"Average Premium Ticket","Franchise","Buffalo Sabres","Dollars","Team Marketing Report",NA,NA,"79.82",NA,NA,NA
+"113",NA,"Average Premium Ticket","Franchise","Tampa Bay Lightning","Dollars","Team Marketing Report",NA,NA,"144.79",NA,NA,NA
+"114",NA,"Average Premium Ticket","Franchise","Phoenix Coyotes","Dollars","Team Marketing Report",NA,NA,"120.18",NA,NA,NA
+"115",NA,"Average Premium Ticket","Franchise","Dallas Stars","Dollars","Team Marketing Report",NA,NA,"94.38",NA,NA,NA
+"116",NA,"Fan Cost Index","Franchise","Toronto Maple Leafs","Dollars","Team Marketing Report",NA,NA,"626.45",NA,NA,NA
+"117",NA,"Fan Cost Index","Franchise","Montreal Canadiens","Dollars","Team Marketing Report",NA,NA,"486.28",NA,NA,NA
+"118",NA,"Fan Cost Index","Franchise","Winnipeg Jets","Dollars","Team Marketing Report",NA,NA,"485.52",NA,NA,NA
+"119",NA,"Fan Cost Index","Franchise","New York Rangers","Dollars","Team Marketing Report",NA,NA,"393.8",NA,NA,NA
+"120",NA,"Fan Cost Index","Franchise","Calgary Flames","Dollars","Team Marketing Report",NA,NA,"374.51",NA,NA,NA
+"121",NA,"Fan Cost Index","Franchise","Vancouver Canucks","Dollars","Team Marketing Report",NA,NA,"371.94",NA,NA,NA
+"122",NA,"Fan Cost Index","Franchise","Edmonton Oilers","Dollars","Team Marketing Report",NA,NA,"369.48",NA,NA,NA
+"123",NA,"Fan Cost Index","Franchise","Chicago Blackhawks","Dollars","Team Marketing Report",NA,NA,"367.38",NA,NA,NA
+"124",NA,"Fan Cost Index","Franchise","Philadelphia Flyers","Dollars","Team Marketing Report",NA,NA,"364.56",NA,NA,NA
+"125",NA,"Fan Cost Index","Franchise","Washington Capitals","Dollars","Team Marketing Report",NA,NA,"354.67",NA,NA,NA
+"126",NA,"Fan Cost Index","Franchise","Boston Bruins","Dollars","Team Marketing Report",NA,NA,"352.26",NA,NA,NA
+"127",NA,"Fan Cost Index","Franchise","Minnesota Wild","Dollars","Team Marketing Report",NA,NA,"346.01",NA,NA,NA
+"128",NA,"Fan Cost Index","Franchise","Pittsburgh Penguins","Dollars","Team Marketing Report",NA,NA,"335.25",NA,NA,NA
+"129",NA,"Fan Cost Index","Franchise","Florida Panthers","Dollars","Team Marketing Report",NA,NA,"316.58",NA,NA,NA
+"130",NA,"Fan Cost Index","Franchise","Ottawa Senators","Dollars","Team Marketing Report",NA,NA,"314.06",NA,NA,NA
+"131",NA,"Fan Cost Index","Franchise","Anaheim Ducks","Dollars","Team Marketing Report",NA,NA,"309.72",NA,NA,NA
+"132",NA,"Fan Cost Index","Franchise","Los Angeles Kings","Dollars","Team Marketing Report",NA,NA,"304.66",NA,NA,NA
+"133",NA,"Fan Cost Index","Franchise","San Jose Sharks","Dollars","Team Marketing Report",NA,NA,"304.42",NA,NA,NA
+"134",NA,"Fan Cost Index","Franchise","Detroit Red Wings","Dollars","Team Marketing Report",NA,NA,"304.12",NA,NA,NA
+"135",NA,"Fan Cost Index","Franchise","New York Islanders","Dollars","Team Marketing Report",NA,NA,"288.74",NA,NA,NA
+"136",NA,"Fan Cost Index","Franchise","Nashville Predators","Dollars","Team Marketing Report",NA,NA,"288.67",NA,NA,NA
+"137",NA,"Fan Cost Index","Franchise","New Jersey Devils","Dollars","Team Marketing Report",NA,NA,"281.95",NA,NA,NA
+"138",NA,"Fan Cost Index","Franchise","Columbus Blue Jackets","Dollars","Team Marketing Report",NA,NA,"278.31",NA,NA,NA
+"139",NA,"Fan Cost Index","Franchise","Carolina Hurricanes","Dollars","Team Marketing Report",NA,NA,"251.83",NA,NA,NA
+"140",NA,"Fan Cost Index","Franchise","St. Louis Blues","Dollars","Team Marketing Report",NA,NA,"249.27",NA,NA,NA
+"141",NA,"Fan Cost Index","Franchise","Colorado Avalanche","Dollars","Team Marketing Report",NA,NA,"242.96",NA,NA,NA
+"142",NA,"Fan Cost Index","Franchise","Buffalo Sabres","Dollars","Team Marketing Report",NA,NA,"231",NA,NA,NA
+"143",NA,"Fan Cost Index","Franchise","Tampa Bay Lightning","Dollars","Team Marketing Report",NA,NA,"228.93",NA,NA,NA
+"144",NA,"Fan Cost Index","Franchise","Phoenix Coyotes","Dollars","Team Marketing Report",NA,NA,"228.61",NA,NA,NA
+"145",NA,"Fan Cost Index","Franchise","Dallas Stars","Dollars","Team Marketing Report",NA,NA,"223.78",NA,NA,NA
