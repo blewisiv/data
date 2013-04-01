@@ -1,6 +1,0 @@
-modelData$UnconfirmedCupSize<-grepl("\\?",x=modelData$ModelCupSize)
-modelData$ModelCupSize<-gsub(pattern="\\?","",modelData$ModelCupSize)
-write.csv(modelData,"Cleansed SI Model Data.csv")
-library(sqldf)
-boobs<-sqldf("select ModelCupSize as 'Cup Size', COUNT(ModelCupSize) as 'Count' from modelData group by ModelCupSize ORDER BY COUNT(ModelCupSize) DESC")
-write.csv(boobs,"Cup Size Counts.csv")
