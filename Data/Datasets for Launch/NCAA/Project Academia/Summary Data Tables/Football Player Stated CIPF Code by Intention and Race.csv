@@ -1,0 +1,104 @@
+"","CIPF.Code","CIPFamilyTitle","ID_Race","ID_Major_Type","N"
+"1","AG","Agriculture, Agriculture Operations, and Related Sciences","AA","A",20
+"2","AG","Agriculture, Agriculture Operations, and Related Sciences","C","A",15
+"3","AG","Agriculture, Agriculture Operations, and Related Sciences","H","A",1
+"4","AG","Agriculture, Agriculture Operations, and Related Sciences","H","I",1
+"5","AG","Agriculture, Agriculture Operations, and Related Sciences","C","I",1
+"6","NATRESC","Natural Resources and Conservation","C","A",5
+"7","NATRESC","Natural Resources and Conservation","H","A",1
+"8","ARCH","Architecture and Related Services","AA","A",1
+"9","ETHNIC","Area, Ethnic, Cultural, Gender, and Group Studies","PI","A",2
+"10","ETHNIC","Area, Ethnic, Cultural, Gender, and Group Studies","AA","A",14
+"11","ETHNIC","Area, Ethnic, Cultural, Gender, and Group Studies","C","A",1
+"12","COMM","Communication, Journalism, and Related Programs","C","A",62
+"13","COMM","Communication, Journalism, and Related Programs","AA","A",85
+"14","COMM","Communication, Journalism, and Related Programs","O","A",1
+"15","COMM","Communication, Journalism, and Related Programs","C","I",5
+"16","COMM","Communication, Journalism, and Related Programs","PI","A",4
+"17","COMM","Communication, Journalism, and Related Programs","H","A",3
+"18","COMM","Communication, Journalism, and Related Programs","AA","I",1
+"19","COMTECH","Communications Technologies/technicians and Support Services","AA","A",1
+"20","COMP","Computer and Information Sciences and Support Services","AA","A",8
+"21","COMP","Computer and Information Sciences and Support Services","AA","I",1
+"22","COMP","Computer and Information Sciences and Support Services","C","A",4
+"23","EDUC","Education","C","A",15
+"24","EDUC","Education","AA","A",14
+"25","EDUC","Education","AA","I",1
+"26","EDUC","Education","C","I",1
+"27","ENGIN","Engineering","C","A",53
+"28","ENGIN","Engineering","AA","A",21
+"29","ENGIN","Engineering","C","I",9
+"30","ENGIN","Engineering","AA","I",4
+"31","ENGINTECH","Engineering Technologies and Engineering-related Fields","C","I",1
+"32","ENGINTECH","Engineering Technologies and Engineering-related Fields","C","A",3
+"33","FORLAN","Foreign Languages, Literatures, and Linguistics","AA","A",1
+"34","FAMSCI","Family and Consumer Sciences/human Sciences","AA","A",36
+"35","FAMSCI","Family and Consumer Sciences/human Sciences","C","A",20
+"36","FAMSCI","Family and Consumer Sciences/human Sciences","H","A",2
+"37","ENG","English Language and Literature/letters","AA","A",5
+"38","ENG","English Language and Literature/letters","C","A",2
+"39","LIBART","Liberal Arts and Sciences, General Studies and Humanities","AA","A",223
+"40","LIBART","Liberal Arts and Sciences, General Studies and Humanities","C","A",173
+"41","LIBART","Liberal Arts and Sciences, General Studies and Humanities","PI","A",26
+"42","LIBART","Liberal Arts and Sciences, General Studies and Humanities","H","A",5
+"43","LIBART","Liberal Arts and Sciences, General Studies and Humanities","AA","I",1
+"44","BIO","Biological and Biomedical Sciences","C","I",6
+"45","BIO","Biological and Biomedical Sciences","AA","A",9
+"46","BIO","Biological and Biomedical Sciences","C","A",29
+"47","BIO","Biological and Biomedical Sciences","H","A",2
+"48","BIO","Biological and Biomedical Sciences","AA","I",1
+"49","MATH","Mathematics and Statistics","AA","A",1
+"50","GENSTUD","Multi/interdisciplinary Studies","AA","A",4
+"51","GENSTUD","Multi/interdisciplinary Studies","C","A",17
+"52","GENSTUD","Multi/interdisciplinary Studies","H","A",1
+"53","PARKS","Parks, Recreation, Leisure, and Fitness Studies","AA","A",105
+"54","PARKS","Parks, Recreation, Leisure, and Fitness Studies","PI","A",3
+"55","PARKS","Parks, Recreation, Leisure, and Fitness Studies","C","I",10
+"56","PARKS","Parks, Recreation, Leisure, and Fitness Studies","C","A",105
+"57","PARKS","Parks, Recreation, Leisure, and Fitness Studies","AA","I",6
+"58","PARKS","Parks, Recreation, Leisure, and Fitness Studies","H","A",5
+"59","CTZ","Citizenship Activities","AA","A",5
+"60","PHIL","Philosophy and Religious Studies","AA","A",5
+"61","PHIL","Philosophy and Religious Studies","C","A",3
+"62","PHIL","Philosophy and Religious Studies","C","I",1
+"63","PHYSSCI","Physical Sciences","C","A",4
+"64","PSYC","Psychology","AA","A",25
+"65","PSYC","Psychology","C","A",17
+"66","PSYC","Psychology","AA","I",3
+"67","PSYC","Psychology","H","A",2
+"68","PSYC","Psychology","PI","A",1
+"69","SECURITY","Homeland Security, Law Enforcement, Firefighting and Related Protective Services","AA","A",28
+"70","SECURITY","Homeland Security, Law Enforcement, Firefighting and Related Protective Services","C","A",9
+"71","SECURITY","Homeland Security, Law Enforcement, Firefighting and Related Protective Services","C","I",4
+"72","SECURITY","Homeland Security, Law Enforcement, Firefighting and Related Protective Services","AA","I",2
+"73","PUBADMIN","Public Administration and Social Service Professions","C","A",8
+"74","PUBADMIN","Public Administration and Social Service Professions","AA","A",3
+"75","SOCI","Social Sciences","C","A",99
+"76","SOCI","Social Sciences","AA","A",169
+"77","SOCI","Social Sciences","PI","A",9
+"78","SOCI","Social Sciences","C","I",9
+"79","SOCI","Social Sciences","AA","I",6
+"80","SOCI","Social Sciences","H","A",7
+"81","TRANS","Transportation and Materials Moving","C","A",2
+"82","ARTS","Visual and Performing Arts","AA","I",1
+"83","ARTS","Visual and Performing Arts","PI","A",2
+"84","ARTS","Visual and Performing Arts","AA","A",11
+"85","ARTS","Visual and Performing Arts","C","A",6
+"86","HEALTH","Health Professions and Related Programs","AA","A",6
+"87","HEALTH","Health Professions and Related Programs","AA","I",3
+"88","HEALTH","Health Professions and Related Programs","C","A",6
+"89","HEALTH","Health Professions and Related Programs","C","I",1
+"90","HEALTH","Health Professions and Related Programs","O","A",1
+"91","BIZMAN","Business, Management, Marketing, and Related Support Services","AA","A",87
+"92","BIZMAN","Business, Management, Marketing, and Related Support Services","C","A",169
+"93","BIZMAN","Business, Management, Marketing, and Related Support Services","C","I",31
+"94","BIZMAN","Business, Management, Marketing, and Related Support Services","H","A",4
+"95","BIZMAN","Business, Management, Marketing, and Related Support Services","H","I",2
+"96","BIZMAN","Business, Management, Marketing, and Related Support Services","AA","I",9
+"97","BIZMAN","Business, Management, Marketing, and Related Support Services","PI","A",3
+"98","BIZMAN","Business, Management, Marketing, and Related Support Services","AS","A",1
+"99","BIZMAN","Business, Management, Marketing, and Related Support Services","PI","I",1
+"100","BIZMAN","Business, Management, Marketing, and Related Support Services","O","A",1
+"101","HIST","History","AA","A",7
+"102","HIST","History","C","A",14
+"103","HIST","History","AS","A",1
