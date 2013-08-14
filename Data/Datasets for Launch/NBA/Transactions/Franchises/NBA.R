@@ -76,5 +76,6 @@ b$subtitle(text = "Aragorn Technologies and Alex Bresler")
 b
 b$params$width<-800
 b$params$height<-500
-b
+
+	b
 b$publish('History of NBA Transactions',host='gist')
