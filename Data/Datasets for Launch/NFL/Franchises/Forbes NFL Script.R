@@ -59,9 +59,8 @@ b$plotOptions(
 
 b$xAxis(title = list(text = "Year"), labels = list(format = "{value}"))
 b$yAxis(title = list(text = "Valuation Millions"), labels = list(format = "${value}"))
-b$tooltip(useHTML = T, formatter = "#! function() { return this.point.name+c; } !#")
-b
-	b$title(text = "Forbes NFL Franchise Valuation Explore 1991-2013")
+b$tooltip(useHTML = T, formatter = "#! function() { return this.point.name; } !#")
+b$title(text = "Forbes NFL Franchise Valuation Explore 1991-2013")
 b$subtitle(text = "Alex Bresler")
 b$params$width <- 800
 b$params$height <- 550
@@ -107,4 +106,5 @@ b$params$height <- 550
 			)
 
 			
+b
 b$publish('Forbes NFL Valuation History Explorer',host='gist')
