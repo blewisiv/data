@@ -57,7 +57,7 @@ write.csv(tables06to12,'NHL Values 2006 to 2012.csv')
 setwd("~/Desktop/AragornTech Google Drive/Google Drive/Data/RodsSportsBusinessData/RodsSportsBusinessData/NHL/NHLTeamValues/Forbes")
 
 library(gdata)
-team_data = ldply(list.files(pattern = "xls"), function(fname) {
+nba_team_data = ldply(list.files(pattern = "xls"), function(fname) {
 	dum = read.xls(fname,sheet=1)
 	dum$fname = fname  # adds the filename it was read from as a column
 	return(dum)
