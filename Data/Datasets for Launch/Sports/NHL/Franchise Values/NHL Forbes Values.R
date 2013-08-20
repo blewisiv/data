@@ -52,7 +52,7 @@ tables06$year <- 2006
 tables06 <- tables06[-1,]
 
 tables06to12<-rbind(tables06,tables07,tables08,tables09,tables10,tables11,tables12)
-write.csv(tables06to12,'NHL Values 2006 to 2012.csv')
+
 
 setwd("~/Desktop/AragornTech Google Drive/Google Drive/Data/RodsSportsBusinessData/RodsSportsBusinessData/NHL/NHLTeamValues/Forbes")
 
@@ -62,3 +62,11 @@ team_data = ldply(list.files(pattern = "xls"), function(fname) {
 	dum$fname = fname  # adds the filename it was read from as a column
 	return(dum)
 })
+
+nhl$comments <- NULL
+nhl$debt_value <- ((as.numeric(nhl$debt_percent)) / 100) * as.numeric(gsub(",","",nhl$value))
+nhl$value_change <- as.numeric(nhl$value_change)/100
+nhl$expense <- nhl$revenue-nhl$operating_income
+nhl <- nhl[order(nhl$year,decreasing=T) , ]
+
+write.csv(nhl,'NHL Values 1991 to 2012.csv')
