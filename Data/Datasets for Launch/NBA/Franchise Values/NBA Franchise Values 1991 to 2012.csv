@@ -1,578 +1,1 @@
-"","team","year","rank","value","value_change","debt","debt_percent","revenue","expense","operating_income","player_expense","gate_receipt"
-"11","New York Knicks",2012,"1",1100,0.41,0,"0",243,159.8,83.2,NA,NA
-"35","San Antonio Spurs",2012,"10",527,0.26,47.43,"9",135,120.3,14.7,NA,NA
-"52","Sacramento Kings",2012,"11",525,0.75,99.75,"19",96,93.4,2.6,NA,NA
-"80","Oklahoma City Thunder",2012,"12",475,0.36,137.75,"29",127,97.1,29.9,NA,NA
-"94","Phoenix Suns",2012,"13",474,0.2,184.86,"39",121,108,13,NA,NA
-"110","Orlando Magic",2012,"14",470,0.22,122.2,"26",126,114,12,NA,NA
-"131","Portland Trail Blazers",2012,"15",457,0.24,105.11,"23",117,127.1,-10.1,NA,NA
-"143","Cleveland Cavaliers",2012,"16",434,0.32,199.64,"46",128,109.4,18.6,NA,NA
-"179","Utah Jazz",2012,"17",432,0.29,0,"0",111,98.9,12.1,NA,NA
-"187","Los Angeles Clippers",2012,"18",430,0.33,0,"0",108,98.9,9.1,NA,NA
-"205","Denver Nuggets",2012,"19",427,0.35,21.35,"5",110,98,12,NA,NA
-"225","Los Angeles Lakers",2012,"2",1000,0.11,110,"11",197,149.2,47.8,NA,NA
-"255","Philadelphia 76ers",2012,"20",418,0.33,150.48,"36",107,107.8,-0.8,NA,NA
-"276","Toronto Raptors",2012,"21",405,0.06,162,"40",121,102.2,18.8,NA,NA
-"283","Detroit Pistons",2012,"22",400,0.2,184,"46",125,117.3,7.7,NA,NA
-"317","Washington Wizards",2012,"23",397,0.21,131.01,"33",102,100.3,1.7,NA,NA
-"327","Indiana Pacers",2012,"24",383,0.35,149.37,"39",98,87.1,10.9,NA,NA
-"354","Memphis Grizzlies",2012,"25",377,0.4,109.33,"29",96,108.5,-12.5,NA,NA
-"367","Minnesota Timberwolves",2012,"26",364,0.34,76.44,"21",96,100.5,-4.5,NA,NA
-"399","New Orleans Hornets",2012,"27",340,0.19,125.8,"37",100,96.7,3.3,NA,NA
-"402","Atlanta Hawks",2012,"28",316,0.17,237,"75",99,117.7,-18.7,NA,NA
-"430","Charlotte Bobcats",2012,"29",315,0.14,151.2,"48",93,106.3,-13.3,NA,NA
-"443","Chicago Bulls",2012,"3",800,0.33,56,"7",162,127.8,34.2,NA,NA
-"455","Milwaukee Bucks",2012,"30",312,0.16,56.16,"18",87,87.5,-0.5,NA,NA
-"459","Boston Celtics",2012,"4",730,0.51,160.6,"22",143,124.3,18.7,NA,NA
-"481","Dallas Mavericks",2012,"5",685,0.38,198.65,"29",137,124,13,NA,NA
-"511","Miami Heat",2012,"6",625,0.37,112.5,"18",150,135.1,14.9,NA,NA
-"527","Houston Rockets",2012,"7",568,0.25,102.24,"18",135,108.4,26.6,NA,NA
-"542","Golden State Warriors",2012,"8",555,0.23,149.85,"27",127,97.9,29.1,NA,NA
-"577","Brooklyn Nets",2012,"9",530,0.48,280.9,"53",84,100.6,-16.6,NA,NA
-"10","Los Angeles Lakers",2011,"1",900,0.4,117,"13",208,183.7,24.3,NA,NA
-"28","Phoenix Suns",2011,"10",395,-0.04,185.65,"47",136,122.9,13.1,NA,NA
-"48","Orlando Magic",2011,"11",385,0,119.35,"31",140,156,-16,NA,NA
-"77","Toronto Raptors",2011,"12",382,-0.04,129.88,"34",134,126.6,7.4,NA,NA
-"95","Portland Trail Blazers",2011,"13",370,0.04,103.6,"28",132,140.1,-8.1,NA,NA
-"108","New Jersey Nets",2011,"14",357,0.14,282.03,"79",89,112.6,-23.6,NA,NA
-"140","Oklahoma City Thunder",2011,"15",348,0.06,139.2,"40",126,101.5,24.5,NA,NA
-"155","Utah Jazz",2011,"16",335,-0.02,10.05,"3",120,136.4,-16.4,NA,NA
-"168","Detroit Pistons",2011,"17",332,-0.08,185.92,"56",141,131.3,9.7,NA,NA
-"181","Cleveland Cavaliers",2011,"18",329,-0.07,200.69,"61",149,116.1,32.9,NA,NA
-"218","Washington Wizards",2011,"19",328,0.02,131.2,"40",109,112.4,-3.4,NA,NA
-"237","New York Knicks",2011,"2",780,0.19,0,"0",244,169.1,74.9,NA,NA
-"249","Los Angeles Clippers",2011,"20",324,0.06,0,"0",108,98.6,9.4,NA,NA
-"266","Denver Nuggets",2011,"21",316,0,25.28,"8",113,114.2,-1.2,NA,NA
-"295","Philadelphia 76ers",2011,"22",314,-0.05,150.72,"48",116,126.3,-10.3,NA,NA
-"313","Sacramento Kings",2011,"23",300,0.02,99,"33",104,97.6,6.4,NA,NA
-"337","New Orleans Hornets",2011,"24",285,0.02,299.25,"105",109,111.7,-2.7,NA,NA
-"346","Indiana Pacers",2011,"25",283,0.05,149.99,"53",101,111.5,-10.5,NA,NA
-"380","Charlotte Bobcats",2011,"26",277,-0.01,149.58,"54",101,126.5,-25.5,NA,NA
-"394","Minnesota Timberwolves",2011,"27",272,0.03,76.16,"28",97,103.8,-6.8,NA,NA
-"401","Atlanta Hawks",2011,"28",270,-0.08,243,"90",109,123.7,-14.7,NA,NA
-"426","Memphis Grizzlies",2011,"29",269,0.01,150.64,"56",99,123.8,-24.8,NA,NA
-"442","Chicago Bulls",2011,"3",600,0.17,54,"9",185,125.6,59.4,NA,NA
-"453","Milwaukee Bucks",2011,"30",268,0.04,56.28,"21",92,99.6,-7.6,NA,NA
-"467","Dallas Mavericks",2011,"4",497,0.13,198.8,"40",166,169.9,-3.9,NA,NA
-"478","Boston Celtics",2011,"5",482,0.07,178.34,"37",146,138.3,7.7,NA,NA
-"510","Miami Heat",2011,"6",457,0.08,155.38,"34",158,132,26,NA,NA
-"526","Houston Rockets",2011,"7",453,0.02,99.66,"22",150,132.1,17.9,NA,NA
-"541","Golden State Warriors",2011,"8",450,0.24,148.5,"33",139,116.8,22.2,NA,NA
-"571","San Antonio Spurs",2011,"9",418,0.03,50.16,"12",139,124.6,14.4,NA,NA
-"19","New York Knicks",2010,"1",655,0.12,0,"0",226,162,64,NA,NA
-"37","Toronto Raptors",2010,"10",399,0.03,135.66,"34",138,112.7,25.3,NA,NA
-"49","Orlando Magic",2010,"11",385,0.06,111.65,"29",108,131.1,-23.1,NA,NA
-"61","Golden State Warriors",2010,"12",363,0.15,148.83,"41",119,104.7,14.3,NA,NA
-"85","Detroit Pistons",2010,"13",360,-0.25,0,"0",147,115.2,31.8,NA,NA
-"113","Portland Trail Blazers",2010,"14",356,0.05,106.8,"30",127,116.3,10.7,NA,NA
-"123","Cleveland Cavaliers",2010,"15",355,-0.26,198.8,"56",161,158.4,2.6,NA,NA
-"157","Utah Jazz",2010,"16",343,0,17.15,"5",121,124.9,-3.9,NA,NA
-"175","Philadelphia 76ers",2010,"17",330,-0.04,75.9,"23",110,111.2,-1.2,NA,NA
-"200","Oklahoma City Thunder",2010,"18",329,0.06,141.47,"43",118,95.4,22.6,NA,NA
-"217","Washington Wizards",2010,"19",322,0.03,128.8,"40",107,112.2,-5.2,NA,NA
-"230","Los Angeles Lakers",2010,"2",643,0.06,122.17,"19",214,180.6,33.4,NA,NA
-"245","Denver Nuggets",2010,"20",316,-0.02,28.44,"9",113,124.7,-11.7,NA,NA
-"274","New Jersey Nets",2010,"21",312,0.16,698.88,"224",89,99.2,-10.2,NA,NA
-"287","Los Angeles Clippers",2010,"22",305,0.03,0,"0",102,91,11,NA,NA
-"302","Atlanta Hawks",2010,"23",295,-0.04,185.85,"63",105,112.3,-7.3,NA,NA
-"335","Sacramento Kings",2010,"24",293,-0.04,93.76,"32",103,112.8,-9.8,NA,NA
-"359","Charlotte Bobcats",2010,"25",281,0.01,148.93,"53",98,118,-20,NA,NA
-"378","New Orleans Hornets",2010,"26",280,0.05,193.2,"69",100,105.9,-5.9,NA,NA
-"387","Indiana Pacers",2010,"27",269,-0.04,150.64,"56",95,111.9,-16.9,NA,NA
-"411","Memphis Grizzlies",2010,"28",266,0.04,148.96,"56",92,94.6,-2.6,NA,NA
-"423","Minnesota Timberwolves",2010,"29",264,-0.01,50.16,"19",95,101.7,-6.7,NA,NA
-"440","Chicago Bulls",2010,"3",511,0,56.21,"11",169,117.7,51.3,NA,NA
-"452","Milwaukee Bucks",2010,"30",258,0.02,54.18,"21",92,94,-2,NA,NA
-"458","Boston Celtics",2010,"4",452,0.05,180.8,"40",151,146.8,4.2,NA,NA
-"484","Houston Rockets",2010,"5",443,-0.06,70.88,"16",153,117.1,35.9,NA,NA
-"504","Dallas Mavericks",2010,"6",438,-0.02,201.48,"46",146,153.8,-7.8,NA,NA
-"529","Miami Heat",2010,"7",425,0.17,161.5,"38",124,129.9,-5.9,NA,NA
-"548","Phoenix Suns",2010,"8",411,-0.04,184.95,"45",147,126.6,20.4,NA,NA
-"570","San Antonio Spurs",2010,"9",404,0.01,40.4,"10",135,139.7,-4.7,NA,NA
-"9","Los Angeles Lakers",2009,"1",607,0.04,121.4,"20",209,157.9,51.1,NA,NA
-"32","San Antonio Spurs",2009,"10",398,-0.04,47.76,"12",133,113.9,19.1,NA,NA
-"56","Toronto Raptors",2009,"11",386,-0.03,146.68,"38",133,115,18,NA,NA
-"66","Miami Heat",2009,"12",364,-0.07,163.8,"45",126,118,8,NA,NA
-"91","Orlando Magic",2009,"13",361,0.04,108.3,"30",107,109.2,-2.2,NA,NA
-"111","Philadelphia 76ers",2009,"14",344,-0.04,65.36,"19",115,107.4,7.6,NA,NA
-"133","Utah Jazz",2009,"15",343,-0.04,20.58,"6",118,110.1,7.9,NA,NA
-"150","Portland Trail Blazers",2009,"16",338,0.1,104.78,"31",121,141.3,-20.3,NA,NA
-"167","Denver Nuggets",2009,"17",321,-0.03,35.31,"11",115,110.4,4.6,NA,NA
-"183","Golden State Warriors",2009,"18",315,-0.06,75.6,"24",113,101.1,11.9,NA,NA
-"216","Washington Wizards",2009,"19",313,-0.11,194.06,"62",110,105.1,4.9,NA,NA
-"236","New York Knicks",2009,"2",586,-0.04,0,"0",202,181,21,NA,NA
-"260","Oklahoma City Thunder",2009,"20",310,0.03,139.5,"45",111,98.3,12.7,NA,NA
-"261","Atlanta Hawks",2009,"21",306,0,64.26,"21",103,105,-2,NA,NA
-"296","Sacramento Kings",2009,"22",305,-0.13,94.55,"31",109,111.8,-2.8,NA,NA
-"308","Los Angeles Clippers",2009,"23",295,-0.01,0,"0",102,92,10,NA,NA
-"326","Indiana Pacers",2009,"24",281,-0.07,50.58,"18",97,112.7,-15.7,NA,NA
-"358","Charlotte Bobcats",2009,"25",278,-0.02,161.24,"58",96,111.1,-15.1,NA,NA
-"368","New Jersey Nets",2009,"26",269,-0.09,207.13,"77",92,105.9,-13.9,NA,NA
-"393","Minnesota Timberwolves",2009,"27",268,-0.11,50.92,"19",96,102.8,-6.8,NA,NA
-"413","New Orleans Hornets",2009,"28",267,-0.06,146.85,"55",95,95.1,-0.1,NA,NA
-"425","Memphis Grizzlies",2009,"29",257,-0.13,149.06,"58",88,95.1,-7.1,NA,NA
-"441","Chicago Bulls",2009,"3",511,0.02,56.21,"11",168,117,51,NA,NA
-"451","Milwaukee Bucks",2009,"30",254,-0.09,55.88,"22",91,98.4,-7.4,NA,NA
-"469","Detroit Pistons",2009,"4",479,0,0,"0",171,124.1,46.9,NA,NA
-"479","Cleveland Cavaliers",2009,"5",476,0,199.92,"42",159,154,5,NA,NA
-"509","Houston Rockets",2009,"6",470,0,70.5,"15",160,129.7,30.3,NA,NA
-"521","Dallas Mavericks",2009,"7",446,-0.04,115.96,"26",154,171.4,-17.4,NA,NA
-"539","Boston Celtics",2009,"8",433,-0.03,181.86,"42",144,131.1,12.9,NA,NA
-"567","Phoenix Suns",2009,"9",429,-0.05,184.47,"43",148,127.3,20.7,NA,NA
-"18","New York Knicks",2008,"1",613,0.01,0,"0",208,178.4,29.6,NA,NA
-"34","San Antonio Spurs",2008,"10",415,0.03,53.95,"13",138,119,19,NA,NA
-"57","Toronto Raptors",2008,"11",400,0.07,160,"40",138,110.3,27.7,NA,NA
-"67","Miami Heat",2008,"12",393,-0.06,168.99,"43",131,132.1,-1.1,NA,NA
-"92","Philadelphia 76ers",2008,"13",360,-0.05,64.8,"18",116,115.7,0.3,NA,NA
-"118","Utah Jazz",2008,"14",358,0.05,10.74,"3",119,110.2,8.8,NA,NA
-"136","Washington Wizards",2008,"15",353,0.02,165.91,"47",118,103.1,14.9,NA,NA
-"152","Sacramento Kings",2008,"16",350,-0.09,84,"24",117,110,7,NA,NA
-"174","Orlando Magic",2008,"17",349,0.08,101.21,"29",100,93.8,6.2,NA,NA
-"184","Golden State Warriors",2008,"18",335,0.08,73.7,"22",112,97.8,14.2,NA,NA
-"204","Denver Nuggets",2008,"19",329,0.03,46.06,"14",112,138.3,-26.3,NA,NA
-"229","Los Angeles Lakers",2008,"2",584,0.04,128.48,"22",191,143.1,47.9,NA,NA
-"256","Portland Trail Blazers",2008,"20",307,0.21,104.38,"34",114,114.9,-0.9,NA,NA
-"262","Atlanta Hawks",2008,"21",306,0.07,70.38,"23",102,95.3,6.7,NA,NA
-"285","Indiana Pacers",2008,"22",303,-0.09,48.48,"16",101,107.5,-6.5,NA,NA
-"310","Minnesota Timberwolves",2008,"23",301,-0.02,51.17,"17",100,105.7,-5.7,NA,NA
-"340","Oklahoma City Thunder",2008,"24",300,0.12,141,"47",82,91.4,-9.4,NA,NA
-"348","Los Angeles Clippers",2008,"25",297,0.01,0,"0",99,88.3,10.7,NA,NA
-"369","New Jersey Nets",2008,"26",295,-0.13,209.45,"71",98,98.9,-0.9,NA,NA
-"397","Memphis Grizzlies",2008,"27",294,-0.03,149.94,"51",95,98.2,-3.2,NA,NA
-"414","New Orleans Hornets",2008,"28",285,0.05,99.75,"35",95,91.8,3.2,NA,NA
-"429","Charlotte Bobcats",2008,"29",284,-0.01,150.52,"53",95,99.9,-4.9,NA,NA
-"439","Chicago Bulls",2008,"3",504,0.01,55.44,"11",165,109.6,55.4,NA,NA
-"454","Milwaukee Bucks",2008,"30",278,0.05,55.6,"20",94,88.6,5.4,NA,NA
-"470","Detroit Pistons",2008,"4",480,0.01,0,"0",160,119.6,40.4,NA,NA
-"480","Cleveland Cavaliers",2008,"5",477,0.05,200.34,"42",159,145.9,13.1,NA,NA
-"508","Houston Rockets",2008,"6",469,0.01,70.35,"15",156,124.8,31.2,NA,NA
-"522","Dallas Mavericks",2008,"7",466,0.01,121.16,"26",153,166.6,-13.6,NA,NA
-"550","Phoenix Suns",2008,"8",452,0.01,176.28,"39",148,119.1,28.9,NA,NA
-"559","Boston Celtics",2008,"9",447,0.14,178.8,"40",149,128.9,20.1,NA,NA
-"17","New York Knicks",2007,"1",608,0.03,0,"0",196,238.2,-42.2,NA,NA
-"33","San Antonio Spurs",2007,"10",405,0.04,56.7,"14",131,115.5,15.5,NA,NA
-"43","Boston Celtics",2007,"11",391,0.06,179.86,"46",117,98.7,18.3,NA,NA
-"72","Sacramento Kings",2007,"12",385,0.02,84.7,"22",128,107.5,20.5,NA,NA
-"93","Philadelphia 76ers",2007,"13",380,0.01,64.6,"17",112,114.8,-2.8,NA,NA
-"117","Toronto Raptors",2007,"14",373,0.18,164.12,"44",124,95.2,28.8,NA,NA
-"135","Washington Wizards",2007,"15",348,0.04,167.04,"48",112,100.4,11.6,NA,NA
-"156","Utah Jazz",2007,"16",342,0.15,17.1,"5",114,108.3,5.7,NA,NA
-"173","New Jersey Nets",2007,"17",338,0.04,209.56,"62",102,103.3,-1.3,NA,NA
-"186","Indiana Pacers",2007,"18",333,-0.02,46.62,"14",107,108.3,-1.3,NA,NA
-"210","Orlando Magic",2007,"19",322,0.14,61.18,"19",92,87.4,4.6,NA,NA
-"227","Los Angeles Lakers",2007,"2",560,-0.02,84,"15",170,138.2,31.8,NA,NA
-"246","Denver Nuggets",2007,"20",321,0.04,51.36,"16",104,108.8,-4.8,NA,NA
-"267","Golden State Warriors",2007,"21",309,0.16,74.16,"24",103,101.7,1.3,NA,NA
-"292","Minnesota Timberwolves",2007,"22",308,0,49.28,"16",103,104.9,-1.9,NA,NA
-"318","Memphis Grizzlies",2007,"23",304,-0.03,148.96,"49",98,108.9,-10.9,NA,NA
-"332","Los Angeles Clippers",2007,"24",294,0.03,0,"0",98,88.2,9.8,NA,NA
-"360","Charlotte Bobcats",2007,"25",287,0.04,149.24,"52",93,87.7,5.3,NA,NA
-"362","Atlanta Hawks",2007,"26",286,0.04,71.5,"25",95,85.3,9.7,NA,NA
-"398","New Orleans Hornets",2007,"27",272,0.1,149.6,"55",91,80.8,10.2,NA,NA
-"410","Seattle SuperSonics",2007,"28",269,0,139.88,"52",81,86.7,-5.7,NA,NA
-"421","Milwaukee Bucks",2007,"29",264,0.01,55.44,"21",88,86.3,1.7,NA,NA
-"438","Chicago Bulls",2007,"3",500,0.09,55,"11",161,101.7,59.3,NA,NA
-"457","Portland Trail Blazers",2007,"30",253,0.1,103.73,"41",82,107.1,-25.1,NA,NA
-"468","Detroit Pistons",2007,"4",477,0.11,0,"0",154,114.8,39.2,NA,NA
-"485","Houston Rockets",2007,"5",462,0.05,69.3,"15",149,119.3,29.7,NA,NA
-"505","Dallas Mavericks",2007,"6",461,-0.01,124.47,"27",140,141.6,-1.6,NA,NA
-"520","Cleveland Cavaliers",2007,"7",455,0.2,200.2,"44",152,120.1,31.9,NA,NA
-"549","Phoenix Suns",2007,"8",449,0.1,175.11,"39",145,107.7,37.3,NA,NA
-"562","Miami Heat",2007,"9",418,0.02,175.56,"42",131,113.1,17.9,NA,NA
-"16","New York Knicks",2006,"1",592,0.09,0,"0",185,224,-39,NA,NA
-"23","Cleveland Cavaliers",2006,"10",380,0.07,201.4,"53",115,91.1,23.9,NA,NA
-"51","Sacramento Kings",2006,"11",379,0.1,83.38,"22",126,109.6,16.4,NA,NA
-"70","Philadelphia 76ers",2006,"12",375,0.07,93.75,"25",110,116.2,-6.2,NA,NA
-"82","Boston Celtics",2006,"13",367,0.04,179.83,"49",111,95.3,15.7,NA,NA
-"104","Indiana Pacers",2006,"14",340,0.05,47.6,"14",110,122.5,-12.5,NA,NA
-"134","Washington Wizards",2006,"15",334,0.05,167,"50",108,93.2,14.8,NA,NA
-"148","New Jersey Nets",2006,"16",325,0.2,211.25,"65",93,101,-8,NA,NA
-"178","Toronto Raptors",2006,"17",315,0.13,173.25,"55",105,96.6,8.4,NA,NA
-"198","Memphis Grizzlies",2006,"18",313,0.07,150.24,"48",101,119.5,-18.5,NA,NA
-"203","Denver Nuggets",2006,"19",309,0.09,55.62,"18",100,90.6,9.4,NA,NA
-"228","Los Angeles Lakers",2006,"2",568,0.07,85.2,"15",167,133.7,33.3,NA,NA
-"254","Minnesota Timberwolves",2006,"20",308,0.02,49.28,"16",103,98.4,4.6,NA,NA
-"277","Utah Jazz",2006,"21",297,0.08,20.79,"7",96,94.6,1.4,NA,NA
-"286","Los Angeles Clippers",2006,"22",285,0.15,0,"0",95,79.3,15.7,NA,NA
-"312","Orlando Magic",2006,"23",283,0.15,59.43,"21",89,109.4,-20.4,NA,NA
-"339","Charlotte Bobcats",2006,"24",277,-0.08,149.58,"54",89,77.1,11.9,NA,NA
-"342","Atlanta Hawks",2006,"25",275,0.05,71.5,"26",92,79.1,12.9,NA,NA
-"377","Seattle SuperSonics",2006,"26",268,0.15,139.36,"52",81,77.4,3.6,NA,NA
-"386","Golden State Warriors",2006,"27",267,0.1,74.76,"28",89,82.7,6.3,NA,NA
-"409","Milwaukee Bucks",2006,"28",260,0.13,54.6,"21",87,85.5,1.5,NA,NA
-"427","New Orleans Hornets",2006,"29",248,0.1,148.8,"60",83,70.1,12.9,NA,NA
-"444","Dallas Mavericks",2006,"3",463,0.15,138.9,"30",140,164.4,-24.4,NA,NA
-"456","Portland Trail Blazers",2006,"30",230,0.01,59.8,"26",77,92.2,-15.2,NA,NA
-"464","Chicago Bulls",2006,"4",461,0.13,55.32,"12",149,100.5,48.5,NA,NA
-"483","Houston Rockets",2006,"5",439,0.04,70.24,"16",142,120.6,21.4,NA,NA
-"507","Detroit Pistons",2006,"6",429,0.07,0,"0",138,116.2,21.8,NA,NA
-"532","Phoenix Suns",2006,"7",410,0.04,266.5,"65",132,97.5,34.5,NA,NA
-"545","Miami Heat",2006,"8",409,0.13,179.96,"44",132,111.5,20.5,NA,NA
-"569","San Antonio Spurs",2006,"9",390,0.11,58.5,"15",122,110.3,11.7,NA,NA
-"20","Los Angeles Lakers ",2005,"1",510,0.14,56.1,"11",170,134.2,35.8,NA,NA
-"39","Sacramento Kings ",2005,"10",330,0.2,82.5,"25",118,117.4,0.6,NA,NA
-"60","San Antonio Spurs ",2005,"11",324,0.15,129.6,"40",108,81.3,26.7,NA,NA
-"79","Indiana Pacers ",2005,"12",311,0.11,49.76,"16",104,101.4,2.6,NA,NA
-"100","Cleveland Cavaliers ",2005,"13",298,0.15,29.8,"10",93,71.1,21.9,NA,NA
-"120","Toronto Raptors ",2005,"14",297,0.19,109.89,"37",100,94.6,5.4,NA,NA
-"139","New Jersey Nets ",2005,"15",296,0.22,150.96,"51",93,100.4,-7.4,NA,NA
-"158","Minnesota Timberwolves ",2005,"16",291,0.26,49.47,"17",97,117,-20,NA,NA
-"180","Miami Heat ",2005,"17",279,0.18,184.14,"66",93,74.4,18.6,NA,NA
-"199","Washington Wizards ",2005,"18",273,0,109.2,"40",94,72.5,21.5,NA,NA
-"219","Denver Nuggets ",2005,"19",268,0.23,50.92,"19",89,63.8,25.2,NA,NA
-"240","New York Knicks ",2005,"2",494,0.23,251.94,"51",170,184.3,-14.3,NA,NA
-"259","Utah Jazz ",2005,"20",257,0.07,28.27,"11",88,60.5,27.5,NA,NA
-"280","Portland Trail Blazers ",2005,"21",247,-0.09,130.91,"53",88,135,-47,NA,NA
-"299","Memphis Grizzlies ",2005,"22",238,0.05,90.44,"38",75,79.1,-4.1,NA,NA
-"320","Atlanta Hawks ",2005,"23",232,0.15,71.92,"31",83,78.3,4.7,NA,NA
-"338","Golden State Warriors ",2005,"24",228,0.21,75.24,"33",76,67.9,8.1,NA,NA
-"355","New Orleans Hornets ",2005,"25",225,0.04,99,"44",80,62.9,17.1,NA,NA
-"379","Los Angeles Clippers ",2005,"26",224,0.08,0,"0",77,54.6,22.4,NA,NA
-"400","Orlando Magic ",2005,"27",218,0.1,61.04,"28",78,65.8,12.2,NA,NA
-"415","Seattle SuperSonics ",2005,"28",205,0.04,90.2,"44",73,72.5,0.5,NA,NA
-"428","Milwaukee Bucks ",2005,"29",199,0.14,39.8,"20",77,72.2,4.8,NA,NA
-"450","Dallas Mavericks ",2005,"3",374,0.11,145.86,"39",117,150.6,-33.6,NA,NA
-"477","Houston Rockets ",2005,"4",369,0.33,70.11,"19",125,89.5,35.5,NA,NA
-"496","Chicago Bulls ",2005,"5",368,0.03,51.52,"14",123,86.2,36.8,NA,NA
-"517","Detroit Pistons ",2005,"6",363,0.28,0,"0",121,98,23,NA,NA
-"536","Phoenix Suns ",2005,"7",356,0.26,199.36,"56",111,90.9,20.1,NA,NA
-"556","Philadelphia 76ers ",2005,"8",342,0.04,95.76,"28",107,99.8,7.2,NA,NA
-"576","Boston Celtics ",2005,"9",334,0.15,180.36,"54",104,78.6,25.4,NA,NA
-"8","Los Angeles Lakers",2004,"1",447,0.05,134.1,"30",149,126.2,22.8,NA,NA
-"26","Indiana Pacers",2004,"10",280,0.14,50.4,"18",94,83.9,10.1,NA,NA
-"47","Houston Rockets",2004,"11",278,0.09,38.92,"14",82,66.8,15.2,NA,NA
-"71","Sacramento Kings",2004,"12",275,0.06,66,"24",102,118.8,-16.8,NA,NA
-"99","Washington Wizards",2004,"13",274,-0.02,65.76,"24",98,69.5,28.5,NA,NA
-"112","Portland Trail Blazers",2004,"14",272,0.01,136,"50",97,182.1,-85.1,NA,NA
-"122","Cleveland Cavaliers",2004,"15",258,0.16,30.96,"12",72,68.2,3.8,NA,NA
-"153","Toronto Raptors",2004,"16",249,0.15,62.25,"25",96,85.4,10.6,NA,NA
-"172","New Jersey Nets",2004,"17",244,0.12,100.04,"41",94,95.6,-1.6,NA,NA
-"195","Utah Jazz",2004,"18",239,0.06,31.07,"13",85,71.2,13.8,NA,NA
-"206","Miami Heat",2004,"19",236,-0.06,184.08,"78",91,83.1,7.9,NA,NA
-"235","New York Knicks",2004,"2",401,0.01,248.62,"62",160,146.5,13.5,NA,NA
-"253","Minnesota Timberwolves",2004,"20",230,0.08,50.6,"22",85,78.1,6.9,NA,NA
-"279","Memphis Grizzlies",2004,"21",227,0.14,90.8,"40",63,82.7,-19.7,NA,NA
-"282","Denver Nuggets",2004,"22",218,0.04,56.68,"26",75,67.1,7.9,NA,NA
-"319","New Orleans Hornets",2004,"23",216,0.25,75.6,"35",80,58.1,21.9,NA,NA
-"331","Los Angeles Clippers",2004,"24",208,0.01,0,"0",72,56.1,15.9,NA,NA
-"341","Atlanta Hawks",2004,"25",202,-0.02,70.7,"35",78,86.4,-8.4,NA,NA
-"371","Orlando Magic",2004,"26",199,0.01,59.7,"30",80,66.9,13.1,NA,NA
-"395","Seattle Supersonics",2004,"27",196,-0.06,90.16,"46",70,67.6,2.4,NA,NA
-"403","Golden State Warriors",2004,"28",188,0.06,54.52,"29",70,62.2,7.8,NA,NA
-"420","Milwaukee Bucks",2004,"29",174,0.04,29.58,"17",70,85.1,-15.1,NA,NA
-"437","Chicago Bulls",2004,"3",356,0.1,24.92,"7",119,70,49,NA,NA
-"466","Dallas Mavericks",2004,"4",338,0.11,148.72,"44",117,134.7,-17.7,NA,NA
-"491","Philadelphia 76ers",2004,"5",328,0.1,65.6,"20",109,107,2,NA,NA
-"498","Boston Celtics",2004,"6",290,0.06,179.8,"62",97,71.4,25.6,NA,NA
-"525","Detroit Pistons",2004,"7",284,0.1,0,"0",102,78.5,23.5,NA,NA
-"552","San Antonio Spurs",2004,"8",283,0.24,130.18,"46",105,86.5,18.5,NA,NA
-"566","Phoenix Suns",2004,"9",282,0.04,129.72,"46",109,87.5,21.5,NA,NA
-"7","Los Angeles Lakers",2003,"1",426,0.001,NA,NA,NA,NA,44.1,NA,NA
-"29","Sacramento Kings",2003,"10",259,0.14,NA,NA,NA,NA,13.5,NA,NA
-"46","Detroit Pistons",2003,"11",258,0.13,NA,NA,NA,NA,12.9,NA,NA
-"64","Houston Rockets",2003,"12",255,0.13,NA,NA,NA,NA,6.7,NA,NA
-"89","Miami Heat",2003,"13",250,0.2,NA,NA,NA,NA,8.1,NA,NA
-"103","Indiana Pacers",2003,"14",246,0.18,NA,NA,NA,NA,3.1,NA,NA
-"132","San Antonio Spurs",2003,"15",242,0.14,NA,NA,NA,NA,8.3,NA,NA
-"154","Utah Jazz",2003,"16",226,0.14,NA,NA,NA,NA,1.9,NA,NA
-"165","Cleveland Cavaliers",2003,"17",222,0.14,NA,NA,NA,NA,5.9,NA,NA
-"193","New Jersey Nets",2003,"18",218,0.1,NA,NA,NA,NA,4.5,NA,NA
-"215","Toronto Raptors",2003,"19",217,0.15,NA,NA,NA,NA,4.5,NA,NA
-"234","New York Knicks",2003,"2",398,0.06,NA,NA,NA,NA,25.1,NA,NA
-"252","Minnesota Timberwolves",2003,"20",213,0.13,NA,NA,NA,NA,8.8,NA,NA
-"265","Denver Nuggets",2003,"21",209,NA,NA,NA,NA,NA,-5,NA,NA
-"298","Seattle Supersonics",2003,"22",207,NA,NA,NA,NA,NA,6.3,NA,NA
-"301","Atlanta Hawks",2003,"23",206,NA,NA,NA,NA,NA,4.2,NA,NA
-"330","Los Angeles Clippers",2003,"24",205,0.14,NA,NA,NA,NA,16.3,NA,NA
-"353","Memphis Grizzlies",2003,"25",198,NA,NA,NA,NA,NA,0.6,NA,NA
-"370","Orlando Magic",2003,"26",197,0.08,NA,NA,NA,NA,8.2,NA,NA
-"385","Golden State Warriors",2003,"27",176,0.06,NA,NA,NA,NA,-0.6,NA,NA
-"412","New Orleans Hornets",2003,"28",172,0.13,NA,NA,NA,NA,-8.3,NA,NA
-"419","Milwaukee Bucks",2003,"29",168,0.14,NA,NA,NA,NA,-8.5,NA,NA
-"435","Chicago Bulls",2003,"3",323,0.23,NA,NA,NA,NA,39.1,NA,NA
-"465","Dallas Mavericks",2003,"4",304,NA,NA,NA,NA,NA,3.2,NA,NA
-"490","Philadelphia 76ers",2003,"5",298,0.16,NA,NA,NA,NA,18.1,NA,NA
-"516","Washington Wizards",2003,"6",278,0.15,NA,NA,NA,NA,12.7,NA,NA
-"519","Boston Celtics",2003,"7",274,NA,NA,NA,NA,NA,17.4,NA,NA
-"547","Phoenix Suns",2003,"8",272,0.13,NA,NA,NA,NA,18.5,NA,NA
-"568","Portland Trail Blazers",2003,"9",270,0.1,NA,NA,NA,NA,-22.8,NA,NA
-"6","Los Angeles Lakers",2002,"1",403,0.12,52.39,"13",144,112.9,31.1,65.1,NA
-"24","Detroit Pistons",2002,"10",230,-0.02,0,"0",92,74,18,40.5,NA
-"58","Utah Jazz",2002,"11",225,0,38.25,"17",88,85.5,2.5,56.7,NA
-"75","San Antonio Spurs",2002,"12",221,0.17,39.78,"18",82,84.4,-2.4,60.2,NA
-"81","Boston Celtics",2002,"13",218,0.03,54.5,"25",81,71.2,9.8,49.5,NA
-"119","Washington Wizards",2002,"14",214,0.02,111.28,"52",81,86.7,-5.7,62.1,NA
-"124","Dallas Mavericks",2002,"15",211,0.26,105.5,"50",68,91.4,-23.4,59.9,NA
-"151","Sacramento Kings",2002,"16",209,0.17,100.32,"48",87,77,10,49.1,NA
-"164","Cleveland Cavaliers",2002,"17",202,0.09,0,"0",75,67.9,7.1,47.8,NA
-"197","Seattle SuperSonics",2002,"18",200,0.07,100,"50",80,77.9,2.1,53.6,NA
-"201","Atlanta Hawks",2002,"19",199,0.08,59.7,"30",76,70.2,5.8,42.2,NA
-"233","New York Knicks",2002,"2",392,-0.01,148.96,"38",157,128.5,28.5,81.6,NA
-"244","Denver Nuggets",2002,"20",188,0.07,67.68,"36",72,79.6,-7.6,54.8,NA
-"273","Minnesota Timberwolves",2002,"21",185,0.09,20.35,"11",77,72.8,4.2,50.2,NA
-"294","Orlando Magic",2002,"22",176,0.06,54.56,"31",76,62.7,13.3,40,NA
-"315","Toronto Raptors",2002,"23",172,0.17,137.6,"80",75,69.9,5.1,40.9,NA
-"329","Los Angeles Clippers",2002,"24",170,0.1,0,"0",68,56.5,11.5,32.6,NA
-"349","New Jersey Nets",2002,"25",169,-0.06,157.17,"93",73,84.3,-11.3,59.7,NA
-"365","Golden State Warriors",2002,"26",166,-0.01,99.6,"60",69,66.1,2.9,44.9,NA
-"396","Memphis Grizzlies",2002,"27",160,0.36,80,"50",53,66.3,-13.3,51.2,NA
-"408","Milwaukee Bucks",2002,"28",150,0.14,19.5,"13",65,81.3,-16.3,60.4,NA
-"416","Charlotte Hornets",2002,"29",135,-0.06,49.95,"37",65,65.5,-0.5,49.4,NA
-"436","Chicago Bulls",2002,"3",329,0.05,29.61,"9",117,65.3,51.7,32.7,NA
-"476","Portland Trail Blazers",2002,"4",283,0.04,135.84,"48",101,120.3,-19.3,89.5,NA
-"489","Philadelphia 76ers",2002,"5",279,0.19,61.38,"22",103,91.9,11.1,53.6,NA
-"513","Phoenix Suns",2002,"6",266,0.06,133,"50",102,76.8,25.2,45.5,NA
-"528","Miami Heat",2002,"7",248,0.1,186,"75",99,97.7,1.3,66.9,NA
-"543","Houston Rockets",2002,"8",234,0.13,39.78,"17",81,77.2,3.8,52.3,NA
-"575","Indiana Pacers ",2002,"9",231,0,55.44,"24",89,88.3,0.7,57.6,NA
-"15","New York Knicks",2001,"1",395,0.18,150.1,"38",152,121.3,30.7,74.8,43.5
-"27","Miami Heat",2001,"10",225,0.39,184.5,"82",89.9,80.2,9.7,53.5,29.9
-"42","Boston Celtics",2001,"11",212,0.13,93.28,"44",81.5,69.1,12.4,48.7,24.9
-"78","Washington Wizards",2001,"12",210,0,111.3,"53",75,81.1,-6.1,55.1,20.3
-"87","Houston Rockets",2001,"13",206,0.23,39.14,"19",79.4,80.4,-1,54.8,33.1
-"116","San Antonio Spurs",2001,"14",189,0.12,39.69,"21",67.4,68.8,-1.4,46.3,26.9
-"138","Seattle SuperSonics",2001,"15",187,0.02,72.93,"39",74.7,68,6.7,43.8,28.5
-"142","Cleveland Cavaliers",2001,"16",185,0.09,0,"0",68.6,70.6,-2,49,15.3
-"162","Atlanta Hawks",2001,"17",184,0.23,60.72,"33",70.8,72.6,-1.8,45.6,16.7
-"192","New Jersey Nets",2001,"18",179,0.08,139.62,"78",78,69.3,8.7,45.3,27.1
-"213","Sacramento Kings",2001,"19",178,0.18,64.08,"36",71.3,68.5,2.8,42.6,27.2
-"226","Los Angeles Lakers",2001,"2",360,0.28,54,"15",133.2,96.6,36.6,57.7,50.2
-"243","Denver Nuggets",2001,"20",175,0.42,68.25,"39",67.5,70.2,-2.7,45.7,15
-"272","Minnesota Timberwolves",2001,"21",169,0.16,20.28,"12",70.4,64.6,5.8,44.6,22.8
-"284","Golden State Warriors",2001,"22",168,0.2,112.56,"67",67.2,61.2,6,38.6,19.3
-"305","Dallas Mavericks",2001,"23",167,0.19,106.88,"64",59.7,66.4,-6.7,42,21.3
-"334","Orlando Magic",2001,"24",165,0.04,54.45,"33",66,66.2,-0.2,44.1,21.6
-"347","Los Angeles Clippers",2001,"25",154,0.5,0,"0",61.8,50.3,11.5,28.8,15
-"375","Toronto Raptors",2001,"26",148,0.07,137.64,"93",61.5,60.3,1.2,37.2,19.4
-"381","Charlotte Hornets",2001,"27",144,0.06,50.4,"35",57.8,59.9,-2.1,41.1,20
-"407","Milwaukee Bucks",2001,"28",131,0.18,24.89,"19",54.7,67.7,-13,48.3,15.3
-"424","Vancouver Grizzlies",2001,"29",118,-0.07,80.24,"68",51.3,59.8,-8.5,40.2,11.6
-"434","Chicago Bulls",2001,"3",314,0.02,31.4,"10",112.2,64,48.2,29.5,30.5
-"475","Portland Trail Blazers",2001,"4",272,0.06,149.6,"55",97.3,110.1,-12.8,76.4,44
-"495","Phoenix Suns",2001,"5",252,0.05,25.2,"10",96.8,80.3,16.5,49,24
-"506","Detroit Pistons",2001,"6",236,0.04,0,"0",90.6,79,11.6,44.6,17.9
-"530","Philadelphia 76ers",2001,"7",233,0.01,69.9,"30",86.3,79.8,6.5,44.8,22.2
-"544","Indiana Pacers",2001,"8",232,0.31,58,"25",86.1,85.2,0.9,56.7,32
-"573","Utah Jazz",2001,"9",226,0.05,42.94,"19",87,81.8,5.2,51.7,33.8
-"14","New York Knicks",2000,"1",334,0.13,163.66,"49",92.9,88.9,4,NA,NA
-"22","Boston Celtics",2000,"10",187,0.06,87.89,"47",41.5,39.2,2.3,NA,NA
-"55","Seattle Supersonics",2000,"11",183,0.08,73.2,"40",43.6,45.9,-2.3,NA,NA
-"65","Indiana Pacers",2000,"12",178,0.17,56.96,"32",34.2,53.6,-19.4,NA,NA
-"84","Cleveland Cavaliers",2000,"13",170,0.06,0,"0",37.8,37.9,-0.1,NA,NA
-"115","San Antonio Spurs",2000,"14",169,0.39,25.35,"15",42.3,49,-6.7,NA,NA
-"126","Houston Rockets",2000,"15",168,0.01,40.32,"24",44.3,47.9,-3.6,NA,NA
-"147","New Jersey Nets",2000,"16",166,0.06,19.92,"12",38.6,47.2,-8.6,NA,NA
-"170","Miami Heat",2000,"17",162,0.12,184.68,"114",33.1,53.8,-20.7,NA,NA
-"194","Orlando Magic",2000,"18",159,0.19,55.65,"35",37.9,47,-9.1,NA,NA
-"212","Sacramento Kings",2000,"19",151,0.27,64.93,"43",34.3,46.8,-12.5,NA,NA
-"222","Chicago Bulls",2000,"2",307,0.01,30.7,"10",66.8,46.4,20.4,NA,NA
-"241","Atlanta Hawks",2000,"20",150,0.07,66,"44",28.8,48.1,-19.3,NA,NA
-"271","Minnesota Timberwolves",2000,"21",146,0.23,20.44,"14",41.7,37.5,4.2,NA,NA
-"281","Dallas Mavericks",2000,"22",141,0.18,107.16,"76",26.1,40.8,-14.7,NA,NA
-"307","Golden State Warriors",2000,"23",140,0.08,112,"80",31.8,39.5,-7.7,NA,NA
-"336","Toronto Raptors",2000,"24",138,0.14,132.48,"96",33.6,41.6,-8,NA,NA
-"344","Charlotte Hornets",2000,"25",136,0.1,50.32,"37",30.3,32.5,-2.2,NA,NA
-"376","Vancouver Grizzlies",2000,"26",127,-0.05,59.69,"47",28.2,40.6,-12.4,NA,NA
-"384","Denver Nuggets",2000,"27",124,0.13,69.44,"56",23.8,33.6,-9.8,NA,NA
-"406","Milwaukee Bucks",2000,"28",111,0.18,25.53,"23",25.8,40.7,-14.9,NA,NA
-"417","Los Angeles Clippers",2000,"29",103,0.01,0,"0",23,36.2,-13.2,NA,NA
-"449","Los Angeles Lakers",2000,"3",282,0.05,157.92,"56",58.7,59.6,-0.9,NA,NA
-"474","Portland Trail Blazers",2000,"4",257,0.05,149.06,"58",57.1,70.6,-13.5,NA,NA
-"494","Phoenix Suns",2000,"5",239,0.02,54.97,"23",58.3,52.5,5.8,NA,NA
-"512","Philadelphia 76ers",2000,"6",231,0.18,69.3,"30",57.7,55.9,1.8,NA,NA
-"524","Detroit Pistons",2000,"7",226,0.1,0,"0",51.3,53,-1.7,NA,NA
-"555","Utah Jazz",2000,"8",215,0.07,47.3,"22",47.7,48.4,-0.7,NA,NA
-"574","Washington Wizards",2000,"9",209,0.01,110.77,"53",48.6,51.4,-2.8,NA,NA
-"1","Chicago Bulls",1999,"1",303.96,NA,NA,NA,NA,NA,NA,NA,NA
-"21","Boston Celtics",1999,"10",176.415,NA,NA,NA,NA,NA,NA,NA,NA
-"54","Seattle Supersonics",1999,"11",169.444,NA,NA,NA,NA,NA,NA,NA,NA
-"63","Houston Rockets",1999,"12",166.337,NA,NA,NA,NA,NA,NA,NA,NA
-"83","Cleveland Cavaliers",1999,"13",160.377,NA,NA,NA,NA,NA,NA,NA,NA
-"107","New Jersey Nets",1999,"14",156.604,NA,NA,NA,NA,NA,NA,NA,NA
-"128","Indiana Pacers",1999,"15",152.137,NA,NA,NA,NA,NA,NA,NA,NA
-"145","Miami Heat",1999,"16",144.643,NA,NA,NA,NA,NA,NA,NA,NA
-"161","Atlanta Hawks",1999,"17",140.187,NA,NA,NA,NA,NA,NA,NA,NA
-"196","Vancouver Grizzlies",1999,"18",133.684,NA,NA,NA,NA,NA,NA,NA,NA
-"209","Orlando Magic",1999,"19",133.613,NA,NA,NA,NA,NA,NA,NA,NA
-"232","New York Knicks",1999,"2",295.575,NA,NA,NA,NA,NA,NA,NA,NA
-"248","Golden State Warriors",1999,"20",129.63,NA,NA,NA,NA,NA,NA,NA,NA
-"263","Charlotte Hornets",1999,"21",123.636,NA,NA,NA,NA,NA,NA,NA,NA
-"297","San Antonio Spurs",1999,"22",121.583,NA,NA,NA,NA,NA,NA,NA,NA
-"314","Toronto Raptors",1999,"23",121.053,NA,NA,NA,NA,NA,NA,NA,NA
-"321","Dallas Mavericks",1999,"24",119.492,NA,NA,NA,NA,NA,NA,NA,NA
-"352","Sacramento Kings",1999,"25",118.898,NA,NA,NA,NA,NA,NA,NA,NA
-"366","Minnesota Timberwolves",1999,"26",118.699,NA,NA,NA,NA,NA,NA,NA,NA
-"383","Denver Nuggets",1999,"27",109.735,NA,NA,NA,NA,NA,NA,NA,NA
-"404","Los Angeles Clippers",1999,"28",101.98,NA,NA,NA,NA,NA,NA,NA,NA
-"422","Milwaukee Bucks",1999,"29",94.068,NA,NA,NA,NA,NA,NA,NA,NA
-"448","Los Angeles Lakers",1999,"3",268.571,NA,NA,NA,NA,NA,NA,NA,NA
-"473","Portland Trail Blazers",1999,"4",244.762,NA,NA,NA,NA,NA,NA,NA,NA
-"493","Phoenix Suns",1999,"5",234.314,NA,NA,NA,NA,NA,NA,NA,NA
-"515","Washington Wizards",1999,"6",206.931,NA,NA,NA,NA,NA,NA,NA,NA
-"523","Detroit Pistons",1999,"7",205.455,NA,NA,NA,NA,NA,NA,NA,NA
-"554","Utah Jazz",1999,"8",200.935,NA,NA,NA,NA,NA,NA,NA,NA
-"565","Philadelphia 76ers",1999,"9",195.763,NA,NA,NA,NA,NA,NA,NA,NA
-"13","New York Knicks",1997,"1",250,NA,NA,NA,NA,NA,NA,NA,NA
-"31","San Antonio Spurs",1997,"10",156,NA,NA,NA,NA,NA,NA,NA,NA
-"41","Boston Celtics",1997,"11",155,NA,NA,NA,NA,NA,NA,NA,NA
-"62","Houston Rockets",1997,"12",154,NA,NA,NA,NA,NA,NA,NA,NA
-"98","Toronto Raptors",1997,"13",138,NA,NA,NA,NA,NA,NA,NA,NA
-"106","New Jersey Nets",1997,"14",137,NA,NA,NA,NA,NA,NA,NA,NA
-"137","Seattle SuperSonics",1997,"15",137,NA,NA,NA,NA,NA,NA,NA,NA
-"141","Charlotte Hornets",1997,"16",136,NA,NA,NA,NA,NA,NA,NA,NA
-"176","Sacramento Kings",1997,"17",131,NA,NA,NA,NA,NA,NA,NA,NA
-"182","Golden State Warriors",1997,"18",130,NA,NA,NA,NA,NA,NA,NA,NA
-"220","Washington Bullets",1997,"19",129,NA,NA,NA,NA,NA,NA,NA,NA
-"239","Phoenix Suns",1997,"2",220,NA,NA,NA,NA,NA,NA,NA,NA
-"258","Vancouver Grizzlies",1997,"20",127,NA,NA,NA,NA,NA,NA,NA,NA
-"270","Minnesota Timberwolves",1997,"21",123,NA,NA,NA,NA,NA,NA,NA,NA
-"290","Miami Heat",1997,"22",118,NA,NA,NA,NA,NA,NA,NA,NA
-"306","Denver Nuggets",1997,"23",116,NA,NA,NA,NA,NA,NA,NA,NA
-"325","Indiana Pacers",1997,"24",114,NA,NA,NA,NA,NA,NA,NA,NA
-"350","Philadelphia 76ers",1997,"25",113,NA,NA,NA,NA,NA,NA,NA,NA
-"361","Atlanta Hawks",1997,"26",111,NA,NA,NA,NA,NA,NA,NA,NA
-"382","Dallas Mavericks",1997,"27",104,NA,NA,NA,NA,NA,NA,NA,NA
-"405","Milwaukee Bucks",1997,"28",103,NA,NA,NA,NA,NA,NA,NA,NA
-"418","Los Angeles Clippers",1997,"29",95,NA,NA,NA,NA,NA,NA,NA,NA
-"433","Chicago Bulls",1997,"3",214,NA,NA,NA,NA,NA,NA,NA,NA
-"471","Los Angeles Lakers",1997,"4",211,NA,NA,NA,NA,NA,NA,NA,NA
-"482","Detroit Pistons",1997,"5",202,NA,NA,NA,NA,NA,NA,NA,NA
-"502","Cleveland Cavaliers",1997,"6",180,NA,NA,NA,NA,NA,NA,NA,NA
-"534","Portland Trail Blazers",1997,"7",179,NA,NA,NA,NA,NA,NA,NA,NA
-"553","Utah Jazz",1997,"8",163,NA,NA,NA,NA,NA,NA,NA,NA
-"563","Orlando Magic",1997,"9",156,NA,NA,NA,NA,NA,NA,NA,NA
-"12","New York Knicks",1996,"1",205,NA,NA,NA,NA,NA,NA,NA,NA
-"38","Seattle SuperSonics",1996,"10",129,NA,NA,NA,NA,NA,NA,NA,NA
-"53","San Antonio Spurs",1996,"11",126,NA,NA,NA,NA,NA,NA,NA,NA
-"69","Orlando Magic",1996,"12",121,NA,NA,NA,NA,NA,NA,NA,NA
-"86","Houston Rockets",1996,"13",116,NA,NA,NA,NA,NA,NA,NA,NA
-"114","Sacramento Kings",1996,"14",114,NA,NA,NA,NA,NA,NA,NA,NA
-"125","Golden State Warriors",1996,"15",114,NA,NA,NA,NA,NA,NA,NA,NA
-"159","Washington Bullets",1996,"16",113,NA,NA,NA,NA,NA,NA,NA,NA
-"163","Charlotte Hornets",1996,"17",113,NA,NA,NA,NA,NA,NA,NA,NA
-"191","Minnesota Timberwolves",1996,"18",110,NA,NA,NA,NA,NA,NA,NA,NA
-"207","New Jersey Nets",1996,"19",108,NA,NA,NA,NA,NA,NA,NA,NA
-"238","Phoenix Suns",1996,"2",191,NA,NA,NA,NA,NA,NA,NA,NA
-"250","Milwaukee Bucks",1996,"20",103,NA,NA,NA,NA,NA,NA,NA,NA
-"264","Denver Nuggets",1996,"21",102,NA,NA,NA,NA,NA,NA,NA,NA
-"291","Miami Heat",1996,"22",97,NA,NA,NA,NA,NA,NA,NA,NA
-"304","Atlanta Hawks",1996,"23",96,NA,NA,NA,NA,NA,NA,NA,NA
-"328","Indiana Pacers",1996,"24",94,NA,NA,NA,NA,NA,NA,NA,NA
-"351","Philadelphia 76ers",1996,"25",93,NA,NA,NA,NA,NA,NA,NA,NA
-"363","Dallas Mavericks",1996,"26",89,NA,NA,NA,NA,NA,NA,NA,NA
-"392","Los Angeles Clippers",1996,"27",88,NA,NA,NA,NA,NA,NA,NA,NA
-"446","Detroit Pistons",1996,"3",186,NA,NA,NA,NA,NA,NA,NA,NA
-"463","Chicago Bulls",1996,"4",178,NA,NA,NA,NA,NA,NA,NA,NA
-"486","Los Angeles Lakers",1996,"5",171,NA,NA,NA,NA,NA,NA,NA,NA
-"501","Cleveland Cavaliers",1996,"6",151,NA,NA,NA,NA,NA,NA,NA,NA
-"535","Utah Jazz",1996,"7",142,NA,NA,NA,NA,NA,NA,NA,NA
-"551","Portland Trail Blazers",1996,"8",137,NA,NA,NA,NA,NA,NA,NA,NA
-"558","Boston Celtics",1996,"9",134,NA,NA,NA,NA,NA,NA,NA,NA
-"2","Detroit Pistons",1995,"1",180,NA,NA,NA,NA,NA,NA,NA,NA
-"36","Seattle Supersonics",1995,"10",119,NA,NA,NA,NA,NA,NA,NA,NA
-"44","Charlotte Hornets",1995,"11",110,NA,NA,NA,NA,NA,NA,NA,NA
-"74","San Antonio Spurs",1995,"12",110,NA,NA,NA,NA,NA,NA,NA,NA
-"96","Sacramento Kings",1995,"13",108,NA,NA,NA,NA,NA,NA,NA,NA
-"109","Orlando Magic",1995,"14",101,NA,NA,NA,NA,NA,NA,NA,NA
-"129","Minnesota Timberwolves",1995,"15",99,NA,NA,NA,NA,NA,NA,NA,NA
-"160","Washington Bullets",1995,"16",96,NA,NA,NA,NA,NA,NA,NA,NA
-"169","Houston Rockets",1995,"17",95,NA,NA,NA,NA,NA,NA,NA,NA
-"190","Milwaukee Bucks",1995,"18",92,NA,NA,NA,NA,NA,NA,NA,NA
-"208","New Jersey Nets",1995,"19",92,NA,NA,NA,NA,NA,NA,NA,NA
-"231","New York Knicks",1995,"2",173,NA,NA,NA,NA,NA,NA,NA,NA
-"247","Denver Nuggets",1995,"20",88,NA,NA,NA,NA,NA,NA,NA,NA
-"269","Miami Heat",1995,"21",88,NA,NA,NA,NA,NA,NA,NA,NA
-"289","Los Angeles Clippers",1995,"22",87,NA,NA,NA,NA,NA,NA,NA,NA
-"303","Atlanta Hawks",1995,"23",84,NA,NA,NA,NA,NA,NA,NA,NA
-"324","Golden State Warriors",1995,"24",83,NA,NA,NA,NA,NA,NA,NA,NA
-"345","Dallas Mavericks",1995,"25",81,NA,NA,NA,NA,NA,NA,NA,NA
-"372","Philadelphia 76ers",1995,"26",81,NA,NA,NA,NA,NA,NA,NA,NA
-"391","Indiana Pacers",1995,"27",77,NA,NA,NA,NA,NA,NA,NA,NA
-"447","Los Angeles Lakers",1995,"3",169,NA,NA,NA,NA,NA,NA,NA,NA
-"462","Chicago Bulls",1995,"4",166,NA,NA,NA,NA,NA,NA,NA,NA
-"492","Phoenix Suns",1995,"5",156,NA,NA,NA,NA,NA,NA,NA,NA
-"500","Cleveland Cavaliers",1995,"6",133,NA,NA,NA,NA,NA,NA,NA,NA
-"537","Portland Trailblazers",1995,"7",132,NA,NA,NA,NA,NA,NA,NA,NA
-"538","Boston Celtics",1995,"8",127,NA,NA,NA,NA,NA,NA,NA,NA
-"572","Utah Jazz",1995,"9",127,NA,NA,NA,NA,NA,NA,NA,NA
-"4","Los Angeles Lakers",1994,"1",168,NA,NA,NA,NA,NA,NA,NA,NA
-"30","San Antonio Spurs",1994,"10",100,NA,NA,NA,NA,NA,NA,NA,NA
-"59","Utah Jazz",1994,"11",98,NA,NA,NA,NA,NA,NA,NA,NA
-"76","Seattle Supersonics",1994,"12",96,NA,NA,NA,NA,NA,NA,NA,NA
-"90","Minnesota Timberwolves",1994,"13",92,NA,NA,NA,NA,NA,NA,NA,NA
-"102","Golden State Warriors",1994,"14",85,NA,NA,NA,NA,NA,NA,NA,NA
-"127","Houston Rockets",1994,"15",84,NA,NA,NA,NA,NA,NA,NA,NA
-"149","Orlando Magic",1994,"16",84,NA,NA,NA,NA,NA,NA,NA,NA
-"177","Sacramento Kings",1994,"17",84,NA,NA,NA,NA,NA,NA,NA,NA
-"188","Los Angeles Clippers",1994,"18",83,NA,NA,NA,NA,NA,NA,NA,NA
-"211","Philadelphia 76ers",1994,"19",83,NA,NA,NA,NA,NA,NA,NA,NA
-"224","Detroit Pistons",1994,"2",154,NA,NA,NA,NA,NA,NA,NA,NA
-"242","Dallas Mavericks",1994,"20",79,NA,NA,NA,NA,NA,NA,NA,NA
-"275","New Jersey Nets",1994,"21",79,NA,NA,NA,NA,NA,NA,NA,NA
-"300","Washington Bullets",1994,"22",78,NA,NA,NA,NA,NA,NA,NA,NA
-"309","Milwaukee Bucks",1994,"23",77,NA,NA,NA,NA,NA,NA,NA,NA
-"333","Miami Heat",1994,"24",76,NA,NA,NA,NA,NA,NA,NA,NA
-"343","Atlanta Hawks",1994,"25",72,NA,NA,NA,NA,NA,NA,NA,NA
-"364","Denver Nuggets",1994,"26",69,NA,NA,NA,NA,NA,NA,NA,NA
-"390","Indiana Pacers",1994,"27",67,NA,NA,NA,NA,NA,NA,NA,NA
-"432","Chicago Bulls",1994,"3",149,NA,NA,NA,NA,NA,NA,NA,NA
-"472","New York Knicks",1994,"4",136,NA,NA,NA,NA,NA,NA,NA,NA
-"497","Portland Trailblazers",1994,"5",122,NA,NA,NA,NA,NA,NA,NA,NA
-"499","Cleveland Cavaliers",1994,"6",118,NA,NA,NA,NA,NA,NA,NA,NA
-"518","Boston Celtics",1994,"7",117,NA,NA,NA,NA,NA,NA,NA,NA
-"546","Phoenix Suns",1994,"8",108,NA,NA,NA,NA,NA,NA,NA,NA
-"560","Charlotte Hornets",1994,"9",104,NA,NA,NA,NA,NA,NA,NA,NA
-"3","Los Angeles Lakers",1992,"1",150,NA,NA,NA,NA,NA,NA,NA,NA
-"25","Golden State Warriors",1992,"10",63,NA,NA,NA,NA,NA,NA,NA,NA
-"50","Philadelphia 76ers",1992,"11",63,NA,NA,NA,NA,NA,NA,NA,NA
-"73","Sacramento Kings",1992,"12",63,NA,NA,NA,NA,NA,NA,NA,NA
-"97","San Antonio Spurs",1992,"13",63,NA,NA,NA,NA,NA,NA,NA,NA
-"105","Minnesota Timberwolves",1992,"14",62,NA,NA,NA,NA,NA,NA,NA,NA
-"130","Orlando Magic",1992,"15",62,NA,NA,NA,NA,NA,NA,NA,NA
-"144","Houston Rockets",1992,"16",61,NA,NA,NA,NA,NA,NA,NA,NA
-"166","Dallas Mavericks",1992,"17",60,NA,NA,NA,NA,NA,NA,NA,NA
-"189","Miami Heat",1992,"18",60,NA,NA,NA,NA,NA,NA,NA,NA
-"202","Atlanta Hawks",1992,"19",57,NA,NA,NA,NA,NA,NA,NA,NA
-"223","Detroit Pistons",1992,"2",120,NA,NA,NA,NA,NA,NA,NA,NA
-"251","Milwaukee Bucks",1992,"20",56,NA,NA,NA,NA,NA,NA,NA,NA
-"268","Los Angeles Clippers",1992,"21",54,NA,NA,NA,NA,NA,NA,NA,NA
-"293","New Jersey Nets",1992,"22",54,NA,NA,NA,NA,NA,NA,NA,NA
-"316","Utah Jazz",1992,"23",52,NA,NA,NA,NA,NA,NA,NA,NA
-"323","Denver Nuggets",1992,"24",46,NA,NA,NA,NA,NA,NA,NA,NA
-"357","Washington Bullets",1992,"25",46,NA,NA,NA,NA,NA,NA,NA,NA
-"374","Seattle Supersonics",1992,"26",45,NA,NA,NA,NA,NA,NA,NA,NA
-"389","Indiana Pacers",1992,"27",43,NA,NA,NA,NA,NA,NA,NA,NA
-"431","Boston Celtics",1992,"3",110,NA,NA,NA,NA,NA,NA,NA,NA
-"461","Chicago Bulls",1992,"4",100,NA,NA,NA,NA,NA,NA,NA,NA
-"488","New York Knicks",1992,"5",83,NA,NA,NA,NA,NA,NA,NA,NA
-"503","Cleveland Cavaliers",1992,"6",81,NA,NA,NA,NA,NA,NA,NA,NA
-"533","Phoenix Suns",1992,"7",80,NA,NA,NA,NA,NA,NA,NA,NA
-"557","Portland Trailblazers",1992,"8",78,NA,NA,NA,NA,NA,NA,NA,NA
-"561","Charlotte Hornets",1992,"9",74,NA,NA,NA,NA,NA,NA,NA,NA
-"5","Los Angeles Lakers",1991,"1",200,NA,NA,NA,NA,NA,NA,NA,NA
-"40","Portland Trailblazers",1991,"10",59.9,NA,NA,NA,NA,NA,NA,NA,NA
-"45","Charlotte Hornets",1991,"11",59.6,NA,NA,NA,NA,NA,NA,NA,NA
-"68","Miami Heat",1991,"12",58.6,NA,NA,NA,NA,NA,NA,NA,NA
-"88","Houston Rockets",1991,"13",58,NA,NA,NA,NA,NA,NA,NA,NA
-"101","Dallas Mavericks",1991,"14",54.4,NA,NA,NA,NA,NA,NA,NA,NA
-"121","Atlanta Hawks",1991,"15",53.5,NA,NA,NA,NA,NA,NA,NA,NA
-"146","Milwaukee Bucks",1991,"16",53.5,NA,NA,NA,NA,NA,NA,NA,NA
-"171","Minnesota Timberwolves",1991,"17",51.2,NA,NA,NA,NA,NA,NA,NA,NA
-"185","Golden State Warriors",1991,"18",50.7,NA,NA,NA,NA,NA,NA,NA,NA
-"214","Sacramento Kings",1991,"19",49.1,NA,NA,NA,NA,NA,NA,NA,NA
-"221","Boston Celtics",1991,"2",180,NA,NA,NA,NA,NA,NA,NA,NA
-"257","San Antonio Spurs",1991,"20",46.5,NA,NA,NA,NA,NA,NA,NA,NA
-"278","Utah Jazz",1991,"21",44.9,NA,NA,NA,NA,NA,NA,NA,NA
-"288","Los Angeles Clippers",1991,"22",42.9,NA,NA,NA,NA,NA,NA,NA,NA
-"311","New Jersey Nets",1991,"23",42.6,NA,NA,NA,NA,NA,NA,NA,NA
-"322","Denver Nuggets",1991,"24",40.6,NA,NA,NA,NA,NA,NA,NA,NA
-"356","Washington Bullets",1991,"25",37.5,NA,NA,NA,NA,NA,NA,NA,NA
-"373","Seattle Supersonics",1991,"26",37.3,NA,NA,NA,NA,NA,NA,NA,NA
-"388","Indiana Pacers",1991,"27",33.3,NA,NA,NA,NA,NA,NA,NA,NA
-"445","Detroit Pistons",1991,"3",150,NA,NA,NA,NA,NA,NA,NA,NA
-"460","Chicago Bulls",1991,"4",100,NA,NA,NA,NA,NA,NA,NA,NA
-"487","New York Knicks",1991,"5",100,NA,NA,NA,NA,NA,NA,NA,NA
-"514","Phoenix Suns",1991,"6",99,NA,NA,NA,NA,NA,NA,NA,NA
-"531","Philadelphia 76ers",1991,"7",75,NA,NA,NA,NA,NA,NA,NA,NA
-"540","Cleveland Cavaliers",1991,"8",61.1,NA,NA,NA,NA,NA,NA,NA,NA
-"564","Orlando Magic",1991,"9",60.8,NA,NA,NA,NA,NA,NA,NA,NA
+year,team,rank,value,value_change,debt,debt_percent,revenue,expense,operating_income,player_expense,gate_receipt,revenue_multiple,ebitda_multiple,league2012,New York Knicks,1,1100.00,0.41,0.00,0.00,243.00,159.80,83.20,NA,NA,4.53,13.22,NBA2012,Los Angeles Lakers,2,1000.00,0.11,110.00,0.11,197.00,149.20,47.80,NA,NA,5.08,20.92,NBA2012,Chicago Bulls,3,800.00,0.33,56.00,0.07,162.00,127.80,34.20,NA,NA,4.94,23.39,NBA2012,Boston Celtics,4,730.00,0.51,160.60,0.22,143.00,124.30,18.70,NA,NA,5.10,39.04,NBA2012,Dallas Mavericks,5,685.00,0.38,198.65,0.29,137.00,124.00,13.00,NA,NA,5.00,52.69,NBA2012,Miami Heat,6,625.00,0.37,112.50,0.18,150.00,135.10,14.90,NA,NA,4.17,41.95,NBA2012,Houston Rockets,7,568.00,0.25,102.24,0.18,135.00,108.40,26.60,NA,NA,4.21,21.35,NBA2012,Golden State Warriors,8,555.00,0.23,149.85,0.27,127.00,97.90,29.10,NA,NA,4.37,19.07,NBA2012,Brooklyn Nets,9,530.00,0.48,280.90,0.53,84.00,100.60,-16.60,NA,NA,6.31,0.00,NBA2012,San Antonio Spurs,10,527.00,0.26,47.43,0.09,135.00,120.30,14.70,NA,NA,3.90,35.85,NBA2012,Sacramento Kings,11,525.00,0.75,99.75,0.19,96.00,93.40,2.60,NA,NA,5.47,201.92,NBA2012,Oklahoma City Thunder,12,475.00,0.36,137.75,0.29,127.00,97.10,29.90,NA,NA,3.74,15.89,NBA2012,Phoenix Suns,13,474.00,0.20,184.86,0.39,121.00,108.00,13.00,NA,NA,3.92,36.46,NBA2012,Orlando Magic,14,470.00,0.22,122.20,0.26,126.00,114.00,12.00,NA,NA,3.73,39.17,NBA2012,Portland Trail Blazers,15,457.00,0.24,105.11,0.23,117.00,127.10,-10.10,NA,NA,3.91,0.00,NBA2012,Cleveland Cavaliers,16,434.00,0.32,199.64,0.46,128.00,109.40,18.60,NA,NA,3.39,23.33,NBA2012,Utah Jazz,17,432.00,0.29,0.00,0.00,111.00,98.90,12.10,NA,NA,3.89,35.70,NBA2012,Los Angeles Clippers,18,430.00,0.33,0.00,0.00,108.00,98.90,9.10,NA,NA,3.98,47.25,NBA2012,Denver Nuggets,19,427.00,0.35,21.35,0.05,110.00,98.00,12.00,NA,NA,3.88,35.58,NBA2012,Philadelphia 76ers,20,418.00,0.33,150.48,0.36,107.00,107.80,-0.80,NA,NA,3.91,0.00,NBA2012,Toronto Raptors,21,405.00,0.06,162.00,0.40,121.00,102.20,18.80,NA,NA,3.35,21.54,NBA2012,Detroit Pistons,22,400.00,0.20,184.00,0.46,125.00,117.30,7.70,NA,NA,3.20,51.95,NBA2012,Washington Wizards,23,397.00,0.21,131.01,0.33,102.00,100.30,1.70,NA,NA,3.89,233.53,NBA2012,Indiana Pacers,24,383.00,0.35,149.37,0.39,98.00,87.10,10.90,NA,NA,3.91,35.14,NBA2012,Memphis Grizzlies,25,377.00,0.40,109.33,0.29,96.00,108.50,-12.50,NA,NA,3.93,0.00,NBA2012,Minnesota Timberwolves,26,364.00,0.34,76.44,0.21,96.00,100.50,-4.50,NA,NA,3.79,0.00,NBA2012,New Orleans Hornets,27,340.00,0.19,125.80,0.37,100.00,96.70,3.30,NA,NA,3.40,103.03,NBA2012,Atlanta Hawks,28,316.00,0.17,237.00,0.75,99.00,117.70,-18.70,NA,NA,3.19,0.00,NBA2012,Charlotte Bobcats,29,315.00,0.14,151.20,0.48,93.00,106.30,-13.30,NA,NA,3.39,0.00,NBA2012,Milwaukee Bucks,30,312.00,0.16,56.16,0.18,87.00,87.50,-0.50,NA,NA,3.59,0.00,NBA2011,Los Angeles Lakers,1,900.00,0.40,117.00,0.13,208.00,183.70,24.30,NA,NA,4.33,37.04,NBA2011,New York Knicks,2,780.00,0.19,0.00,0.00,244.00,169.10,74.90,NA,NA,3.20,10.41,NBA2011,Chicago Bulls,3,600.00,0.17,54.00,0.09,185.00,125.60,59.40,NA,NA,3.24,10.10,NBA2011,Dallas Mavericks,4,497.00,0.13,198.80,0.40,166.00,169.90,-3.90,NA,NA,2.99,0.00,NBA2011,Boston Celtics,5,482.00,0.07,178.34,0.37,146.00,138.30,7.70,NA,NA,3.30,62.60,NBA2011,Miami Heat,6,457.00,0.08,155.38,0.34,158.00,132.00,26.00,NA,NA,2.89,17.58,NBA2011,Houston Rockets,7,453.00,0.02,99.66,0.22,150.00,132.10,17.90,NA,NA,3.02,25.31,NBA2011,Golden State Warriors,8,450.00,0.24,148.50,0.33,139.00,116.80,22.20,NA,NA,3.24,20.27,NBA2011,San Antonio Spurs,9,418.00,0.03,50.16,0.12,139.00,124.60,14.40,NA,NA,3.01,29.03,NBA2011,Phoenix Suns,10,395.00,-0.04,185.65,0.47,136.00,122.90,13.10,NA,NA,2.90,30.15,NBA2011,Orlando Magic,11,385.00,0.00,119.35,0.31,140.00,156.00,-16.00,NA,NA,2.75,0.00,NBA2011,Toronto Raptors,12,382.00,-0.04,129.88,0.34,134.00,126.60,7.40,NA,NA,2.85,51.62,NBA2011,Portland Trail Blazers,13,370.00,0.04,103.60,0.28,132.00,140.10,-8.10,NA,NA,2.80,0.00,NBA2011,New Jersey Nets,14,357.00,0.14,282.03,0.79,89.00,112.60,-23.60,NA,NA,4.01,0.00,NBA2011,Oklahoma City Thunder,15,348.00,0.06,139.20,0.40,126.00,101.50,24.50,NA,NA,2.76,14.20,NBA2011,Utah Jazz,16,335.00,-0.02,10.05,0.03,120.00,136.40,-16.40,NA,NA,2.79,0.00,NBA2011,Detroit Pistons,17,332.00,-0.08,185.92,0.56,141.00,131.30,9.70,NA,NA,2.35,34.23,NBA2011,Cleveland Cavaliers,18,329.00,-0.07,200.69,0.61,149.00,116.10,32.90,NA,NA,2.21,10.00,NBA2011,Washington Wizards,19,328.00,0.02,131.20,0.40,109.00,112.40,-3.40,NA,NA,3.01,0.00,NBA2011,Los Angeles Clippers,20,324.00,0.06,0.00,0.00,108.00,98.60,9.40,NA,NA,3.00,34.47,NBA2011,Denver Nuggets,21,316.00,0.00,25.28,0.08,113.00,114.20,-1.20,NA,NA,2.80,0.00,NBA2011,Philadelphia 76ers,22,314.00,-0.05,150.72,0.48,116.00,126.30,-10.30,NA,NA,2.71,0.00,NBA2011,Sacramento Kings,23,300.00,0.02,99.00,0.33,104.00,97.60,6.40,NA,NA,2.88,46.88,NBA2011,New Orleans Hornets,24,285.00,0.02,299.25,1.05,109.00,111.70,-2.70,NA,NA,2.61,0.00,NBA2011,Indiana Pacers,25,283.00,0.05,149.99,0.53,101.00,111.50,-10.50,NA,NA,2.80,0.00,NBA2011,Charlotte Bobcats,26,277.00,-0.01,149.58,0.54,101.00,126.50,-25.50,NA,NA,2.74,0.00,NBA2011,Minnesota Timberwolves,27,272.00,0.03,76.16,0.28,97.00,103.80,-6.80,NA,NA,2.80,0.00,NBA2011,Atlanta Hawks,28,270.00,-0.08,243.00,0.90,109.00,123.70,-14.70,NA,NA,2.48,0.00,NBA2011,Memphis Grizzlies,29,269.00,0.01,150.64,0.56,99.00,123.80,-24.80,NA,NA,2.72,0.00,NBA2011,Milwaukee Bucks,30,268.00,0.04,56.28,0.21,92.00,99.60,-7.60,NA,NA,2.91,0.00,NBA2010,New York Knicks,1,655.00,0.12,0.00,0.00,226.00,162.00,64.00,NA,NA,2.90,10.23,NBA2010,Los Angeles Lakers,2,643.00,0.06,122.17,0.19,214.00,180.60,33.40,NA,NA,3.00,19.25,NBA2010,Chicago Bulls,3,511.00,0.00,56.21,0.11,169.00,117.70,51.30,NA,NA,3.02,9.96,NBA2010,Boston Celtics,4,452.00,0.05,180.80,0.40,151.00,146.80,4.20,NA,NA,2.99,107.62,NBA2010,Houston Rockets,5,443.00,-0.06,70.88,0.16,153.00,117.10,35.90,NA,NA,2.90,12.34,NBA2010,Dallas Mavericks,6,438.00,-0.02,201.48,0.46,146.00,153.80,-7.80,NA,NA,3.00,0.00,NBA2010,Miami Heat,7,425.00,0.17,161.50,0.38,124.00,129.90,-5.90,NA,NA,3.43,0.00,NBA2010,Phoenix Suns,8,411.00,-0.04,184.95,0.45,147.00,126.60,20.40,NA,NA,2.80,20.15,NBA2010,San Antonio Spurs,9,404.00,0.01,40.40,0.10,135.00,139.70,-4.70,NA,NA,2.99,0.00,NBA2010,Toronto Raptors,10,399.00,0.03,135.66,0.34,138.00,112.70,25.30,NA,NA,2.89,15.77,NBA2010,Orlando Magic,11,385.00,0.06,111.65,0.29,108.00,131.10,-23.10,NA,NA,3.56,0.00,NBA2010,Golden State Warriors,12,363.00,0.15,148.83,0.41,119.00,104.70,14.30,NA,NA,3.05,25.38,NBA2010,Detroit Pistons,13,360.00,-0.25,0.00,0.00,147.00,115.20,31.80,NA,NA,2.45,11.32,NBA2010,Portland Trail Blazers,14,356.00,0.05,106.80,0.30,127.00,116.30,10.70,NA,NA,2.80,33.27,NBA2010,Cleveland Cavaliers,15,355.00,-0.26,198.80,0.56,161.00,158.40,2.60,NA,NA,2.20,136.54,NBA2010,Utah Jazz,16,343.00,0.00,17.15,0.05,121.00,124.90,-3.90,NA,NA,2.83,0.00,NBA2010,Philadelphia 76ers,17,330.00,-0.04,75.90,0.23,110.00,111.20,-1.20,NA,NA,3.00,0.00,NBA2010,Oklahoma City Thunder,18,329.00,0.06,141.47,0.43,118.00,95.40,22.60,NA,NA,2.79,14.56,NBA2010,Washington Wizards,19,322.00,0.03,128.80,0.40,107.00,112.20,-5.20,NA,NA,3.01,0.00,NBA2010,Denver Nuggets,20,316.00,-0.02,28.44,0.09,113.00,124.70,-11.70,NA,NA,2.80,0.00,NBA2010,New Jersey Nets,21,312.00,0.16,698.88,2.24,89.00,99.20,-10.20,NA,NA,3.51,0.00,NBA2010,Los Angeles Clippers,22,305.00,0.03,0.00,0.00,102.00,91.00,11.00,NA,NA,2.99,27.73,NBA2010,Atlanta Hawks,23,295.00,-0.04,185.85,0.63,105.00,112.30,-7.30,NA,NA,2.81,0.00,NBA2010,Sacramento Kings,24,293.00,-0.04,93.76,0.32,103.00,112.80,-9.80,NA,NA,2.84,0.00,NBA2010,Charlotte Bobcats,25,281.00,0.01,148.93,0.53,98.00,118.00,-20.00,NA,NA,2.87,0.00,NBA2010,New Orleans Hornets,26,280.00,0.05,193.20,0.69,100.00,105.90,-5.90,NA,NA,2.80,0.00,NBA2010,Indiana Pacers,27,269.00,-0.04,150.64,0.56,95.00,111.90,-16.90,NA,NA,2.83,0.00,NBA2010,Memphis Grizzlies,28,266.00,0.04,148.96,0.56,92.00,94.60,-2.60,NA,NA,2.89,0.00,NBA2010,Minnesota Timberwolves,29,264.00,-0.01,50.16,0.19,95.00,101.70,-6.70,NA,NA,2.78,0.00,NBA2010,Milwaukee Bucks,30,258.00,0.02,54.18,0.21,92.00,94.00,-2.00,NA,NA,2.80,0.00,NBA2009,Los Angeles Lakers,1,607.00,0.04,121.40,0.20,209.00,157.90,51.10,NA,NA,2.90,11.88,NBA2009,New York Knicks,2,586.00,-0.04,0.00,0.00,202.00,181.00,21.00,NA,NA,2.90,27.90,NBA2009,Chicago Bulls,3,511.00,0.02,56.21,0.11,168.00,117.00,51.00,NA,NA,3.04,10.02,NBA2009,Detroit Pistons,4,479.00,0.00,0.00,0.00,171.00,124.10,46.90,NA,NA,2.80,10.21,NBA2009,Cleveland Cavaliers,5,476.00,0.00,199.92,0.42,159.00,154.00,5.00,NA,NA,2.99,95.20,NBA2009,Houston Rockets,6,470.00,0.00,70.50,0.15,160.00,129.70,30.30,NA,NA,2.94,15.51,NBA2009,Dallas Mavericks,7,446.00,-0.04,115.96,0.26,154.00,171.40,-17.40,NA,NA,2.90,0.00,NBA2009,Boston Celtics,8,433.00,-0.03,181.86,0.42,144.00,131.10,12.90,NA,NA,3.01,33.57,NBA2009,Phoenix Suns,9,429.00,-0.05,184.47,0.43,148.00,127.30,20.70,NA,NA,2.90,20.72,NBA2009,San Antonio Spurs,10,398.00,-0.04,47.76,0.12,133.00,113.90,19.10,NA,NA,2.99,20.84,NBA2009,Toronto Raptors,11,386.00,-0.03,146.68,0.38,133.00,115.00,18.00,NA,NA,2.90,21.44,NBA2009,Miami Heat,12,364.00,-0.07,163.80,0.45,126.00,118.00,8.00,NA,NA,2.89,45.50,NBA2009,Orlando Magic,13,361.00,0.04,108.30,0.30,107.00,109.20,-2.20,NA,NA,3.37,0.00,NBA2009,Philadelphia 76ers,14,344.00,-0.04,65.36,0.19,115.00,107.40,7.60,NA,NA,2.99,45.26,NBA2009,Utah Jazz,15,343.00,-0.04,20.58,0.06,118.00,110.10,7.90,NA,NA,2.91,43.42,NBA2009,Portland Trail Blazers,16,338.00,0.10,104.78,0.31,121.00,141.30,-20.30,NA,NA,2.79,0.00,NBA2009,Denver Nuggets,17,321.00,-0.03,35.31,0.11,115.00,110.40,4.60,NA,NA,2.79,69.78,NBA2009,Golden State Warriors,18,315.00,-0.06,75.60,0.24,113.00,101.10,11.90,NA,NA,2.79,26.47,NBA2009,Washington Wizards,19,313.00,-0.11,194.06,0.62,110.00,105.10,4.90,NA,NA,2.85,63.88,NBA2009,Oklahoma City Thunder,20,310.00,0.03,139.50,0.45,111.00,98.30,12.70,NA,NA,2.79,24.41,NBA2009,Atlanta Hawks,21,306.00,0.00,64.26,0.21,103.00,105.00,-2.00,NA,NA,2.97,0.00,NBA2009,Sacramento Kings,22,305.00,-0.13,94.55,0.31,109.00,111.80,-2.80,NA,NA,2.80,0.00,NBA2009,Los Angeles Clippers,23,295.00,-0.01,0.00,0.00,102.00,92.00,10.00,NA,NA,2.89,29.50,NBA2009,Indiana Pacers,24,281.00,-0.07,50.58,0.18,97.00,112.70,-15.70,NA,NA,2.90,0.00,NBA2009,Charlotte Bobcats,25,278.00,-0.02,161.24,0.58,96.00,111.10,-15.10,NA,NA,2.90,0.00,NBA2009,New Jersey Nets,26,269.00,-0.09,207.13,0.77,92.00,105.90,-13.90,NA,NA,2.92,0.00,NBA2009,Minnesota Timberwolves,27,268.00,-0.11,50.92,0.19,96.00,102.80,-6.80,NA,NA,2.79,0.00,NBA2009,New Orleans Hornets,28,267.00,-0.06,146.85,0.55,95.00,95.10,-0.10,NA,NA,2.81,0.00,NBA2009,Memphis Grizzlies,29,257.00,-0.13,149.06,0.58,88.00,95.10,-7.10,NA,NA,2.92,0.00,NBA2009,Milwaukee Bucks,30,254.00,-0.09,55.88,0.22,91.00,98.40,-7.40,NA,NA,2.79,0.00,NBA2008,New York Knicks,1,613.00,0.01,0.00,0.00,208.00,178.40,29.60,NA,NA,2.95,20.71,NBA2008,Los Angeles Lakers,2,584.00,0.04,128.48,0.22,191.00,143.10,47.90,NA,NA,3.06,12.19,NBA2008,Chicago Bulls,3,504.00,0.01,55.44,0.11,165.00,109.60,55.40,NA,NA,3.05,9.10,NBA2008,Detroit Pistons,4,480.00,0.01,0.00,0.00,160.00,119.60,40.40,NA,NA,3.00,11.88,NBA2008,Cleveland Cavaliers,5,477.00,0.05,200.34,0.42,159.00,145.90,13.10,NA,NA,3.00,36.41,NBA2008,Houston Rockets,6,469.00,0.01,70.35,0.15,156.00,124.80,31.20,NA,NA,3.01,15.03,NBA2008,Dallas Mavericks,7,466.00,0.01,121.16,0.26,153.00,166.60,-13.60,NA,NA,3.05,0.00,NBA2008,Phoenix Suns,8,452.00,0.01,176.28,0.39,148.00,119.10,28.90,NA,NA,3.05,15.64,NBA2008,Boston Celtics,9,447.00,0.14,178.80,0.40,149.00,128.90,20.10,NA,NA,3.00,22.24,NBA2008,San Antonio Spurs,10,415.00,0.03,53.95,0.13,138.00,119.00,19.00,NA,NA,3.01,21.84,NBA2008,Toronto Raptors,11,400.00,0.07,160.00,0.40,138.00,110.30,27.70,NA,NA,2.90,14.44,NBA2008,Miami Heat,12,393.00,-0.06,168.99,0.43,131.00,132.10,-1.10,NA,NA,3.00,0.00,NBA2008,Philadelphia 76ers,13,360.00,-0.05,64.80,0.18,116.00,115.70,0.30,NA,NA,3.10,1200.00,NBA2008,Utah Jazz,14,358.00,0.05,10.74,0.03,119.00,110.20,8.80,NA,NA,3.01,40.68,NBA2008,Washington Wizards,15,353.00,0.02,165.91,0.47,118.00,103.10,14.90,NA,NA,2.99,23.69,NBA2008,Sacramento Kings,16,350.00,-0.09,84.00,0.24,117.00,110.00,7.00,NA,NA,2.99,50.00,NBA2008,Orlando Magic,17,349.00,0.08,101.21,0.29,100.00,93.80,6.20,NA,NA,3.49,56.29,NBA2008,Golden State Warriors,18,335.00,0.08,73.70,0.22,112.00,97.80,14.20,NA,NA,2.99,23.59,NBA2008,Denver Nuggets,19,329.00,0.03,46.06,0.14,112.00,138.30,-26.30,NA,NA,2.94,0.00,NBA2008,Portland Trail Blazers,20,307.00,0.21,104.38,0.34,114.00,114.90,-0.90,NA,NA,2.69,0.00,NBA2008,Atlanta Hawks,21,306.00,0.07,70.38,0.23,102.00,95.30,6.70,NA,NA,3.00,45.67,NBA2008,Indiana Pacers,22,303.00,-0.09,48.48,0.16,101.00,107.50,-6.50,NA,NA,3.00,0.00,NBA2008,Minnesota Timberwolves,23,301.00,-0.02,51.17,0.17,100.00,105.70,-5.70,NA,NA,3.01,0.00,NBA2008,Oklahoma City Thunder,24,300.00,0.12,141.00,0.47,82.00,91.40,-9.40,NA,NA,3.66,0.00,NBA2008,Los Angeles Clippers,25,297.00,0.01,0.00,0.00,99.00,88.30,10.70,NA,NA,3.00,27.76,NBA2008,New Jersey Nets,26,295.00,-0.13,209.45,0.71,98.00,98.90,-0.90,NA,NA,3.01,0.00,NBA2008,Memphis Grizzlies,27,294.00,-0.03,149.94,0.51,95.00,98.20,-3.20,NA,NA,3.09,0.00,NBA2008,New Orleans Hornets,28,285.00,0.05,99.75,0.35,95.00,91.80,3.20,NA,NA,3.00,89.06,NBA2008,Charlotte Bobcats,29,284.00,-0.01,150.52,0.53,95.00,99.90,-4.90,NA,NA,2.99,0.00,NBA2008,Milwaukee Bucks,30,278.00,0.05,55.60,0.20,94.00,88.60,5.40,NA,NA,2.96,51.48,NBA2007,New York Knicks,1,608.00,0.03,0.00,0.00,196.00,238.20,-42.20,NA,NA,3.10,0.00,NBA2007,Los Angeles Lakers,2,560.00,-0.02,84.00,0.15,170.00,138.20,31.80,NA,NA,3.29,17.61,NBA2007,Chicago Bulls,3,500.00,0.09,55.00,0.11,161.00,101.70,59.30,NA,NA,3.11,8.43,NBA2007,Detroit Pistons,4,477.00,0.11,0.00,0.00,154.00,114.80,39.20,NA,NA,3.10,12.17,NBA2007,Houston Rockets,5,462.00,0.05,69.30,0.15,149.00,119.30,29.70,NA,NA,3.10,15.56,NBA2007,Dallas Mavericks,6,461.00,-0.01,124.47,0.27,140.00,141.60,-1.60,NA,NA,3.29,0.00,NBA2007,Cleveland Cavaliers,7,455.00,0.20,200.20,0.44,152.00,120.10,31.90,NA,NA,2.99,14.26,NBA2007,Phoenix Suns,8,449.00,0.10,175.11,0.39,145.00,107.70,37.30,NA,NA,3.10,12.04,NBA2007,Miami Heat,9,418.00,0.02,175.56,0.42,131.00,113.10,17.90,NA,NA,3.19,23.35,NBA2007,San Antonio Spurs,10,405.00,0.04,56.70,0.14,131.00,115.50,15.50,NA,NA,3.09,26.13,NBA2007,Boston Celtics,11,391.00,0.06,179.86,0.46,117.00,98.70,18.30,NA,NA,3.34,21.37,NBA2007,Sacramento Kings,12,385.00,0.02,84.70,0.22,128.00,107.50,20.50,NA,NA,3.01,18.78,NBA2007,Philadelphia 76ers,13,380.00,0.01,64.60,0.17,112.00,114.80,-2.80,NA,NA,3.39,0.00,NBA2007,Toronto Raptors,14,373.00,0.18,164.12,0.44,124.00,95.20,28.80,NA,NA,3.01,12.95,NBA2007,Washington Wizards,15,348.00,0.04,167.04,0.48,112.00,100.40,11.60,NA,NA,3.11,30.00,NBA2007,Utah Jazz,16,342.00,0.15,17.10,0.05,114.00,108.30,5.70,NA,NA,3.00,60.00,NBA2007,New Jersey Nets,17,338.00,0.04,209.56,0.62,102.00,103.30,-1.30,NA,NA,3.31,0.00,NBA2007,Indiana Pacers,18,333.00,-0.02,46.62,0.14,107.00,108.30,-1.30,NA,NA,3.11,0.00,NBA2007,Orlando Magic,19,322.00,0.14,61.18,0.19,92.00,87.40,4.60,NA,NA,3.50,70.00,NBA2007,Denver Nuggets,20,321.00,0.04,51.36,0.16,104.00,108.80,-4.80,NA,NA,3.09,0.00,NBA2007,Golden State Warriors,21,309.00,0.16,74.16,0.24,103.00,101.70,1.30,NA,NA,3.00,237.69,NBA2007,Minnesota Timberwolves,22,308.00,0.00,49.28,0.16,103.00,104.90,-1.90,NA,NA,2.99,0.00,NBA2007,Memphis Grizzlies,23,304.00,-0.03,148.96,0.49,98.00,108.90,-10.90,NA,NA,3.10,0.00,NBA2007,Los Angeles Clippers,24,294.00,0.03,0.00,0.00,98.00,88.20,9.80,NA,NA,3.00,30.00,NBA2007,Charlotte Bobcats,25,287.00,0.04,149.24,0.52,93.00,87.70,5.30,NA,NA,3.09,54.15,NBA2007,Atlanta Hawks,26,286.00,0.04,71.50,0.25,95.00,85.30,9.70,NA,NA,3.01,29.48,NBA2007,New Orleans Hornets,27,272.00,0.10,149.60,0.55,91.00,80.80,10.20,NA,NA,2.99,26.67,NBA2007,Seattle SuperSonics,28,269.00,0.00,139.88,0.52,81.00,86.70,-5.70,NA,NA,3.32,0.00,NBA2007,Milwaukee Bucks,29,264.00,0.01,55.44,0.21,88.00,86.30,1.70,NA,NA,3.00,155.29,NBA2007,Portland Trail Blazers,30,253.00,0.10,103.73,0.41,82.00,107.10,-25.10,NA,NA,3.09,0.00,NBA2006,New York Knicks,1,592.00,0.09,0.00,0.00,185.00,224.00,-39.00,NA,NA,3.20,0.00,NBA2006,Los Angeles Lakers,2,568.00,0.07,85.20,0.15,167.00,133.70,33.30,NA,NA,3.40,17.06,NBA2006,Dallas Mavericks,3,463.00,0.15,138.90,0.30,140.00,164.40,-24.40,NA,NA,3.31,0.00,NBA2006,Chicago Bulls,4,461.00,0.13,55.32,0.12,149.00,100.50,48.50,NA,NA,3.09,9.51,NBA2006,Houston Rockets,5,439.00,0.04,70.24,0.16,142.00,120.60,21.40,NA,NA,3.09,20.51,NBA2006,Detroit Pistons,6,429.00,0.07,0.00,0.00,138.00,116.20,21.80,NA,NA,3.11,19.68,NBA2006,Phoenix Suns,7,410.00,0.04,266.50,0.65,132.00,97.50,34.50,NA,NA,3.11,11.88,NBA2006,Miami Heat,8,409.00,0.13,179.96,0.44,132.00,111.50,20.50,NA,NA,3.10,19.95,NBA2006,San Antonio Spurs,9,390.00,0.11,58.50,0.15,122.00,110.30,11.70,NA,NA,3.20,33.33,NBA2006,Cleveland Cavaliers,10,380.00,0.07,201.40,0.53,115.00,91.10,23.90,NA,NA,3.30,15.90,NBA2006,Sacramento Kings,11,379.00,0.10,83.38,0.22,126.00,109.60,16.40,NA,NA,3.01,23.11,NBA2006,Philadelphia 76ers,12,375.00,0.07,93.75,0.25,110.00,116.20,-6.20,NA,NA,3.41,0.00,NBA2006,Boston Celtics,13,367.00,0.04,179.83,0.49,111.00,95.30,15.70,NA,NA,3.31,23.38,NBA2006,Indiana Pacers,14,340.00,0.05,47.60,0.14,110.00,122.50,-12.50,NA,NA,3.09,0.00,NBA2006,Washington Wizards,15,334.00,0.05,167.00,0.50,108.00,93.20,14.80,NA,NA,3.09,22.57,NBA2006,New Jersey Nets,16,325.00,0.20,211.25,0.65,93.00,101.00,-8.00,NA,NA,3.49,0.00,NBA2006,Toronto Raptors,17,315.00,0.13,173.25,0.55,105.00,96.60,8.40,NA,NA,3.00,37.50,NBA2006,Memphis Grizzlies,18,313.00,0.07,150.24,0.48,101.00,119.50,-18.50,NA,NA,3.10,0.00,NBA2006,Denver Nuggets,19,309.00,0.09,55.62,0.18,100.00,90.60,9.40,NA,NA,3.09,32.87,NBA2006,Minnesota Timberwolves,20,308.00,0.02,49.28,0.16,103.00,98.40,4.60,NA,NA,2.99,66.96,NBA2006,Utah Jazz,21,297.00,0.08,20.79,0.07,96.00,94.60,1.40,NA,NA,3.09,212.14,NBA2006,Los Angeles Clippers,22,285.00,0.15,0.00,0.00,95.00,79.30,15.70,NA,NA,3.00,18.15,NBA2006,Orlando Magic,23,283.00,0.15,59.43,0.21,89.00,109.40,-20.40,NA,NA,3.18,0.00,NBA2006,Charlotte Bobcats,24,277.00,-0.08,149.58,0.54,89.00,77.10,11.90,NA,NA,3.11,23.28,NBA2006,Atlanta Hawks,25,275.00,0.05,71.50,0.26,92.00,79.10,12.90,NA,NA,2.99,21.32,NBA2006,Seattle SuperSonics,26,268.00,0.15,139.36,0.52,81.00,77.40,3.60,NA,NA,3.31,74.44,NBA2006,Golden State Warriors,27,267.00,0.10,74.76,0.28,89.00,82.70,6.30,NA,NA,3.00,42.38,NBA2006,Milwaukee Bucks,28,260.00,0.13,54.60,0.21,87.00,85.50,1.50,NA,NA,2.99,173.33,NBA2006,New Orleans Hornets,29,248.00,0.10,148.80,0.60,83.00,70.10,12.90,NA,NA,2.99,19.22,NBA2006,Portland Trail Blazers,30,230.00,0.01,59.80,0.26,77.00,92.20,-15.20,NA,NA,2.99,0.00,NBA2005,Los Angeles Lakers ,1,510.00,0.14,56.10,0.11,170.00,134.20,35.80,NA,NA,3.00,14.25,NBA2005,New York Knicks ,2,494.00,0.23,251.94,0.51,170.00,184.30,-14.30,NA,NA,2.91,0.00,NBA2005,Dallas Mavericks ,3,374.00,0.11,145.86,0.39,117.00,150.60,-33.60,NA,NA,3.20,0.00,NBA2005,Houston Rockets ,4,369.00,0.33,70.11,0.19,125.00,89.50,35.50,NA,NA,2.95,10.39,NBA2005,Chicago Bulls ,5,368.00,0.03,51.52,0.14,123.00,86.20,36.80,NA,NA,2.99,10.00,NBA2005,Detroit Pistons ,6,363.00,0.28,0.00,0.00,121.00,98.00,23.00,NA,NA,3.00,15.78,NBA2005,Phoenix Suns ,7,356.00,0.26,199.36,0.56,111.00,90.90,20.10,NA,NA,3.21,17.71,NBA2005,Philadelphia 76ers ,8,342.00,0.04,95.76,0.28,107.00,99.80,7.20,NA,NA,3.20,47.50,NBA2005,Boston Celtics ,9,334.00,0.15,180.36,0.54,104.00,78.60,25.40,NA,NA,3.21,13.15,NBA2005,Sacramento Kings ,10,330.00,0.20,82.50,0.25,118.00,117.40,0.60,NA,NA,2.80,550.00,NBA2005,San Antonio Spurs ,11,324.00,0.15,129.60,0.40,108.00,81.30,26.70,NA,NA,3.00,12.13,NBA2005,Indiana Pacers ,12,311.00,0.11,49.76,0.16,104.00,101.40,2.60,NA,NA,2.99,119.62,NBA2005,Cleveland Cavaliers ,13,298.00,0.15,29.80,0.10,93.00,71.10,21.90,NA,NA,3.20,13.61,NBA2005,Toronto Raptors ,14,297.00,0.19,109.89,0.37,100.00,94.60,5.40,NA,NA,2.97,55.00,NBA2005,New Jersey Nets ,15,296.00,0.22,150.96,0.51,93.00,100.40,-7.40,NA,NA,3.18,0.00,NBA2005,Minnesota Timberwolves ,16,291.00,0.26,49.47,0.17,97.00,117.00,-20.00,NA,NA,3.00,0.00,NBA2005,Miami Heat ,17,279.00,0.18,184.14,0.66,93.00,74.40,18.60,NA,NA,3.00,15.00,NBA2005,Washington Wizards ,18,273.00,0.00,109.20,0.40,94.00,72.50,21.50,NA,NA,2.90,12.70,NBA2005,Denver Nuggets ,19,268.00,0.23,50.92,0.19,89.00,63.80,25.20,NA,NA,3.01,10.63,NBA2005,Utah Jazz ,20,257.00,0.07,28.27,0.11,88.00,60.50,27.50,NA,NA,2.92,9.35,NBA2005,Portland Trail Blazers ,21,247.00,-0.09,130.91,0.53,88.00,135.00,-47.00,NA,NA,2.81,0.00,NBA2005,Memphis Grizzlies ,22,238.00,0.05,90.44,0.38,75.00,79.10,-4.10,NA,NA,3.17,0.00,NBA2005,Atlanta Hawks ,23,232.00,0.15,71.92,0.31,83.00,78.30,4.70,NA,NA,2.80,49.36,NBA2005,Golden State Warriors ,24,228.00,0.21,75.24,0.33,76.00,67.90,8.10,NA,NA,3.00,28.15,NBA2005,New Orleans Hornets ,25,225.00,0.04,99.00,0.44,80.00,62.90,17.10,NA,NA,2.81,13.16,NBA2005,Los Angeles Clippers ,26,224.00,0.08,0.00,0.00,77.00,54.60,22.40,NA,NA,2.91,10.00,NBA2005,Orlando Magic ,27,218.00,0.10,61.04,0.28,78.00,65.80,12.20,NA,NA,2.79,17.87,NBA2005,Seattle SuperSonics ,28,205.00,0.04,90.20,0.44,73.00,72.50,0.50,NA,NA,2.81,410.00,NBA2005,Milwaukee Bucks ,29,199.00,0.14,39.80,0.20,77.00,72.20,4.80,NA,NA,2.58,41.46,NBA2004,Los Angeles Lakers,1,447.00,0.05,134.10,0.30,149.00,126.20,22.80,NA,NA,3.00,19.61,NBA2004,New York Knicks,2,401.00,0.01,248.62,0.62,160.00,146.50,13.50,NA,NA,2.51,29.70,NBA2004,Chicago Bulls,3,356.00,0.10,24.92,0.07,119.00,70.00,49.00,NA,NA,2.99,7.27,NBA2004,Dallas Mavericks,4,338.00,0.11,148.72,0.44,117.00,134.70,-17.70,NA,NA,2.89,0.00,NBA2004,Philadelphia 76ers,5,328.00,0.10,65.60,0.20,109.00,107.00,2.00,NA,NA,3.01,164.00,NBA2004,Boston Celtics,6,290.00,0.06,179.80,0.62,97.00,71.40,25.60,NA,NA,2.99,11.33,NBA2004,Detroit Pistons,7,284.00,0.10,0.00,0.00,102.00,78.50,23.50,NA,NA,2.78,12.09,NBA2004,San Antonio Spurs,8,283.00,0.24,130.18,0.46,105.00,86.50,18.50,NA,NA,2.70,15.30,NBA2004,Phoenix Suns,9,282.00,0.04,129.72,0.46,109.00,87.50,21.50,NA,NA,2.59,13.12,NBA2004,Indiana Pacers,10,280.00,0.14,50.40,0.18,94.00,83.90,10.10,NA,NA,2.98,27.72,NBA2004,Houston Rockets,11,278.00,0.09,38.92,0.14,82.00,66.80,15.20,NA,NA,3.39,18.29,NBA2004,Sacramento Kings,12,275.00,0.06,66.00,0.24,102.00,118.80,-16.80,NA,NA,2.70,0.00,NBA2004,Washington Wizards,13,274.00,-0.02,65.76,0.24,98.00,69.50,28.50,NA,NA,2.80,9.61,NBA2004,Portland Trail Blazers,14,272.00,0.01,136.00,0.50,97.00,182.10,-85.10,NA,NA,2.80,0.00,NBA2004,Cleveland Cavaliers,15,258.00,0.16,30.96,0.12,72.00,68.20,3.80,NA,NA,3.58,67.89,NBA2004,Toronto Raptors,16,249.00,0.15,62.25,0.25,96.00,85.40,10.60,NA,NA,2.59,23.49,NBA2004,New Jersey Nets,17,244.00,0.12,100.04,0.41,94.00,95.60,-1.60,NA,NA,2.60,0.00,NBA2004,Utah Jazz,18,239.00,0.06,31.07,0.13,85.00,71.20,13.80,NA,NA,2.81,17.32,NBA2004,Miami Heat,19,236.00,-0.06,184.08,0.78,91.00,83.10,7.90,NA,NA,2.59,29.87,NBA2004,Minnesota Timberwolves,20,230.00,0.08,50.60,0.22,85.00,78.10,6.90,NA,NA,2.71,33.33,NBA2004,Memphis Grizzlies,21,227.00,0.14,90.80,0.40,63.00,82.70,-19.70,NA,NA,3.60,0.00,NBA2004,Denver Nuggets,22,218.00,0.04,56.68,0.26,75.00,67.10,7.90,NA,NA,2.91,27.59,NBA2004,New Orleans Hornets,23,216.00,0.25,75.60,0.35,80.00,58.10,21.90,NA,NA,2.70,9.86,NBA2004,Los Angeles Clippers,24,208.00,0.01,0.00,0.00,72.00,56.10,15.90,NA,NA,2.89,13.08,NBA2004,Atlanta Hawks,25,202.00,-0.02,70.70,0.35,78.00,86.40,-8.40,NA,NA,2.59,0.00,NBA2004,Orlando Magic,26,199.00,0.01,59.70,0.30,80.00,66.90,13.10,NA,NA,2.49,15.19,NBA2004,Seattle Supersonics,27,196.00,-0.06,90.16,0.46,70.00,67.60,2.40,NA,NA,2.80,81.67,NBA2004,Golden State Warriors,28,188.00,0.06,54.52,0.29,70.00,62.20,7.80,NA,NA,2.69,24.10,NBA2004,Milwaukee Bucks,29,174.00,0.04,29.58,0.17,70.00,85.10,-15.10,NA,NA,2.49,0.00,NBA2003,Los Angeles Lakers,1,426.00,0.00,NA,NA,NA,NA,44.10,NA,NA,NA,9.66,NBA2003,New York Knicks,2,398.00,0.06,NA,NA,NA,NA,25.10,NA,NA,NA,15.86,NBA2003,Chicago Bulls,3,323.00,0.23,NA,NA,NA,NA,39.10,NA,NA,NA,8.26,NBA2003,Dallas Mavericks,4,304.00,NA,NA,NA,NA,NA,3.20,NA,NA,NA,95.00,NBA2003,Philadelphia 76ers,5,298.00,0.16,NA,NA,NA,NA,18.10,NA,NA,NA,16.46,NBA2003,Washington Wizards,6,278.00,0.15,NA,NA,NA,NA,12.70,NA,NA,NA,21.89,NBA2003,Boston Celtics,7,274.00,NA,NA,NA,NA,NA,17.40,NA,NA,NA,15.75,NBA2003,Phoenix Suns,8,272.00,0.13,NA,NA,NA,NA,18.50,NA,NA,NA,14.70,NBA2003,Portland Trail Blazers,9,270.00,0.10,NA,NA,NA,NA,-22.80,NA,NA,NA,0.00,NBA2003,Sacramento Kings,10,259.00,0.14,NA,NA,NA,NA,13.50,NA,NA,NA,19.19,NBA2003,Detroit Pistons,11,258.00,0.13,NA,NA,NA,NA,12.90,NA,NA,NA,20.00,NBA2003,Houston Rockets,12,255.00,0.13,NA,NA,NA,NA,6.70,NA,NA,NA,38.06,NBA2003,Miami Heat,13,250.00,0.20,NA,NA,NA,NA,8.10,NA,NA,NA,30.86,NBA2003,Indiana Pacers,14,246.00,0.18,NA,NA,NA,NA,3.10,NA,NA,NA,79.35,NBA2003,San Antonio Spurs,15,242.00,0.14,NA,NA,NA,NA,8.30,NA,NA,NA,29.16,NBA2003,Utah Jazz,16,226.00,0.14,NA,NA,NA,NA,1.90,NA,NA,NA,118.95,NBA2003,Cleveland Cavaliers,17,222.00,0.14,NA,NA,NA,NA,5.90,NA,NA,NA,37.63,NBA2003,New Jersey Nets,18,218.00,0.10,NA,NA,NA,NA,4.50,NA,NA,NA,48.44,NBA2003,Toronto Raptors,19,217.00,0.15,NA,NA,NA,NA,4.50,NA,NA,NA,48.22,NBA2003,Minnesota Timberwolves,20,213.00,0.13,NA,NA,NA,NA,8.80,NA,NA,NA,24.20,NBA2003,Denver Nuggets,21,209.00,NA,NA,NA,NA,NA,-5.00,NA,NA,NA,0.00,NBA2003,Seattle Supersonics,22,207.00,NA,NA,NA,NA,NA,6.30,NA,NA,NA,32.86,NBA2003,Atlanta Hawks,23,206.00,NA,NA,NA,NA,NA,4.20,NA,NA,NA,49.05,NBA2003,Los Angeles Clippers,24,205.00,0.14,NA,NA,NA,NA,16.30,NA,NA,NA,12.58,NBA2003,Memphis Grizzlies,25,198.00,NA,NA,NA,NA,NA,0.60,NA,NA,NA,330.00,NBA2003,Orlando Magic,26,197.00,0.08,NA,NA,NA,NA,8.20,NA,NA,NA,24.02,NBA2003,Golden State Warriors,27,176.00,0.06,NA,NA,NA,NA,-0.60,NA,NA,NA,0.00,NBA2003,New Orleans Hornets,28,172.00,0.13,NA,NA,NA,NA,-8.30,NA,NA,NA,0.00,NBA2003,Milwaukee Bucks,29,168.00,0.14,NA,NA,NA,NA,-8.50,NA,NA,NA,0.00,NBA2002,Los Angeles Lakers,1,403.00,0.12,52.39,0.13,144.00,112.90,31.10,65.10,NA,2.80,12.96,NBA2002,New York Knicks,2,392.00,-0.01,148.96,0.38,157.00,128.50,28.50,81.60,NA,2.50,13.75,NBA2002,Chicago Bulls,3,329.00,0.05,29.61,0.09,117.00,65.30,51.70,32.70,NA,2.81,6.36,NBA2002,Portland Trail Blazers,4,283.00,0.04,135.84,0.48,101.00,120.30,-19.30,89.50,NA,2.80,0.00,NBA2002,Philadelphia 76ers,5,279.00,0.19,61.38,0.22,103.00,91.90,11.10,53.60,NA,2.71,25.14,NBA2002,Phoenix Suns,6,266.00,0.06,133.00,0.50,102.00,76.80,25.20,45.50,NA,2.61,10.56,NBA2002,Miami Heat,7,248.00,0.10,186.00,0.75,99.00,97.70,1.30,66.90,NA,2.51,190.77,NBA2002,Houston Rockets,8,234.00,0.13,39.78,0.17,81.00,77.20,3.80,52.30,NA,2.89,61.58,NBA2002,Indiana Pacers ,9,231.00,0.00,55.44,0.24,89.00,88.30,0.70,57.60,NA,2.60,330.00,NBA2002,Detroit Pistons,10,230.00,-0.02,0.00,0.00,92.00,74.00,18.00,40.50,NA,2.50,12.78,NBA2002,Utah Jazz,11,225.00,0.00,38.25,0.17,88.00,85.50,2.50,56.70,NA,2.56,90.00,NBA2002,San Antonio Spurs,12,221.00,0.17,39.78,0.18,82.00,84.40,-2.40,60.20,NA,2.70,0.00,NBA2002,Boston Celtics,13,218.00,0.03,54.50,0.25,81.00,71.20,9.80,49.50,NA,2.69,22.24,NBA2002,Washington Wizards,14,214.00,0.02,111.28,0.52,81.00,86.70,-5.70,62.10,NA,2.64,0.00,NBA2002,Dallas Mavericks,15,211.00,0.26,105.50,0.50,68.00,91.40,-23.40,59.90,NA,3.10,0.00,NBA2002,Sacramento Kings,16,209.00,0.17,100.32,0.48,87.00,77.00,10.00,49.10,NA,2.40,20.90,NBA2002,Cleveland Cavaliers,17,202.00,0.09,0.00,0.00,75.00,67.90,7.10,47.80,NA,2.69,28.45,NBA2002,Seattle SuperSonics,18,200.00,0.07,100.00,0.50,80.00,77.90,2.10,53.60,NA,2.50,95.24,NBA2002,Atlanta Hawks,19,199.00,0.08,59.70,0.30,76.00,70.20,5.80,42.20,NA,2.62,34.31,NBA2002,Denver Nuggets,20,188.00,0.07,67.68,0.36,72.00,79.60,-7.60,54.80,NA,2.61,0.00,NBA2002,Minnesota Timberwolves,21,185.00,0.09,20.35,0.11,77.00,72.80,4.20,50.20,NA,2.40,44.05,NBA2002,Orlando Magic,22,176.00,0.06,54.56,0.31,76.00,62.70,13.30,40.00,NA,2.32,13.23,NBA2002,Toronto Raptors,23,172.00,0.17,137.60,0.80,75.00,69.90,5.10,40.90,NA,2.29,33.73,NBA2002,Los Angeles Clippers,24,170.00,0.10,0.00,0.00,68.00,56.50,11.50,32.60,NA,2.50,14.78,NBA2002,New Jersey Nets,25,169.00,-0.06,157.17,0.93,73.00,84.30,-11.30,59.70,NA,2.32,0.00,NBA2002,Golden State Warriors,26,166.00,-0.01,99.60,0.60,69.00,66.10,2.90,44.90,NA,2.41,57.24,NBA2002,Memphis Grizzlies,27,160.00,0.36,80.00,0.50,53.00,66.30,-13.30,51.20,NA,3.02,0.00,NBA2002,Milwaukee Bucks,28,150.00,0.14,19.50,0.13,65.00,81.30,-16.30,60.40,NA,2.31,0.00,NBA2002,Charlotte Hornets,29,135.00,-0.06,49.95,0.37,65.00,65.50,-0.50,49.40,NA,2.08,0.00,NBA2001,New York Knicks,1,395.00,0.18,150.10,0.38,152.00,121.30,30.70,74.80,43.50,2.60,12.87,NBA2001,Los Angeles Lakers,2,360.00,0.28,54.00,0.15,133.20,96.60,36.60,57.70,50.20,2.70,9.84,NBA2001,Chicago Bulls,3,314.00,0.02,31.40,0.10,112.20,64.00,48.20,29.50,30.50,2.80,6.51,NBA2001,Portland Trail Blazers,4,272.00,0.06,149.60,0.55,97.30,110.10,-12.80,76.40,44.00,2.80,0.00,NBA2001,Phoenix Suns,5,252.00,0.05,25.20,0.10,96.80,80.30,16.50,49.00,24.00,2.60,15.27,NBA2001,Detroit Pistons,6,236.00,0.04,0.00,0.00,90.60,79.00,11.60,44.60,17.90,2.60,20.34,NBA2001,Philadelphia 76ers,7,233.00,0.01,69.90,0.30,86.30,79.80,6.50,44.80,22.20,2.70,35.85,NBA2001,Indiana Pacers,8,232.00,0.31,58.00,0.25,86.10,85.20,0.90,56.70,32.00,2.69,257.78,NBA2001,Utah Jazz,9,226.00,0.05,42.94,0.19,87.00,81.80,5.20,51.70,33.80,2.60,43.46,NBA2001,Miami Heat,10,225.00,0.39,184.50,0.82,89.90,80.20,9.70,53.50,29.90,2.50,23.20,NBA2001,Boston Celtics,11,212.00,0.13,93.28,0.44,81.50,69.10,12.40,48.70,24.90,2.60,17.10,NBA2001,Washington Wizards,12,210.00,0.00,111.30,0.53,75.00,81.10,-6.10,55.10,20.30,2.80,0.00,NBA2001,Houston Rockets,13,206.00,0.23,39.14,0.19,79.40,80.40,-1.00,54.80,33.10,2.59,0.00,NBA2001,San Antonio Spurs,14,189.00,0.12,39.69,0.21,67.40,68.80,-1.40,46.30,26.90,2.80,0.00,NBA2001,Seattle SuperSonics,15,187.00,0.02,72.93,0.39,74.70,68.00,6.70,43.80,28.50,2.50,27.91,NBA2001,Cleveland Cavaliers,16,185.00,0.09,0.00,0.00,68.60,70.60,-2.00,49.00,15.30,2.70,0.00,NBA2001,Atlanta Hawks,17,184.00,0.23,60.72,0.33,70.80,72.60,-1.80,45.60,16.70,2.60,0.00,NBA2001,New Jersey Nets,18,179.00,0.08,139.62,0.78,78.00,69.30,8.70,45.30,27.10,2.29,20.57,NBA2001,Sacramento Kings,19,178.00,0.18,64.08,0.36,71.30,68.50,2.80,42.60,27.20,2.50,63.57,NBA2001,Denver Nuggets,20,175.00,0.42,68.25,0.39,67.50,70.20,-2.70,45.70,15.00,2.59,0.00,NBA2001,Minnesota Timberwolves,21,169.00,0.16,20.28,0.12,70.40,64.60,5.80,44.60,22.80,2.40,29.14,NBA2001,Golden State Warriors,22,168.00,0.20,112.56,0.67,67.20,61.20,6.00,38.60,19.30,2.50,28.00,NBA2001,Dallas Mavericks,23,167.00,0.19,106.88,0.64,59.70,66.40,-6.70,42.00,21.30,2.80,0.00,NBA2001,Orlando Magic,24,165.00,0.04,54.45,0.33,66.00,66.20,-0.20,44.10,21.60,2.50,0.00,NBA2001,Los Angeles Clippers,25,154.00,0.50,0.00,0.00,61.80,50.30,11.50,28.80,15.00,2.49,13.39,NBA2001,Toronto Raptors,26,148.00,0.07,137.64,0.93,61.50,60.30,1.20,37.20,19.40,2.41,123.33,NBA2001,Charlotte Hornets,27,144.00,0.06,50.40,0.35,57.80,59.90,-2.10,41.10,20.00,2.49,0.00,NBA2001,Milwaukee Bucks,28,131.00,0.18,24.89,0.19,54.70,67.70,-13.00,48.30,15.30,2.39,0.00,NBA2001,Vancouver Grizzlies,29,118.00,-0.07,80.24,0.68,51.30,59.80,-8.50,40.20,11.60,2.30,0.00,NBA2000,New York Knicks,1,334.00,0.13,163.66,0.49,92.90,88.90,4.00,NA,NA,3.60,83.50,NBA2000,Chicago Bulls,2,307.00,0.01,30.70,0.10,66.80,46.40,20.40,NA,NA,4.60,15.05,NBA2000,Los Angeles Lakers,3,282.00,0.05,157.92,0.56,58.70,59.60,-0.90,NA,NA,4.80,0.00,NBA2000,Portland Trail Blazers,4,257.00,0.05,149.06,0.58,57.10,70.60,-13.50,NA,NA,4.50,0.00,NBA2000,Phoenix Suns,5,239.00,0.02,54.97,0.23,58.30,52.50,5.80,NA,NA,4.10,41.21,NBA2000,Philadelphia 76ers,6,231.00,0.18,69.30,0.30,57.70,55.90,1.80,NA,NA,4.00,128.33,NBA2000,Detroit Pistons,7,226.00,0.10,0.00,0.00,51.30,53.00,-1.70,NA,NA,4.41,0.00,NBA2000,Utah Jazz,8,215.00,0.07,47.30,0.22,47.70,48.40,-0.70,NA,NA,4.51,0.00,NBA2000,Washington Wizards,9,209.00,0.01,110.77,0.53,48.60,51.40,-2.80,NA,NA,4.30,0.00,NBA2000,Boston Celtics,10,187.00,0.06,87.89,0.47,41.50,39.20,2.30,NA,NA,4.51,81.30,NBA2000,Seattle Supersonics,11,183.00,0.08,73.20,0.40,43.60,45.90,-2.30,NA,NA,4.20,0.00,NBA2000,Indiana Pacers,12,178.00,0.17,56.96,0.32,34.20,53.60,-19.40,NA,NA,5.20,0.00,NBA2000,Cleveland Cavaliers,13,170.00,0.06,0.00,0.00,37.80,37.90,-0.10,NA,NA,4.50,0.00,NBA2000,San Antonio Spurs,14,169.00,0.39,25.35,0.15,42.30,49.00,-6.70,NA,NA,4.00,0.00,NBA2000,Houston Rockets,15,168.00,0.01,40.32,0.24,44.30,47.90,-3.60,NA,NA,3.79,0.00,NBA2000,New Jersey Nets,16,166.00,0.06,19.92,0.12,38.60,47.20,-8.60,NA,NA,4.30,0.00,NBA2000,Miami Heat,17,162.00,0.12,184.68,1.14,33.10,53.80,-20.70,NA,NA,4.89,0.00,NBA2000,Orlando Magic,18,159.00,0.19,55.65,0.35,37.90,47.00,-9.10,NA,NA,4.20,0.00,NBA2000,Sacramento Kings,19,151.00,0.27,64.93,0.43,34.30,46.80,-12.50,NA,NA,4.40,0.00,NBA2000,Atlanta Hawks,20,150.00,0.07,66.00,0.44,28.80,48.10,-19.30,NA,NA,5.21,0.00,NBA2000,Minnesota Timberwolves,21,146.00,0.23,20.44,0.14,41.70,37.50,4.20,NA,NA,3.50,34.76,NBA2000,Dallas Mavericks,22,141.00,0.18,107.16,0.76,26.10,40.80,-14.70,NA,NA,5.40,0.00,NBA2000,Golden State Warriors,23,140.00,0.08,112.00,0.80,31.80,39.50,-7.70,NA,NA,4.40,0.00,NBA2000,Toronto Raptors,24,138.00,0.14,132.48,0.96,33.60,41.60,-8.00,NA,NA,4.11,0.00,NBA2000,Charlotte Hornets,25,136.00,0.10,50.32,0.37,30.30,32.50,-2.20,NA,NA,4.49,0.00,NBA2000,Vancouver Grizzlies,26,127.00,-0.05,59.69,0.47,28.20,40.60,-12.40,NA,NA,4.50,0.00,NBA2000,Denver Nuggets,27,124.00,0.13,69.44,0.56,23.80,33.60,-9.80,NA,NA,5.21,0.00,NBA2000,Milwaukee Bucks,28,111.00,0.18,25.53,0.23,25.80,40.70,-14.90,NA,NA,4.30,0.00,NBA2000,Los Angeles Clippers,29,103.00,0.01,0.00,0.00,23.00,36.20,-13.20,NA,NA,4.48,0.00,NBA1999,Chicago Bulls,1,303.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,New York Knicks,2,295.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Los Angeles Lakers,3,268.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Portland Trail Blazers,4,244.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Phoenix Suns,5,234.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Washington Wizards,6,206.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Detroit Pistons,7,205.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Utah Jazz,8,200.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Philadelphia 76ers,9,195.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Boston Celtics,10,176.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Seattle Supersonics,11,169.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Houston Rockets,12,166.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Cleveland Cavaliers,13,160.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,New Jersey Nets,14,156.60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Indiana Pacers,15,152.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Miami Heat,16,144.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Atlanta Hawks,17,140.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Vancouver Grizzlies,18,133.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Orlando Magic,19,133.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Golden State Warriors,20,129.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Charlotte Hornets,21,123.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,San Antonio Spurs,22,121.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Toronto Raptors,23,121.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Dallas Mavericks,24,119.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Sacramento Kings,25,118.90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Minnesota Timberwolves,26,118.70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Denver Nuggets,27,109.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Los Angeles Clippers,28,101.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1999,Milwaukee Bucks,29,94.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,New York Knicks,1,250.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Phoenix Suns,2,220.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Chicago Bulls,3,214.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Los Angeles Lakers,4,211.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Detroit Pistons,5,202.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Cleveland Cavaliers,6,180.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Portland Trail Blazers,7,179.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Utah Jazz,8,163.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,San Antonio Spurs,10,156.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Orlando Magic,9,156.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Boston Celtics,11,155.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Houston Rockets,12,154.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Toronto Raptors,13,138.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,New Jersey Nets,14,137.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Seattle SuperSonics,15,137.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Charlotte Hornets,16,136.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Sacramento Kings,17,131.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Golden State Warriors,18,130.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Washington Bullets,19,129.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Vancouver Grizzlies,20,127.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Minnesota Timberwolves,21,123.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Miami Heat,22,118.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Denver Nuggets,23,116.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Indiana Pacers,24,114.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Philadelphia 76ers,25,113.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Atlanta Hawks,26,111.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Dallas Mavericks,27,104.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Milwaukee Bucks,28,103.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1997,Los Angeles Clippers,29,95.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,New York Knicks,1,205.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Phoenix Suns,2,191.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Detroit Pistons,3,186.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Chicago Bulls,4,178.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Los Angeles Lakers,5,171.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Cleveland Cavaliers,6,151.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Utah Jazz,7,142.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Portland Trail Blazers,8,137.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Boston Celtics,9,134.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Seattle SuperSonics,10,129.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,San Antonio Spurs,11,126.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Orlando Magic,12,121.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Houston Rockets,13,116.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Sacramento Kings,14,114.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Golden State Warriors,15,114.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Washington Bullets,16,113.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Charlotte Hornets,17,113.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Minnesota Timberwolves,18,110.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,New Jersey Nets,19,108.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Milwaukee Bucks,20,103.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Denver Nuggets,21,102.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Miami Heat,22,97.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Atlanta Hawks,23,96.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Indiana Pacers,24,94.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Philadelphia 76ers,25,93.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Dallas Mavericks,26,89.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1996,Los Angeles Clippers,27,88.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Detroit Pistons,1,180.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,New York Knicks,2,173.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Los Angeles Lakers,3,169.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Chicago Bulls,4,166.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Phoenix Suns,5,156.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Cleveland Cavaliers,6,133.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Portland Trailblazers,7,132.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Boston Celtics,8,127.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Utah Jazz,9,127.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Seattle Supersonics,10,119.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Charlotte Hornets,11,110.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,San Antonio Spurs,12,110.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Sacramento Kings,13,108.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Orlando Magic,14,101.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Minnesota Timberwolves,15,99.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Washington Bullets,16,96.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Houston Rockets,17,95.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Milwaukee Bucks,18,92.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,New Jersey Nets,19,92.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Denver Nuggets,20,88.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Miami Heat,21,88.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Los Angeles Clippers,22,87.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Atlanta Hawks,23,84.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Golden State Warriors,24,83.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Dallas Mavericks,25,81.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Philadelphia 76ers,26,81.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1995,Indiana Pacers,27,77.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Los Angeles Lakers,1,168.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Detroit Pistons,2,154.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Chicago Bulls,3,149.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,New York Knicks,4,136.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Portland Trailblazers,5,122.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Cleveland Cavaliers,6,118.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Boston Celtics,7,117.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Phoenix Suns,8,108.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Charlotte Hornets,9,104.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,San Antonio Spurs,10,100.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Utah Jazz,11,98.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Seattle Supersonics,12,96.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Minnesota Timberwolves,13,92.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Golden State Warriors,14,85.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Houston Rockets,15,84.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Orlando Magic,16,84.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Sacramento Kings,17,84.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Los Angeles Clippers,18,83.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Philadelphia 76ers,19,83.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Dallas Mavericks,20,79.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,New Jersey Nets,21,79.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Washington Bullets,22,78.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Milwaukee Bucks,23,77.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Miami Heat,24,76.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Atlanta Hawks,25,72.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Denver Nuggets,26,69.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1994,Indiana Pacers,27,67.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Los Angeles Lakers,1,150.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Detroit Pistons,2,120.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Boston Celtics,3,110.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Chicago Bulls,4,100.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,New York Knicks,5,83.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Cleveland Cavaliers,6,81.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Phoenix Suns,7,80.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Portland Trailblazers,8,78.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Charlotte Hornets,9,74.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Golden State Warriors,10,63.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Philadelphia 76ers,11,63.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Sacramento Kings,12,63.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,San Antonio Spurs,13,63.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Minnesota Timberwolves,14,62.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Orlando Magic,15,62.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Houston Rockets,16,61.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Dallas Mavericks,17,60.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Miami Heat,18,60.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Atlanta Hawks,19,57.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Milwaukee Bucks,20,56.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Los Angeles Clippers,21,54.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,New Jersey Nets,22,54.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Utah Jazz,23,52.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Denver Nuggets,24,46.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Washington Bullets,25,46.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Seattle Supersonics,26,45.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1992,Indiana Pacers,27,43.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Los Angeles Lakers,1,200.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Boston Celtics,2,180.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Detroit Pistons,3,150.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Chicago Bulls,4,100.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,New York Knicks,5,100.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Phoenix Suns,6,99.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Philadelphia 76ers,7,75.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Cleveland Cavaliers,8,61.10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Orlando Magic,9,60.80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Portland Trailblazers,10,59.90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Charlotte Hornets,11,59.60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Miami Heat,12,58.60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Houston Rockets,13,58.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Dallas Mavericks,14,54.40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Atlanta Hawks,15,53.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Milwaukee Bucks,16,53.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Minnesota Timberwolves,17,51.20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Golden State Warriors,18,50.70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Sacramento Kings,19,49.10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,San Antonio Spurs,20,46.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Utah Jazz,21,44.90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Los Angeles Clippers,22,42.90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,New Jersey Nets,23,42.60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Denver Nuggets,24,40.60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Washington Bullets,25,37.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Seattle Supersonics,26,37.30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA1991,Indiana Pacers,27,33.30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NBA
