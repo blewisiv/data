@@ -1,0 +1,457 @@
+"","rank","team","value","value_change","debt_percent","revenue","operating_income","year"
+"1",1,"New York Yankees",548,11,47,195.6,17.5,2000
+"2",2,"Atlanta Braves",388,9,9,155.2,18.3,2000
+"3",3,"Cleveland Indians",364,1,37,151.7,16.5,2000
+"4",4,"Baltimore Orioles",347,-1,43,138.8,-0.7,2000
+"5",5,"Los Angeles Dodgers",325,20,11,120.3,-21.1,2000
+"6",6,"New York Mets",314,26,19,125.6,-1.2,2000
+"7",7,"Colorado Rockies",305,-2,14,122.2,7.9,2000
+"8",8,"Texas Rangers",294,5,68,117.5,-9.5,2000
+"9",9,"Seattle Mariners",290,23,59,111.6,5.5,2000
+"10",10,"Boston Red Sox",284,11,13,123.3,2.4,2000
+"11",11,"Houston Astros",280,17,57,93.3,-5.5,2000
+"12",12,"Arizona Diamondbacks",268,-8,50,111.5,12.9,2000
+"13",13,"Chicago Cubs",242,8,15,105.4,-1.6,2000
+"14",14,"San Francisco Giants",237,12,76,71.9,-9,2000
+"15",15,"St Louis Cardinals",219,7,16,104.5,5.4,2000
+"16",16,"Detroit Tigers",200,32,87,71.5,1.1,2000
+"17",17,"San Diego Padres",197,-4,94,78.9,-8.8,2000
+"18",18,"Anaheim Angels",195,0,10,90.7,-2.5,2000
+"19",19,"Cincinnati Reds",175,7,37,59.4,-5.1,2000
+"20",20,"Milwaukee Brewers",167,8,84,60.8,-14.4,2000
+"21",21,"Chicago White Sox",166,-7,22,73.8,11.7,2000
+"22",22,"Tampa Bay Devil Rays",163,-28,61,77.5,-6.5,2000
+"23",23,"Toronto Blue Jays",162,0,22,73.7,-2.8,2000
+"24",24,"Pittsburgh Pirates",161,11,56,57.6,0.2,2000
+"25",25,"Philadelphia Phillies",150,3,24,68.1,3,2000
+"26",26,"Oakland Athletics",134,7,45,60.9,3.9,2000
+"27",27,"Florida Marlins",125,-19,14,59.3,2.4,2000
+"28",28,"Kansas City Royals",122,27,30,62.5,5.8,2000
+"29",29,"Minnesota Twins",91,2,91,47.7,2.2,2000
+"30",30,"Montreal Expos",89,7,75,47.1,1.9,2000
+"31",1,"New York Yankees",635,16,40,192.4,21.9,2001
+"32",2,"New York Mets ",454,44,13,162,21.3,2001
+"33",3,"Atlanta Braves ",407,5,10,145.5,7.7,2001
+"34",4,"Los Angeles Dodgers ",381,17,11,131.3,-17.4,2001
+"35",5,"Cleveland Indians ",372,2,36,142.9,4.2,2001
+"36",6,"Texas Rangers ",342,16,51,126.5,7.4,2001
+"37",7,"Boston Red Sox ",339,20,12,125.7,-7.3,2001
+"38",8,"Baltimore Orioles ",335,-3,45,124,2.1,2001
+"39",9,"Colorado Rockies ",334,9,12,119.1,6.4,2001
+"40",10,"San Francisco Giants ",333,40,59,138.8,27.4,2001
+"41",11,"Seattle Mariners ",332,14,51,138.3,17.8,2001
+"42",12,"Houston Astros ",318,14,50,122.2,22.3,2001
+"43",13,"Detroit Tigers ",290,45,66,120.8,12.1,2001
+"44",14,"Chicago Cubs ",247,2,16,112.4,9.1,2001
+"45",15,"Arizona Diamondbacks ",245,-8,63,109.1,-7.9,2001
+"46",16,"St Louis Cardinals ",243,11,16,110.5,-3,2001
+"47",17,"Chicago White Sox ",213,28,19,92.6,17.8,2001
+"48",18,"Pittsburgh Pirates ",211,31,43,70.4,2.3,2001
+"49",19,"Milwaukee Brewers ",209,25,67,69.6,-1.6,2001
+"50",20,"Anaheim Angels ",198,2,13,94.4,-8.9,2001
+"51",21,"Cincinnati Reds ",187,7,35,77.8,6.9,2001
+"52",22,"San Diego Padres ",176,-11,108,84,-8,2001
+"53",23,"Toronto Blue Jays ",161,-1,25,80.3,-5.9,2001
+"54",24,"Philadelphia Phillies ",158,6,25,79.2,-1.1,2001
+"55",25,"Tampa Bay Devil Rays ",150,-8,66,81.3,-11.3,2001
+"56",26,"Oakland Athletics ",149,11,40,74.7,5.2,2001
+"57",27,"Kansas City Royals ",138,13,29,72.6,4.3,2001
+"58",28,"Florida Marlins ",128,3,30,67.3,6.5,2001
+"59",29,"Minnesota Twins ",99,9,84,58,5.8,2001
+"60",30,"Montreal Expos ",92,3,73,53.9,-8.1,2001
+"61",1,"New York Yankees",751.3,NA,NA,NA,NA,2002
+"62",2,"New York Mets",483.5,NA,NA,NA,NA,2002
+"63",3,"Los Angeles Dodgers",435.9,NA,NA,NA,NA,2002
+"64",4,"Boston Red Sox",428.1,NA,NA,NA,NA,2002
+"65",5,"Atlanta Braves",423,NA,NA,NA,NA,2002
+"66",6,"Seattle Mariners",373.8,NA,NA,NA,NA,2002
+"67",7,"Cleveland Indians",359.8,NA,NA,NA,NA,2002
+"68",8,"Texas Rangers",357,NA,NA,NA,NA,2002
+"69",9,"San Francisco Giants",353.7,NA,NA,NA,NA,2002
+"70",10,"Colorado Rockies",345.5,NA,NA,NA,NA,2002
+"71",11,"Houston Astros",337.1,NA,NA,NA,NA,2002
+"72",12,"Baltimore Orioles",319.6,NA,NA,NA,NA,2002
+"73",13,"Chicago Cubs",286.3,NA,NA,NA,NA,2002
+"74",14,"Arizona Diamondbacks",271.7,NA,NA,NA,NA,2002
+"75",15,"St Louis Cardinals",270.2,NA,NA,NA,NA,2002
+"76",16,"Detroit Tigers",263.3,NA,NA,NA,NA,2002
+"77",17,"Pittsburgh Pirates",240.9,NA,NA,NA,NA,2002
+"78",18,"Milwaukee Brewers",239.5,NA,NA,NA,NA,2002
+"79",19,"Philadelphia Phillies",232,NA,NA,NA,NA,2002
+"80",20,"Chicago White Sox",221.9,NA,NA,NA,NA,2002
+"81",21,"San Diego Padres",207.3,NA,NA,NA,NA,2002
+"82",22,"Cincinnati Reds",202.7,NA,NA,NA,NA,2002
+"83",23,"Anaheim Angels",195.7,NA,NA,NA,NA,2002
+"84",24,"Toronto Blue Jays",182.4,NA,NA,NA,NA,2002
+"85",25,"Oakland Athletics",156.4,NA,NA,NA,NA,2002
+"86",26,"Kansas City Royals",153,NA,NA,NA,NA,2002
+"87",27,"Tampa Bay Devil Rays",142.2,NA,NA,NA,NA,2002
+"88",28,"Florida Marlins",137.4,NA,NA,NA,NA,2002
+"89",29,"Minnesota Twins",127.6,NA,NA,NA,NA,2002
+"90",30,"Montreal Expos",107.6,NA,NA,NA,NA,2002
+"91",1,"New York Yankees",849,13,14,223,16.1,2003
+"92",2,"New York Mets",498,3,65,175,11.6,2003
+"93",3,"Boston Red Sox",488,14,49,171,-2.1,2003
+"94",4,"Los Angeles Dodgers",449,3,22,150,-25,2003
+"95",5,"Atlanta Braves",423,0,7,163,9.5,2003
+"96",6,"Seattle Mariners",385,3,30,167,23.3,2003
+"97",7,"San Francisco Giants",382,8,46,159,13.9,2003
+"98",8,"Chicago Cubs",335,17,12,143,11.9,2003
+"99",9,"Texas Rangers",332,-7,43,131,-24.5,2003
+"100",10,"Cleveland Indians",331,-8,33,141,-1,2003
+"101",11,"Houston Astros",327,-3,15,121,-0.8,2003
+"102",12,"Baltimore Orioles",310,-3,48,129,12.4,2003
+"103",13,"St. Louis Cardinals",308,14,13,128,-2,2003
+"104",14,"Colorado Rockies",304,-12,40,121,7.1,2003
+"105",15,"Arizona Diamondbacks",269,-1,104,122,-22.2,2003
+"106",16,"Philadelphia Phillies",239,3,75,97,-11.9,2003
+"107",17,"Detroit Tigers",237,-10,74,108,-5.3,2003
+"108",18,"Chicago White Sox",233,5,13,106,1.2,2003
+"109",19,"San Diego Padres",226,9,68,98,4.6,2003
+"110",20,"Anaheim Angels",225,15,18,118,-3.7,2003
+"111",21,"Pittsburgh Pirates",224,-7,40,101,-1.6,2003
+"112",22,"Cincinnati Reds",223,10,0,91,4.9,2003
+"113",23,"Milwaukee Brewers",206,-14,68,98,-6.1,2003
+"114",24,"Oakland Athletics",172,10,35,96,6.6,2003
+"115",25,"Toronto Blue Jays",166,-9,0,90,-23.9,2003
+"116",26,"Kansas City Royals",153,0,20,85,-11.2,2003
+"117",27,"Minnesota Twins",148,16,55,87,0.4,2003
+"118",28,"Tampa Bay Devil Rays",145,2,76,91,1.4,2003
+"119",29,"Florida Marlins",136,-1,51,76,-14,2003
+"120",30,"Montreal Expos",113,5,106,66,-9.1,2003
+"121",1,"New York Yankees",832,-2,14,238,-26.3,2004
+"122",2,"Boston Red Sox",533,9,45,190,11.4,2004
+"123",3,"New York Mets",442,-11,57,158,-19.3,2004
+"124",4,"Los Angeles Dodgers",399,-11,105,154,-19.1,2004
+"125",5,"Seattle Mariners",396,3,29,169,17,2004
+"126",6,"Atlanta Braves",374,-12,8,156,-0.3,2004
+"127",7,"San Francisco Giants",368,-4,46,153,0.7,2004
+"128",8,"Chicago Cubs",358,7,11,156,8.3,2004
+"129",9,"Houston Astros",320,-2,17,128,-1.9,2004
+"130",10,"St Louis Cardinals",314,2,43,131,-11.1,2004
+"131",11,"Texas Rangers",306,-8,47,127,-28.5,2004
+"132",12,"Baltimore Orioles",296,-5,51,129,9.1,2004
+"133",13,"Cleveland Indians",292,-12,37,127,10.4,2004
+"134",14,"Colorado Rockies",285,-6,35,124,-6.3,2004
+"135",15,"Philadelphia Phillies",281,18,64,115,-12.5,2004
+"136",16,"Arizona Diamondbacks",276,3,109,126,-15.2,2004
+"137",17,"San Diego Padres",265,17,59,106,4.9,2004
+"138",18,"Chicago White Sox",248,6,12,124,12.8,2004
+"139",19,"Cincinnati Reds",245,10,27,123,11.7,2004
+"140",20,"Anaheim Angels",241,7,0,127,-5.5,2004
+"141",21,"Detroit Tigers",235,-1,85,117,0.3,2004
+"142",22,"Pittsburgh Pirates",217,-3,41,109,-0.3,2004
+"143",23,"Oakland Athletics",186,8,32,110,11.2,2004
+"144",24,"Milwaukee Brewers",174,-16,63,102,5.1,2004
+"145",25,"Florida Marlins",172,27,41,101,-11.6,2004
+"146",26,"Kansas City Royals",171,12,18,98,6.6,2004
+"147",27,"Toronto Blue Jays",169,2,0,99,0,2004
+"148",28,"Minnesota Twins",168,14,54,99,-7.1,2004
+"149",29,"Tampa Bay Devil Rays",152,4,72,101,7.5,2004
+"150",30,"Montreal Expos",145,29,83,81,-8.3,2004
+"151",1,"New York Yankees ",950,14,21,264,-37.1,2005
+"152",2,"Boston Red Sox ",563,6,43,201,-11.3,2005
+"153",3,"New York Mets ",505,14,50,180,-11.2,2005
+"154",4,"Los Angeles Dodgers ",424,6,99,166,-7.4,2005
+"155",5,"Seattle Mariners ",415,5,28,173,10.8,2005
+"156",6,"Chicago Cubs ",398,11,10,170,11.4,2005
+"157",7,"Philadelphia Phillies ",392,39,46,167,6.1,2005
+"158",8,"Atlanta Braves ",382,2,8,162,15.4,2005
+"159",9,"San Francisco Giants ",381,4,42,159,6.9,2005
+"160",10,"St Louis Cardinals ",370,18,54,151,-3.9,2005
+"161",11,"Houston Astros ",357,12,15,155,9.6,2005
+"162",12,"Baltimore Orioles ",341,15,44,148,34,2005
+"163",13,"San Diego Padres ",329,24,53,150,17.1,2005
+"164",14,"Texas Rangers ",326,7,44,142,2.9,2005
+"165",15,"Cleveland Indians ",319,9,33,139,27.2,2005
+"166",16,"Washington Nationals (formerly the Montreal Expos.) ",310,114,45,80,-3,2005
+"167",17,"Los Angeles Angels of Anaheim ",294,22,10,147,-30,2005
+"168",18,"Colorado Rockies ",290,2,35,132,-7.8,2005
+"169",19,"Arizona Diamondbacks ",286,3,103,136,-18.7,2005
+"170",20,"Chicago White Sox ",262,6,11,131,8.1,2005
+"171",21,"Cincinnati Reds ",255,4,26,127,22.6,2005
+"172",22,"Detroit Tigers ",239,2,84,126,7.9,2005
+"173",23,"Pittsburgh Pirates ",218,0,37,109,12.2,2005
+"174",24,"Toronto Blue Jays ",214,27,0,107,7.8,2005
+"175",25,"Milwaukee Brewers ",208,20,53,112,24.2,2005
+"176",26,"Florida Marlins ",206,19,34,103,3,2005
+"177",27,"Kansas City Royals ",187,9,16,104,3,2005
+"178",28,"Oakland Athletics ",185,-1,32,116,5.9,2005
+"179",29,"Minnesota Twins ",178,6,51,102,-0.5,2005
+"180",30,"Tampa Bay Devil Rays ",176,16,63,110,27.2,2005
+"181",1,"New York Yankees",200,NA,NA,NA,NA,1990
+"182",2,"Los Angeles Dodgers",175,NA,NA,NA,NA,1990
+"183",3,"New York Mets",175,NA,NA,NA,NA,1990
+"184",4,"California Angels",145,NA,NA,NA,NA,1990
+"185",5,"Toronto Blue Jays",145,NA,NA,NA,NA,1990
+"186",6,"Philadelphia Phillies",140,NA,NA,NA,NA,1990
+"187",7,"St. Louis Cardinals",140,NA,NA,NA,NA,1990
+"188",8,"Chicago Cubs",135,NA,NA,NA,NA,1990
+"189",9,"Boston Red Sox",130,NA,NA,NA,NA,1990
+"190",10,"Kansas City Royals",120,NA,NA,NA,NA,1990
+"191",11,"Chicago White Sox",115,NA,NA,NA,NA,1990
+"192",12,"Detroit Tigers",110,NA,NA,NA,NA,1990
+"193",13,"Houston Astros",105,NA,NA,NA,NA,1990
+"194",14,"Baltimore Orioles",100,NA,NA,NA,NA,1990
+"195",15,"Montreal Expos",100,NA,NA,NA,NA,1990
+"196",16,"Texas Rangers",100,NA,NA,NA,NA,1990
+"197",17,"Minnesota Twins",95,NA,NA,NA,NA,1990
+"198",18,"Cincinnati Reds",90,NA,NA,NA,NA,1990
+"199",19,"Seattle Mariners",90,NA,NA,NA,NA,1990
+"200",20,"Atlanta Braves",85,NA,NA,NA,NA,1990
+"201",21,"Cleveland Indians",85,NA,NA,NA,NA,1990
+"202",22,"Milwaukee Brewers",85,NA,NA,NA,NA,1990
+"203",23,"Oakland Athletics",85,NA,NA,NA,NA,1990
+"204",24,"Pittsburgh Pirates",85,NA,NA,NA,NA,1990
+"205",25,"San Diego Padres",85,NA,NA,NA,NA,1990
+"206",26,"San Francisco Giants",85,NA,NA,NA,NA,1990
+"207",1,"New York Yankees",225,NA,NA,NA,NA,1991
+"208",2,"Baltimore Orioles",200,NA,NA,NA,NA,1991
+"209",3,"Los Angeles Dodgers",200,NA,NA,NA,NA,1991
+"210",4,"New York Mets",200,NA,NA,NA,NA,1991
+"211",5,"Boston Red Sox",180,NA,NA,NA,NA,1991
+"212",6,"Toronto Blue Jays",178.3,NA,NA,NA,NA,1991
+"213",7,"Philadelphia Phillies",130,NA,NA,NA,NA,1991
+"214",8,"St. Louis Cardinals",128.3,NA,NA,NA,NA,1991
+"215",9,"Chicago Cubs",125,NA,NA,NA,NA,1991
+"216",10,"Chicago White Sox",125,NA,NA,NA,NA,1991
+"217",11,"Kansas City Royals",122.4,NA,NA,NA,NA,1991
+"218",12,"Oakland Athletics",115.8,NA,NA,NA,NA,1991
+"219",13,"San Francisco Giants",105,NA,NA,NA,NA,1991
+"220",14,"Cincinnati Reds",102.3,NA,NA,NA,NA,1991
+"221",15,"California/Anaheim Angels",102.1,NA,NA,NA,NA,1991
+"222",16,"Texas Rangers",100.6,NA,NA,NA,NA,1991
+"223",17,"San Diego Padres",99.1,NA,NA,NA,NA,1991
+"224",18,"Houston Astros",92,NA,NA,NA,NA,1991
+"225",19,"Minnesota Twins",85.7,NA,NA,NA,NA,1991
+"226",20,"Detroit Tigers",83.6,NA,NA,NA,NA,1991
+"227",21,"Pittsburgh Pirates",82.2,NA,NA,NA,NA,1991
+"228",22,"Milwaukee Brewers",80.6,NA,NA,NA,NA,1991
+"229",23,"Cleveland Indians",75,NA,NA,NA,NA,1991
+"230",24,"Atlanta Braves",74.3,NA,NA,NA,NA,1991
+"231",25,"Montreal Expos",74.1,NA,NA,NA,NA,1991
+"232",26,"Seattle Mariners",71.4,NA,NA,NA,NA,1991
+"233",1,"New York Yankees",200,NA,NA,NA,NA,1992
+"234",2,"Los Angeles Dodgers",180,NA,NA,NA,NA,1992
+"235",3,"New York Mets",170,NA,NA,NA,NA,1992
+"236",4,"Boston Red Sox",160,NA,NA,NA,NA,1992
+"237",5,"Toronto Blue Jays",160,NA,NA,NA,NA,1992
+"238",6,"Baltimore Orioles",140,NA,NA,NA,NA,1992
+"239",7,"Chicago White Sox",140,NA,NA,NA,NA,1992
+"240",8,"Chicago Cubs",132,NA,NA,NA,NA,1992
+"241",9,"St. Louis Cardinals",132,NA,NA,NA,NA,1992
+"242",10,"Texas Rangers",123,NA,NA,NA,NA,1992
+"243",11,"Kansas City Royals",117,NA,NA,NA,NA,1992
+"244",12,"Oakland Athletics",115,NA,NA,NA,NA,1992
+"245",13,"Philadelphia Phillies",115,NA,NA,NA,NA,1992
+"246",14,"California/Anaheim Angels",103,NA,NA,NA,NA,1992
+"247",15,"San Francisco Giants",99,NA,NA,NA,NA,1992
+"248",16,"Cincinnati Reds",98,NA,NA,NA,NA,1992
+"249",17,"San Diego Padres",96,NA,NA,NA,NA,1992
+"250",18,"Houston Astros",95,NA,NA,NA,NA,1992
+"251",19,"Pittsburgh Pirates",87,NA,NA,NA,NA,1992
+"252",20,"Detroit Tigers",85,NA,NA,NA,NA,1992
+"253",21,"Atlanta Braves",83,NA,NA,NA,NA,1992
+"254",22,"Minnesota Twins",83,NA,NA,NA,NA,1992
+"255",23,"Seattle Mariners",79,NA,NA,NA,NA,1992
+"256",24,"Cleveland Indians",77,NA,NA,NA,NA,1992
+"257",25,"Milwaukee Brewers",77,NA,NA,NA,NA,1992
+"258",26,"Montreal Expos",75,NA,NA,NA,NA,1992
+"259",1,"New York Yankees",160,NA,NA,NA,NA,1993
+"260",2,"Toronto Blue Jays",155,NA,NA,NA,NA,1993
+"261",3,"New York Mets",145,NA,NA,NA,NA,1993
+"262",4,"Boston Red Sox",136,NA,NA,NA,NA,1993
+"263",5,"Los Angeles Dodgers",135,NA,NA,NA,NA,1993
+"264",6,"Baltimore Orioles",130,NA,NA,NA,NA,1993
+"265",7,"Oakland Athletics",124,NA,NA,NA,NA,1993
+"266",8,"Chicago White Sox",123,NA,NA,NA,NA,1993
+"267",9,"Kansas City Royals",111,NA,NA,NA,NA,1993
+"268",10,"Texas Rangers",106,NA,NA,NA,NA,1993
+"269",11,"California/Anaheim Angels",105,NA,NA,NA,NA,1993
+"270",12,"Cincinnati Reds",103,NA,NA,NA,NA,1993
+"271",13,"San Diego Padres",103,NA,NA,NA,NA,1993
+"272",14,"San Francisco Giants",103,NA,NA,NA,NA,1993
+"273",15,"Chicago Cubs",101,NA,NA,NA,NA,1993
+"274",16,"St. Louis Cardinals",98,NA,NA,NA,NA,1993
+"275",17,"Detroit Tigers",97,NA,NA,NA,NA,1993
+"276",18,"Philadelphia Phillies",96,NA,NA,NA,NA,1993
+"277",19,"Minnesota Twins",95,NA,NA,NA,NA,1993
+"278",20,"Pittsburgh Pirates",95,NA,NA,NA,NA,1993
+"279",21,"Atlanta Braves",88,NA,NA,NA,NA,1993
+"280",22,"Houston Astros",87,NA,NA,NA,NA,1993
+"281",23,"Milwaukee Brewers",86,NA,NA,NA,NA,1993
+"282",24,"Montreal Expos",86,NA,NA,NA,NA,1993
+"283",25,"Seattle Mariners",86,NA,NA,NA,NA,1993
+"284",26,"Cleveland Indians",81,NA,NA,NA,NA,1993
+"285",1,"New York Yankees",166,NA,NA,NA,NA,1994
+"286",2,"Toronto Blue Jays",150,NA,NA,NA,NA,1994
+"287",3,"New York Mets",147,NA,NA,NA,NA,1994
+"288",4,"Boston Red Sox",141,NA,NA,NA,NA,1994
+"289",5,"Los Angeles Dodgers",138,NA,NA,NA,NA,1994
+"290",6,"Chicago White Sox",133,NA,NA,NA,NA,1994
+"291",7,"Texas Rangers",132,NA,NA,NA,NA,1994
+"292",8,"Baltimore Orioles",129,NA,NA,NA,NA,1994
+"293",9,"Chicago Cubs",120,NA,NA,NA,NA,1994
+"294",10,"Oakland Athletics",114,NA,NA,NA,NA,1994
+"295",11,"Colorado Rockies",110,NA,NA,NA,NA,1994
+"296",12,"St. Louis Cardinals",105,NA,NA,NA,NA,1994
+"297",13,"Cleveland Indians",100,NA,NA,NA,NA,1994
+"298",14,"Atlanta Braves",96,NA,NA,NA,NA,1994
+"299",15,"Milwaukee Brewers",96,NA,NA,NA,NA,1994
+"300",16,"Philadelphia Phillies",96,NA,NA,NA,NA,1994
+"301",17,"Kansas City Royals",94,NA,NA,NA,NA,1994
+"302",18,"California/Anaheim Angels",93,NA,NA,NA,NA,1994
+"303",19,"San Francisco Giants",93,NA,NA,NA,NA,1994
+"304",20,"Detroit Tigers",89,NA,NA,NA,NA,1994
+"305",21,"Cincinnati Reds",86,NA,NA,NA,NA,1994
+"306",22,"Houston Astros",85,NA,NA,NA,NA,1994
+"307",23,"San Diego Padres",85,NA,NA,NA,NA,1994
+"308",24,"Minnesota Twins",83,NA,NA,NA,NA,1994
+"309",25,"Florida Marlins",81,NA,NA,NA,NA,1994
+"310",26,"Seattle Mariners",80,NA,NA,NA,NA,1994
+"311",27,"Pittsburgh Pirates",79,NA,NA,NA,NA,1994
+"312",28,"Montreal Expos",75,NA,NA,NA,NA,1994
+"313",1,"New York Yankees",185,NA,NA,NA,NA,1995
+"314",2,"Baltimore Orioles",164,NA,NA,NA,NA,1995
+"315",3,"Texas Rangers",157,NA,NA,NA,NA,1995
+"316",4,"Chicago White Sox",152,NA,NA,NA,NA,1995
+"317",5,"Toronto Blue Jays",146,NA,NA,NA,NA,1995
+"318",6,"Boston Red Sox",143,NA,NA,NA,NA,1995
+"319",7,"Los Angeles Dodgers",143,NA,NA,NA,NA,1995
+"320",8,"Chicago Cubs",135,NA,NA,NA,NA,1995
+"321",9,"New York Mets",134,NA,NA,NA,NA,1995
+"322",10,"Atlanta Braves",120,NA,NA,NA,NA,1995
+"323",11,"Colorado Rockies",117,NA,NA,NA,NA,1995
+"324",12,"St. Louis Cardinals",110,NA,NA,NA,NA,1995
+"325",13,"Cleveland Indians",103,NA,NA,NA,NA,1995
+"326",14,"San Francisco Giants",102,NA,NA,NA,NA,1995
+"327",15,"Oakland Athletics",101,NA,NA,NA,NA,1995
+"328",16,"Kansas City Royals",96,NA,NA,NA,NA,1995
+"329",17,"Philadelphia Phillies",96,NA,NA,NA,NA,1995
+"330",18,"Florida Marlins",92,NA,NA,NA,NA,1995
+"331",19,"Houston Astros",92,NA,NA,NA,NA,1995
+"332",20,"Anaheim Angels",88,NA,NA,NA,NA,1995
+"333",21,"Cincinnati Reds",84,NA,NA,NA,NA,1995
+"334",22,"Detroit Tigers",83,NA,NA,NA,NA,1995
+"335",23,"Minnesota Twins",80,NA,NA,NA,NA,1995
+"336",24,"Montreal Expos",76,NA,NA,NA,NA,1995
+"337",25,"Seattle Mariners",76,NA,NA,NA,NA,1995
+"338",26,"Milwaukee Brewers",75,NA,NA,NA,NA,1995
+"339",27,"San Diego Padres",74,NA,NA,NA,NA,1995
+"340",28,"Pittsburgh Pirates",70,NA,NA,NA,NA,1995
+"341",1,"New York Yankees",209,NA,NA,NA,NA,1996
+"342",2,"Baltimore Orioles",168,NA,NA,NA,NA,1996
+"343",3,"Atlanta Braves",163,NA,NA,NA,NA,1996
+"344",4,"Toronto Blue Jays",152,NA,NA,NA,NA,1996
+"345",5,"Los Angeles Dodgers",147,NA,NA,NA,NA,1996
+"346",6,"Chicago White Sox",144,NA,NA,NA,NA,1996
+"347",7,"Boston Red Sox",143,NA,NA,NA,NA,1996
+"348",8,"Chicago Cubs",140,NA,NA,NA,NA,1996
+"349",9,"Texas Rangers",138,NA,NA,NA,NA,1996
+"350",10,"Colorado Rockies",133,NA,NA,NA,NA,1996
+"351",11,"New York Mets",131,NA,NA,NA,NA,1996
+"352",12,"Cleveland Indians",125,NA,NA,NA,NA,1996
+"353",13,"San Francisco Giants",122,NA,NA,NA,NA,1996
+"354",14,"St. Louis Cardinals",112,NA,NA,NA,NA,1996
+"355",15,"Detroit Tigers",106,NA,NA,NA,NA,1996
+"356",16,"Philadelphia Phillies",103,NA,NA,NA,NA,1996
+"357",17,"Cincinnati Reds",99,NA,NA,NA,NA,1996
+"358",18,"Florida Marlins",98,NA,NA,NA,NA,1996
+"359",19,"Houston Astros",97,NA,NA,NA,NA,1996
+"360",20,"Oakland Athletics",97,NA,NA,NA,NA,1996
+"361",21,"Seattle Mariners",92,NA,NA,NA,NA,1996
+"362",22,"California/Anaheim Angels",90,NA,NA,NA,NA,1996
+"363",23,"Kansas City Royals",80,NA,NA,NA,NA,1996
+"364",24,"Minnesota Twins",74,NA,NA,NA,NA,1996
+"365",25,"Milwaukee Brewers",71,NA,NA,NA,NA,1996
+"366",26,"Montreal Expos",68,NA,NA,NA,NA,1996
+"367",27,"San Diego Padres",67,NA,NA,NA,NA,1996
+"368",28,"Pittsburgh Pirates",62,NA,NA,NA,NA,1996
+"369",1,"New York Yankees",241,NA,NA,NA,NA,1997
+"370",2,"Baltimore Orioles",207,NA,NA,NA,NA,1997
+"371",3,"Atlanta Braves",199,NA,NA,NA,NA,1997
+"372",4,"Colorado Rockies",184,NA,NA,NA,NA,1997
+"373",5,"Los Angeles Dodgers",178,NA,NA,NA,NA,1997
+"374",6,"Cleveland Indians",175,NA,NA,NA,NA,1997
+"375",7,"Texas Rangers",174,NA,NA,NA,NA,1997
+"376",8,"Boston Red Sox",172,NA,NA,NA,NA,1997
+"377",9,"Chicago Cubs",165,NA,NA,NA,NA,1997
+"378",10,"Toronto Blue Jays",155,NA,NA,NA,NA,1997
+"379",11,"Chicago White Sox",149,NA,NA,NA,NA,1997
+"380",12,"New York Mets",144,NA,NA,NA,NA,1997
+"381",13,"St. Louis Cardinals",134,NA,NA,NA,NA,1997
+"382",14,"San Francisco Giants",128,NA,NA,NA,NA,1997
+"383",15,"Florida Marlins",123,NA,NA,NA,NA,1997
+"384",16,"Oakland Athletics",115,NA,NA,NA,NA,1997
+"385",17,"Houston Astros",114,NA,NA,NA,NA,1997
+"386",18,"Philadelphia Phillies",112,NA,NA,NA,NA,1997
+"387",19,"Detroit Tigers",110,NA,NA,NA,NA,1997
+"388",20,"Seattle Mariners",107,NA,NA,NA,NA,1997
+"389",21,"Cincinnati Reds",95,NA,NA,NA,NA,1997
+"390",22,"California/Anaheim Angels",93,NA,NA,NA,NA,1997
+"391",23,"Milwaukee Brewers",92,NA,NA,NA,NA,1997
+"392",24,"Kansas City Royals",88,NA,NA,NA,NA,1997
+"393",25,"San Diego Padres",86,NA,NA,NA,NA,1997
+"394",26,"Minnesota Twins",77,NA,NA,NA,NA,1997
+"395",27,"Montreal Expos",77,NA,NA,NA,NA,1997
+"396",28,"Pittsburgh Pirates",71,NA,NA,NA,NA,1997
+"397",1,"New York Yankees",489,NA,NA,NA,NA,1998
+"398",2,"Baltimore Orioles",322,NA,NA,NA,NA,1998
+"399",3,"Cleveland Indians",321,NA,NA,NA,NA,1998
+"400",4,"Colorado Rockies",302,NA,NA,NA,NA,1998
+"401",5,"Atlanta Braves",300,NA,NA,NA,NA,1998
+"402",6,"Texas Rangers",253,NA,NA,NA,NA,1998
+"403",7,"Seattle Mariners",251,NA,NA,NA,NA,1998
+"404",8,"Los Angeles Dodgers",237,NA,NA,NA,NA,1998
+"405",9,"Boston Red Sox",229,NA,NA,NA,NA,1998
+"406",10,"Chicago White Sox",214,NA,NA,NA,NA,1998
+"407",11,"Chicago Cubs",204,NA,NA,NA,NA,1998
+"408",12,"New York Mets",193,NA,NA,NA,NA,1998
+"409",13,"Houston Astros",190,NA,NA,NA,NA,1998
+"410",14,"San Francisco Giants",188,NA,NA,NA,NA,1998
+"411",15,"St Louis Cardinals",174,NA,NA,NA,NA,1998
+"412",16,"San Diego Padres",161,NA,NA,NA,NA,1998
+"413",17,"Florida Marlins",159,NA,NA,NA,NA,1998
+"414",18,"Anaheim Angels",157,NA,NA,NA,NA,1998
+"415",19,"Toronto Blue Jays",141,NA,NA,NA,NA,1998
+"416",20,"Detroit Tigers",137,NA,NA,NA,NA,1998
+"417",21,"Cincinnati Reds",136,NA,NA,NA,NA,1998
+"418",22,"Pittsburgh Pirates",133,NA,NA,NA,NA,1998
+"419",23,"Philadelphia Phillies",131,NA,NA,NA,NA,1998
+"420",24,"Milwaukee Brewers",127,NA,NA,NA,NA,1998
+"421",25,"Oakland Athletics",118,NA,NA,NA,NA,1998
+"422",26,"Kansas City Royals",108,NA,NA,NA,NA,1998
+"423",27,"Minnesota Twins",94,NA,NA,NA,NA,1998
+"424",28,"Montreal Expos",88,NA,NA,NA,NA,1998
+"425",29,"Arizona Diamondbacks",NA,NA,NA,NA,NA,1998
+"426",29,"Tampa Bay Devil Rays",NA,NA,NA,NA,NA,1998
+"427",1,"New York Yankees",491,36,3,175.5,23,1999
+"428",2,"Cleveland Indians",359,12,16,149.7,19,1999
+"429",3,"Atlanta Braves",357,19,6,142.7,16.4,1999
+"430",4,"Baltimore Orioles",351,9,28,140.5,8.5,1999
+"431",5,"Colorado Rockies",311,3,11,124.6,19.5,1999
+"432",6,"Arizona Diamondbacks",291,NA,47,116.3,22.5,1999
+"433",7,"Texas Rangers",281,11,71,108.1,0.5,1999
+"434",8,"Los Angeles Dodgers",270,14,5,107.9,-11.7,1999
+"435",9,"Boston Red Sox",256,12,8,106.9,-7.6,1999
+"436",10,"New York Mets",249,29,5,99.7,-5.2,1999
+"437",11,"Houston Astros",239,26,67,82.5,-3.7,1999
+"438",12,"Seattle Mariners",236,-6,35,81.3,-8.6,1999
+"439",13,"Tampa Bay Devil Rays",225,NA,33,93.7,20.6,1999
+"440",14,"Chicago Cubs",224,10,6,93.1,-7.9,1999
+"441",15,"San Francisco Giants",213,13,80,73.3,-6.4,1999
+"442",16,"St Louis Cardinals",205,18,7,97.8,1.6,1999
+"443",17,"San Diego Padres",205,27,63,78.9,-8,1999
+"444",18,"Anaheim Angels",195,24,10,88.5,-0.2,1999
+"445",19,"Chicago White Sox",178,-17,8,74.1,0.2,1999
+"446",20,"Cincinnati Reds",163,20,18,54.4,0.6,1999
+"447",21,"Toronto Blue Jays",162,15,8,73.4,-9.5,1999
+"448",22,"Milwaukee Brewers",155,22,80,55.5,-8.8,1999
+"449",23,"Florida Marlins",153,-4,0,69.5,8.6,1999
+"450",24,"Detroit Tigers",152,11,96,54.2,-4.5,1999
+"451",25,"Philadelphia Phillies",145,11,9,66,4.5,1999
+"452",26,"Pittsburgh Pirates",145,9,62,51.7,2.6,1999
+"453",27,"Oakland Athletics",125,6,11,56.7,3.3,1999
+"454",28,"Kansas City Royals",96,-11,21,53.5,-10.9,1999
+"455",29,"Minnesota Twins",89,-5,93,46.8,-7.1,1999
+"456",30,"Montreal Expos",84,-4,60,46.5,5.6,1999
