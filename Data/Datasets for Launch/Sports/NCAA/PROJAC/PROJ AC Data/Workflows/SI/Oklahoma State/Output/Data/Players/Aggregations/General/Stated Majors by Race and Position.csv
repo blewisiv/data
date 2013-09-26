@@ -1,0 +1,126 @@
+"","Stated_Major","CIP_ID","Position","freq"
+"44","Education","EDUCATION","LB",12
+"45","Education","EDUCATION","OL",10
+"47","Education","EDUCATION","RB",9
+"50","Education","EDUCATION","WR",8
+"66","General Business","BUSINESS.MANAGEMENT.MARKETING","OL",7
+"118","Sports Management","PARKS.REC","CB",6
+"17","Business Management","BUSINESS.MANAGEMENT.MARKETING","OL",5
+"27","Economics","SOCIAL.SCIENCE","CB",5
+"37","Education","EDUCATION","CB",5
+"41","Education","EDUCATION","DT",5
+"48","Education","EDUCATION","S",5
+"22","Business Management","BUSINESS.MANAGEMENT.MARKETING","WR",4
+"86","Marketing","BUSINESS.MANAGEMENT.MARKETING","OL",4
+"125","Sports Management","PARKS.REC","WR",4
+"31","Economics","SOCIAL.SCIENCE","LB",3
+"36","Economics","SOCIAL.SCIENCE","WR",3
+"39","Education","EDUCATION","DE",3
+"46","Education","EDUCATION","QB",3
+"49","Education","EDUCATION","TE",3
+"62","General Business","BUSINESS.MANAGEMENT.MARKETING","DT",3
+"69","General Business","BUSINESS.MANAGEMENT.MARKETING","S",3
+"91","Physical Education","EDUCATION","DE",3
+"110","Sociology","SOCIAL.SCIENCE","DT",3
+"112","Sociology","SOCIAL.SCIENCE","LB",3
+"121","Sports Management","PARKS.REC","LB",3
+"1","Agricultural Business","AGRICULTURE","OL",2
+"16","Business Management","BUSINESS.MANAGEMENT.MARKETING","LS",2
+"19","Business Management","BUSINESS.MANAGEMENT.MARKETING","QB",2
+"23","Communications","COMM.JOURN","WR",2
+"29","Economics","SOCIAL.SCIENCE","DT",2
+"33","Economics","SOCIAL.SCIENCE","RB",2
+"38","Education","EDUCATION","DB",2
+"59","Finance","BUSINESS.MANAGEMENT.MARKETING","LB",2
+"60","General Business","BUSINESS.MANAGEMENT.MARKETING","DB",2
+"65","General Business","BUSINESS.MANAGEMENT.MARKETING","LB",2
+"67","General Business","BUSINESS.MANAGEMENT.MARKETING","P",2
+"70","General Business","BUSINESS.MANAGEMENT.MARKETING","TE",2
+"71","General Business","BUSINESS.MANAGEMENT.MARKETING","WR",2
+"74","Health Promotion","HEALTH.PROFESSION","DE",2
+"75","Health Promotion","HEALTH.PROFESSION","OL",2
+"82","Marketing","BUSINESS.MANAGEMENT.MARKETING","DE",2
+"83","Marketing","BUSINESS.MANAGEMENT.MARKETING","DT",2
+"88","Marketing","BUSINESS.MANAGEMENT.MARKETING","TE",2
+"92","Physical Education","EDUCATION","LB",2
+"94","Physical Education","EDUCATION","WR",2
+"113","Sociology","SOCIAL.SCIENCE","OL",2
+"114","Sociology","SOCIAL.SCIENCE","QB",2
+"2","Agricultural Business","AGRICULTURE","WR",1
+"3","Agriculture Sciences","AGRICULTURE","OL",1
+"4","Art","VISUAL.ARTS","RB",1
+"5","Biomedical Science","BIO","DE",1
+"6","Broadcasting","COMM.JOURN","DB",1
+"7","Broadcasting","COMM.JOURN","OL",1
+"8","Broadcasting","COMM.JOURN","QB",1
+"9","Broadcasting","COMM.JOURN","WR",1
+"10","Business Management","BUSINESS.MANAGEMENT.MARKETING","C",1
+"11","Business Management","BUSINESS.MANAGEMENT.MARKETING","DE",1
+"12","Business Management","BUSINESS.MANAGEMENT.MARKETING","DL",1
+"13","Business Management","BUSINESS.MANAGEMENT.MARKETING","DT",1
+"14","Business Management","BUSINESS.MANAGEMENT.MARKETING","FB",1
+"15","Business Management","BUSINESS.MANAGEMENT.MARKETING","K",1
+"18","Business Management","BUSINESS.MANAGEMENT.MARKETING","P/K",1
+"20","Business Management","BUSINESS.MANAGEMENT.MARKETING","RB",1
+"21","Business Management","BUSINESS.MANAGEMENT.MARKETING","S",1
+"24","Computer Science","COMP.SCI","DT",1
+"25","Criminal Justice","SECURITY","OL",1
+"26","Criminal Justice","SECURITY","WR",1
+"28","Economics","SOCIAL.SCIENCE","DE",1
+"30","Economics","SOCIAL.SCIENCE","FB",1
+"32","Economics","SOCIAL.SCIENCE","QB",1
+"34","Economics","SOCIAL.SCIENCE","S",1
+"35","Economics","SOCIAL.SCIENCE","TE",1
+"40","Education","EDUCATION","DL",1
+"42","Education","EDUCATION","FB",1
+"43","Education","EDUCATION","K",1
+"51","Engineering","ENGINEERING","CB",1
+"52","Engineering","ENGINEERING","DE",1
+"53","Engineering","ENGINEERING","QB",1
+"54","Engineering","ENGINEERING","WR",1
+"55","Entrepreneurship","BUSINESS.MANAGEMENT.MARKETING","S",1
+"56","Entrepreneurship","BUSINESS.MANAGEMENT.MARKETING","WR",1
+"57","Excercise Science","PARKS.REC","S",1
+"58","Excercise Science","PARKS.REC","TE",1
+"61","General Business","BUSINESS.MANAGEMENT.MARKETING","DL",1
+"63","General Business","BUSINESS.MANAGEMENT.MARKETING","FB",1
+"64","General Business","BUSINESS.MANAGEMENT.MARKETING","K",1
+"68","General Business","BUSINESS.MANAGEMENT.MARKETING","RB",1
+"72","Geology","PHYSICAL.SCI","OL",1
+"73","Geology","PHYSICAL.SCI","S",1
+"76","Health Promotion","HEALTH.PROFESSION","RB",1
+"77","Health Promotion","HEALTH.PROFESSION","WR",1
+"78","Hotel Management","BUSINESS.MANAGEMENT.MARKETING","K",1
+"79","Hotel Management","BUSINESS.MANAGEMENT.MARKETING","LS",1
+"80","International Business","BUSINESS.MANAGEMENT.MARKETING","LB",1
+"81","Journalism","COMM.JOURN","QB",1
+"84","Marketing","BUSINESS.MANAGEMENT.MARKETING","K",1
+"85","Marketing","BUSINESS.MANAGEMENT.MARKETING","LB",1
+"87","Marketing","BUSINESS.MANAGEMENT.MARKETING","S",1
+"89","Marketing","BUSINESS.MANAGEMENT.MARKETING","WR",1
+"90","Microbiology","BIO","FB",1
+"93","Physical Education","EDUCATION","OL",1
+"95","Political Science","SOCIAL.SCIENCE","FB",1
+"96","Political Science","SOCIAL.SCIENCE","K",1
+"97","Political Science","SOCIAL.SCIENCE","OL",1
+"98","Political Science","SOCIAL.SCIENCE","S",1
+"99","Pre-Medicine","HEALTH.PROFESSION","DE",1
+"100","Pre-Medicine","HEALTH.PROFESSION","DT",1
+"101","Psychology","PYSCH","CB",1
+"102","Psychology","PYSCH","DT",1
+"103","Psychology","PYSCH","S",1
+"104","Secondary Education","EDUCATION","DL",1
+"105","Secondary Education","EDUCATION","DT",1
+"106","Secondary Education","EDUCATION","WR",1
+"107","Social Studies","EDUCATION","DT",1
+"108","Sociology","SOCIAL.SCIENCE","C",1
+"109","Sociology","SOCIAL.SCIENCE","DB",1
+"111","Sociology","SOCIAL.SCIENCE","FB",1
+"115","Sociology","SOCIAL.SCIENCE","S",1
+"116","Sociology","SOCIAL.SCIENCE","TE",1
+"117","Sociology","SOCIAL.SCIENCE","WR",1
+"119","Sports Management","PARKS.REC","DE",1
+"120","Sports Management","PARKS.REC","FB",1
+"122","Sports Management","PARKS.REC","QB",1
+"123","Sports Management","PARKS.REC","RB",1
+"124","Sports Management","PARKS.REC","TE",1
