@@ -29,7 +29,7 @@ teams.votes <- data.frame(DT[, .N, by = team])
 names(teams.votes)[2] <- 'vote'
 poll.outcomes <- DT[, .N, by = list(team,projected_outcome)]
 polls.outcomes <- merge(poll.outcomes, teams.votes, all.x=T,by="team")
-polls.outcomes$percentage_votes <- round(polls.outcomes$N/polls.outcomes$votes,2)
+polls.outcomes$percentage_votes <- round(polls.outcomes$N/polls.outcomes$votes,3)
 names(polls.outcomes) [3:4] <- c('votes','total_votes')
 final_ds <- merge(polls.outcomes,unique(poll.data[, c(1:5)]))
 
@@ -47,11 +47,17 @@ p1 <- nPlot(votes~team_name,data=final_ds,group = 'projected_outcome', type = 'm
 p2 <- nPlot(percentage_votes~team_name,data=final_ds,group = 'projected_outcome', type = 'multiBarHorizontalChart')
 
 p2$chart(color = c('red', 'grey','green'))
+p2$addControls('x','team_name',names(final_ds)[c(2,10)])
+p2
+p2$params$height <- 400
+p2
 
-
-p2$params$height <- 600
-
-p2$yAxis(staggerLabels = TRUE)
+p2$params$height
 p2$params$controls
 p2$yAxis( tickFormat="#!function(d) {return d3.format('.0%')(d)}!#" )
 p2
+p2$publish('r/NBA 2013-2014 Sentiment', host = 'gist')
+ds <- data.table(final_ds)
+names(final_ds)
+final_ds[1,c('percentage_votes')]
+final_ds<-read.csv(list.files()[2])
