@@ -28,7 +28,7 @@ urls
 teams <- as.character(sham$name)
 u <- as.character(urls[2])
 t <- readHTMLTable(u)
-t[11]
+
 
 salaries <- data.frame() #create blank data table
 #loop
@@ -53,28 +53,39 @@ salaries.melt <- melt(data=salaries,id.vars=c(names(salaries)[1:3]),na.rm=T,valu
 names(salaries.melt)[4] <- c('season')
 salaries.melt <- salaries.melt[order(salaries.melt$team,decreasing=T),]
 write.csv(salaries.melt,'NBA Player Salaries List 2013-2019.csv')
-
+rm(capholds)
 capholds <- data.frame() #create blank data table
+
 #loop
-for(team in teams){
-  tables <- readHTMLTable(urls[team],skip.rows=1,trim=T)
-  team.capholds <- tables[[11]] 
+
+teams.1 <- teams[1:4]
+for(team in teams.1){
+  tables <- readHTMLTable(urls[team],skip.rows=1)
+  team.capholds <- tables[[11]]
   team.capholds$Team <- team
   capholds <- rbind(capholds, team.capholds)
   rm(team.capholds, tables)
 }
+capholds <- data.frame()
+u <- as.character(urls[30])
+t <- readHTMLTable(u,skip.rows=1)
+tables <- data.frame(t[11],stringsAsFactors=F)
+tables$team <- names(urls[30])
+capholds <- rbind(tables,capholds)
 
-names(capholds)[1:9] <- c('player','2013_2014','2014_2015','2015_2016','2016_2017','2017_2018','2018_2019','total','team')
-names(salaries)
+names(capholds) <- c('player','2013-2014','2014-2015','notes','team')
+
 capholds <- capholds[!grepl("Total ",x=as.character(capholds$player)),]
 capholds$player <- gsub(" \r\n     ","",as.character(capholds$player))
+capholds$notes <- str_trim(gsub(" \r\n     ","",as.character(capholds$notes)))
+capholds$player_off_roster <- grepl("\\*",capholds$player)
+capholds$player <- str_trim(gsub("[\\*]","",capholds$player))
+capholds$player_option_year <- grepl("\\(opt)",capholds$player)
+capholds$player <- str_trim(gsub("\\(opt)","",capholds$player))
+write.csv(capholds, file="All NBA Capholds 13-15 Table.csv")
+capholds <- data.frame(read.csv(list.files()[1]),stringsAsFactors=F)
 
-salaries$player_off_roster <- grepl("\\*",salaries$player)
-salaries$player <- str_trim(gsub("[\\*]","",salaries$player))
-write.csv(salaries, file="All NBA Salaries 13-17 Table.csv")
-salaries <- data.frame(read.csv(list.files()[1]),stringsAsFactors=F)
-salaries$total<-NULL
-salaries.melt <- melt(data=salaries,id.vars=c(names(salaries)[1:3]),na.rm=T,value.name=c('salary'))
-names(salaries.melt)[4] <- c('season')
-salaries.melt <- salaries.melt[order(salaries.melt$team,decreasing=T),]
-write.csv(salaries.melt,'NBA Player Salaries List 2013-2019.csv')
+cap.melt <- melt(data=capholds,id.vars=c(names(capholds)[1:5]),na.rm=T)
+names(cap.melt)[6:7] <- c('season','qualifying_salary')
+cap.melt <- cap.melt[order(cap.melt$team,decreasing=T),]
+write.csv(cap.melt,'NBA Player Qualifying Salaries List 2013-2015.csv')
