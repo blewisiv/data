@@ -1,0 +1,8 @@
+"","player","season","passing_touchdowns","qb_rating","passing_yards","attempts","completions","interceptions","completion_percentage","team_points","opponent_points","wins","win_percentage","point_contribution_ratio","interceptions_per_attempt","yards_per_completion","yards_per_attempt","touchdowns_per_interception","touchdowns_per_attempt","touchdowns_per_completion","player_point_to_opponent_point_ratio","label"
+"5","Peyton Manning",2013,20,131.6,1884,198,150,1,75.76,230,139,5,100,54.78,0.51,12.56,9.52,20,10.1,13.33,90.65,"Manning '13"
+"6","Tom Brady",2007,16,128.24,1383,158,117,2,74.05,182,65,5,100,52.75,1.27,11.82,8.75,8,10.13,13.68,147.69,"Brady '07"
+"2","Dan Marino",1984,15,117,1527,155,101,3,65.16,164,76,5,100,54.88,1.94,15.12,9.85,5,9.68,14.85,118.42,"Marino '84"
+"1","Aaron Rodgers",2011,14,122.98,1721,180,129,2,71.67,173,111,5,100,55.49,1.11,13.34,9.56,7,7.78,10.85,86.49,"Rodgers '11"
+"4","Peyton Manning",2004,14,111.34,1321,157,104,3,66.24,159,106,4,80,52.83,1.91,12.7,8.41,4.67,8.92,13.46,79.25,"Manning '04"
+"7","Tom Brady",2011,14,108.84,1874,196,133,6,67.86,165,119,4,80,50.91,3.06,14.09,9.56,2.33,7.14,10.53,70.59,"Brady '11"
+"3","Drew Brees",2011,12,102.6,1769,219,152,5,69.41,157,125,4,80,45.86,2.28,11.64,8.08,2.4,5.48,7.89,57.6,"Brees '11"

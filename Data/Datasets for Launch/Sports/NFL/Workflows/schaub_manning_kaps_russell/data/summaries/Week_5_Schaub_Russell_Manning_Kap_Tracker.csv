@@ -1,0 +1,5 @@
+"","player","qb_rating","completions","attempts","passing_yards","passing_touchdowns","interceptions","rushing_touchdowns","completion_percentage","point_contribution_ratio","interceptions_per_attempt","yards_per_completion","yards_per_attempt","touchdowns_per_interception","touchdowns_per_attempt","touchdowns_per_completion","team_points","opponent_points","wins","win_percentage","player_point_to_opponent_point_ratio","season","label"
+"4","Peyton Manning",55.8,93,169,1129,4,12,0,55.03,42.11,7.1,12.14,6.68,0.33,2.37,4.3,57,128,1,20,18.75,1998,"Peyton Manning 5 Games into 1998 Season"
+"2","JaMarcus Russell",74.02,67,134,827,4,2,1,50,37.04,1.49,12.34,6.17,2,2.99,5.97,81,135,1,20,22.22,2008,"JaMarcus Russell 5 Games into 2008 Season"
+"3","Matt Schaub",74.64,135,212,1366,8,9,0,63.68,51.61,4.25,10.12,6.44,0.89,3.77,5.93,93,139,2,40,34.53,2013,"Matt Schaub 5 Games into 2013 Season"
+"1","Colin Kaepernick",80.82,74,132,969,6,4,0,56.06,31.86,3.03,13.09,7.34,1.5,4.55,8.11,113,98,3,60,36.73,2013,"Colin Kaepernick 5 Games into 2013 Season"
