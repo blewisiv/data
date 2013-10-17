@@ -1,0 +1,85 @@
+"","year","age","team","salary","sources","notes.other.sources","player","disputed_salary"
+"2","1998","21","Kansas City Royals",170000,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE
+"3","1999","22","Kansas City Royals",2e+05,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE
+"4","2000","23","Kansas City Royals",350000,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE
+"5","2001","24","Kansas City Royals",425000,"4/6/01 USA Today","","Carlos Beltran",FALSE
+"6","2002","25","Kansas City Royals",3500000,"4/3/02 AP","","Carlos Beltran",FALSE
+"7","2003","26","Kansas City Royals",6e+06,"4/3/03 AP","","Carlos Beltran",FALSE
+"8","2004","27","Kansas City Royals",9e+06,"4/7/04 AP","","Carlos Beltran",FALSE
+"9","2005","28","New York Mets",11571429,"","","Carlos Beltran",FALSE
+"10","2006","29","New York Mets",13571428,"","","Carlos Beltran",FALSE
+"11","2007","30","New York Mets",13571429,"","","Carlos Beltran",FALSE
+"12","2008","31","New York Mets",18622809,"","","Carlos Beltran",FALSE
+"13","2009","32","New York Mets",19243682,"","","Carlos Beltran",FALSE
+"14","2010","33","New York Mets",19401569,"","","Carlos Beltran",FALSE
+"15","2011","34","New York Mets",19325436,"","$4M paid by New York Mets","Carlos Beltran",FALSE
+"16","2012","35","St. Louis Cardinals",1.3e+07,"contracts","","Carlos Beltran",FALSE
+"17","2013","36","St. Louis Cardinals",1.3e+07,"contracts","","Carlos Beltran",FALSE
+"21","1994","18","Seattle Mariners",442333,"1996 Joint Exhibit 1","Includes $333,333 signing bonus","Alex Rodriguez",FALSE
+"22","1995","19","Seattle Mariners",442333,"1996 Joint Exhibit 1","Includes $333,333 signing bonus","Alex Rodriguez",FALSE
+"23","1996","20","Seattle Mariners",442334,"1996 Joint Exhibit 1","Includes $333,334 signing bonus","Alex Rodriguez",FALSE
+"24","1997","21","Seattle Mariners",1062500,"1997 Joint Exhibit 1; 1997 postseason AP","Includes $112,500 signing bonus, $50,000 earned","Alex Rodriguez",FALSE
+"25","1998","22","Seattle Mariners",2162500,"","","Alex Rodriguez",TRUE
+"26","1999","23","Seattle Mariners",3112500,"","","Alex Rodriguez",TRUE
+"27","2000","24","Seattle Mariners",4362500,"","","Alex Rodriguez",TRUE
+"28","2001","25","Texas Rangers",2.2e+07,"4/6/01 USA Today","","Alex Rodriguez",FALSE
+"29","2002","26","Texas Rangers",2.2e+07,"4/3/02 AP","","Alex Rodriguez",FALSE
+"30","2003","27","Texas Rangers",2.2e+07,"4/3/03 AP","","Alex Rodriguez",FALSE
+"31","2004","28","New York Yankees",2.2e+07,"","","Alex Rodriguez",TRUE
+"32","2005","29","New York Yankees",2.6e+07,"","","Alex Rodriguez",FALSE
+"33","2006","30","New York Yankees",21680727,"","","Alex Rodriguez",FALSE
+"34","2007","31","New York Yankees",22708525,"","","Alex Rodriguez",FALSE
+"35","2008","32","New York Yankees",2.8e+07,"","","Alex Rodriguez",FALSE
+"36","2009","33","New York Yankees",3.3e+07,"","","Alex Rodriguez",FALSE
+"37","2010","34","New York Yankees",3.3e+07,"","","Alex Rodriguez",FALSE
+"38","2011","35","New York Yankees",3.2e+07,"","","Alex Rodriguez",FALSE
+"39","2012","36","New York Yankees",2.9e+07,"contracts","","Alex Rodriguez",FALSE
+"40","2013","37","New York Yankees",2.8e+07,"contracts","","Alex Rodriguez",FALSE
+"42","2014","38","New York Yankees",2.5e+07,"","$30m in marketing bonuses for HR milestones from 660 HR to 763HR","Alex Rodriguez",FALSE
+"43","2015","39","New York Yankees",2.1e+07,"","$30m in marketing bonuses for HR milestones from 660 HR to 763HR","Alex Rodriguez",FALSE
+"44","2016","40","New York Yankees",2e+07,"","$30m in marketing bonuses for HR milestones from 660 HR to 763HR","Alex Rodriguez",FALSE
+"45","2017","41","New York Yankees",2e+07,"","$30m in marketing bonuses for HR milestones from 660 HR to 763HR","Alex Rodriguez",FALSE
+"49","1989","22","Cleveland Indians",68000,"1989 USA Today survey","","Albert Belle",FALSE
+"50","1990","23","Cleveland Indians",117000,"USA Today","","Albert Belle",FALSE
+"51","1991","24","Cleveland Indians",130000,"1994 Joint Exhibit 1","","Albert Belle",FALSE
+"52","1992","25","Cleveland Indians",175000,"1994 Joint Exhibit 1","","Albert Belle",FALSE
+"53","1993","26","Cleveland Indians",1675000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $75K earned bonus","Albert Belle",FALSE
+"54","1994","27","Cleveland Indians",2775000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $175K earned bonus","Albert Belle",FALSE
+"55","1995","28","Cleveland Indians",4500000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $200K earned bonus","Albert Belle",FALSE
+"56","1996","29","Cleveland Indians",5700000,"1997 Joint Exhibit 1","Includes $200,000 earned bonus","Albert Belle",FALSE
+"57","1997","30","Chicago White Sox",1e+07,"1997 AP survey","","Albert Belle",FALSE
+"58","1998","31","Chicago White Sox",1e+07,"4/3/98 USA Today","","Albert Belle",FALSE
+"59","1999","32","Baltimore Orioles",11949794,"2001 Joint Exhibit 1","","Albert Belle",FALSE
+"60","2000","33","Baltimore Orioles",12868670,"2001 Joint Exhibit 1","","Albert Belle",FALSE
+"61","2001","34","Baltimore Orioles",12049040,"2001 Joint Exhibit 1","","Albert Belle",FALSE
+"62","2002","35","Baltimore Orioles",12368790,"2001 Joint Exhibit 1","","Albert Belle",FALSE
+"63","2003","36","Baltimore Orioles",1.3e+07,"","","Albert Belle",TRUE
+"67","2005","22","Cleveland Indians",318300,"","","Grady Sizemore",FALSE
+"68","2006","23","Cleveland Indians",5e+05,"","","Grady Sizemore",FALSE
+"69","2007","24","Cleveland Indians",916667,"","","Grady Sizemore",FALSE
+"70","2008","25","Cleveland Indians",3166666,"","","Grady Sizemore",FALSE
+"71","2009","26","Cleveland Indians",4766666,"","","Grady Sizemore",FALSE
+"72","2010","27","Cleveland Indians",5766666,"","","Grady Sizemore",FALSE
+"73","2011","28","Cleveland Indians",7666666,"","","Grady Sizemore",FALSE
+"74","2012","29","Cleveland Indians",5e+06,"contracts","","Grady Sizemore",FALSE
+"78","1967","21","Kansas City Athletics",4800,"Michael Haupert research of HOF contracts","","Reggie Jackson",FALSE
+"79","1968","22","Oakland Athletics",8100,"Michael Haupert research of HOF contracts","","Reggie Jackson",FALSE
+"80","1969","23","Oakland Athletics",20000,"Michael Haupert research of HOF contracts","4/11/70 TSN:20000.00,Plus rent-free apartment; 1971 TSN Guide says $25K","Reggie Jackson",TRUE
+"81","1970","24","Oakland Athletics",47000,"BJHA (includes rent)","4/11/70 TSN: $40,000 plus free rent","Reggie Jackson",FALSE
+"82","1971","25","Oakland Athletics",45000,"3/13/71 TSN","BJHA says $40,000","Reggie Jackson",FALSE
+"83","1972","26","Oakland Athletics",55000,"Bill James Historical Abstract","","Reggie Jackson",FALSE
+"84","1973","27","Oakland Athletics",70000,"2/10/73 TSN","BJHA says $75,000","Reggie Jackson",FALSE
+"85","1974","28","Oakland Athletics",135000,"1975 TSN Guide","Player win; $100K offer","Reggie Jackson",FALSE
+"86","1975","29","Oakland Athletics",140000,"1976 Guide; 3/15/75 TSN; Timmerman dbase","Player loss; $168,500 request","Reggie Jackson",FALSE
+"87","1976","30","Baltimore Orioles",2e+05,"1977 TSN Guide","BJHA says $190,000","Reggie Jackson",FALSE
+"88","1977","31","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE
+"89","1978","32","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE
+"90","1979","33","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE
+"91","1980","34","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE
+"92","1981","35","New York Yankees",588000,"","","Reggie Jackson",TRUE
+"93","1982","36","California Angels",1103000,"1983 TSN Guide","$900K base plus $203K attendance bonus","Reggie Jackson",FALSE
+"94","1983","37","California Angels",975000,"3/6/82 TSN","Plus attendance bonuses","Reggie Jackson",FALSE
+"95","1984","38","California Angels",975000,"3/6/82 TSN","Plus attendance bonuses","Reggie Jackson",FALSE
+"96","1985","39","California Angels",1058894,"3/6/82 TSN; 3/3/86 TSN (bonuses)","$975K plus attendance bonus","Reggie Jackson",FALSE
+"97","1986","40","California Angels",1102946,"1986 USA Today survey","","Reggie Jackson",FALSE
+"98","1987","41","California Angels",525000,"1987 USA Today survey","","Reggie Jackson",FALSE
