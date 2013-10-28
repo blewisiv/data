@@ -3,7 +3,7 @@ library(XML)
 library(RCurl)
 library(data.table)
 
-countries <- c('Armenia', 'Azerbaijan','Belarus','Estonia','Georgia','Kazakhstan','Kyrgyzstan','Latvia','Lithuania','Moldova','Russia','Tajikistan','Turkmenistan','Ukraine','Uzbekistan')
+countries <- c('Armenia', 'Azerbaijan','Belarus','Estonia','Georgia','Kazakhstan','Kyrgyzstan','Latvia','Lithuania','Moldova','Russia','Tajikistan','Turkmenistan','Ukraine','USSR','Uzbekistan')
 readHTMLTable("http://www.sports-reference.com/olympics/countries/AZE/summer/2012/")
 url <- "http://www.sports-reference.com/olympics/countries/"
 	page <- htmlParse(getURL(url),error=function(...){})
