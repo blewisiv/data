@@ -1,0 +1,49 @@
+"","player","team","tm","year","g","war","salary","inflation_adjusted_salary","contract_start_season","contract_end_season","new_contract_source"
+"3","Reggie Jackson","Orioles","BAL",1976,134,5.3,2e+05,820467.83625731,1977,1981,"free agency"
+"57","Reggie Jackson","Yankees","NYY",1977,146,4.5,525000,2022446.45799012,NA,NA,NA
+"59","Reggie Jackson","Yankees","NYY",1978,139,3.5,525000,1879017.85714286,NA,NA,NA
+"58","Reggie Jackson","Yankees","NYY",1979,131,3.5,525000,1688617.60660248,NA,NA,NA
+"46","Reggie Jackson","Yankees","NYY",1980,143,4.8,525000,1487429.32148627,NA,NA,NA
+"51","Reggie Jackson","Yankees","NYY",1981,94,1,588000,1509816.98389458,NA,NA,NA
+"4","Reggie Jackson","Angels","CAL",1982,153,3.1,1103000,2668118.96551724,1982,1985,"free agency"
+"5","Reggie Jackson","Angels","CAL",1983,116,-1.8,975000,2285207.15001671,NA,NA,NA
+"9","Reggie Jackson","Angels","CAL",1984,143,-0.2,975000,2190783.15182575,NA,NA,NA
+"6","Reggie Jackson","Angels","CAL",1985,143,1,1058894,2298311.07982673,NA,NA,NA
+"7","Reggie Jackson","Angels","CAL",1986,132,1.2,1102946,2348866.48148148,1986,NA,"re-signinging"
+"8","Reggie Jackson","Angels","CAL",1986,132,1.2,1102946,2348866.48148148,1987,NA,"free agency"
+"12","Albert Belle","Indians","CLE",1989,62,0,68000,128059.060402685,NA,NA,NA
+"13","Albert Belle","Indians","CLE",1990,9,-0.1,117000,209056.291390728,NA,NA,NA
+"14","Albert Belle","Indians","CLE",1991,123,2.5,130000,222807.231859272,NA,NA,NA
+"15","Albert Belle","Indians","CLE",1992,153,1.9,175000,291113.350723263,NA,NA,NA
+"16","Albert Belle","Indians","CLE",1993,159,4.7,1675000,2706778.39207556,NA,NA,NA
+"17","Albert Belle","Indians","CLE",1994,106,5.7,2775000,4370593.84822631,NA,NA,NA
+"18","Albert Belle","Indians","CLE",1995,143,6.9,4500000,6893972.48307491,NA,NA,NA
+"19","Albert Belle","Indians","CLE",1996,158,5.7,5700000,8484086.56906429,1997,NA,"free agency"
+"1","Albert Belle","Orioles","BAL",1999,161,3.4,11949794,16745466.4222932,NA,NA,NA
+"2","Albert Belle","Orioles","BAL",2000,141,0.6,12868670,17444197.1111111,NA,NA,NA
+"23","Grady Sizemore","Indians","CLE",2004,43,1.1,NA,NA,2004,NA,"re-signinging"
+"47","Alex Rodriguez","Yankees","NYY",2004,155,7.6,2.2e+07,27189922.4806202,NA,NA,NA
+"20","Grady Sizemore","Indians","CLE",2005,158,6.6,318300,380452.291702164,2005,2005,"re-signinging"
+"38","Carlos Beltran","Mets","NYM",2005,151,2.9,11571429,13830903.8055887,2005,2011,"free agency"
+"45","Alex Rodriguez","Yankees","NYY",2005,162,9.4,2.6e+07,31076844.4368717,NA,NA,NA
+"21","Grady Sizemore","Indians","CLE",2006,162,6.6,5e+05,578986.464179597,2006,2006,"re-signinging"
+"22","Grady Sizemore","Indians","CLE",2006,162,6.6,5e+05,578986.464179597,2006,2011,"re-signinging"
+"41","Carlos Beltran","Mets","NYM",2006,140,8.2,13571428,15715346.223176,NA,NA,NA
+"50","Alex Rodriguez","Yankees","NYY",2006,154,4.5,21680727,25105694.9331463,NA,NA,NA
+"27","Grady Sizemore","Indians","CLE",2007,162,5.5,916667,1032004.33397528,NA,NA,NA
+"43","Carlos Beltran","Mets","NYM",2007,144,5.4,13571429,15279020.1307976,NA,NA,NA
+"55","Alex Rodriguez","Yankees","NYY",2007,158,9.4,22708525,25565768.3959236,2008,2015,"re-signinging"
+"24","Grady Sizemore","Indians","CLE",2008,157,5.9,3166666,3433409.89026275,NA,NA,NA
+"40","Carlos Beltran","Mets","NYM",2008,161,6.9,18622809,20191500.0208655,NA,NA,NA
+"48","Alex Rodriguez","Yankees","NYY",2008,138,6.8,2.8e+07,30358578.0525502,NA,NA,NA
+"25","Grady Sizemore","Indians","CLE",2009,106,2.2,4766666,5186623.54428416,NA,NA,NA
+"44","Carlos Beltran","Mets","NYM",2009,81,3.6,19243682,20939107.9928649,NA,NA,NA
+"49","Alex Rodriguez","Yankees","NYY",2009,124,4.2,3.3e+07,35907398.7901349,NA,NA,NA
+"26","Grady Sizemore","Indians","CLE",2010,33,-0.4,5766666,6173227.83305356,NA,NA,NA
+"42","Carlos Beltran","Mets","NYM",2010,64,0.7,19401569,20769419.5841599,NA,NA,NA
+"54","Alex Rodriguez","Yankees","NYY",2010,137,4.2,3.3e+07,35326567.9841294,NA,NA,NA
+"28","Grady Sizemore","Indians","CLE",2011,71,0,7666666,7955867.15828402,2012,2012,"re-signinging"
+"39","Carlos Beltran","Mets","NYM",2011,98,3.5,19325436,20054428.0384615,2012,2013,"free agency"
+"56","Alex Rodriguez","Yankees","NYY",2011,99,3.8,3.2e+07,33207100.591716,NA,NA,NA
+"52","Alex Rodriguez","Yankees","NYY",2012,122,2.3,2.9e+07,29487606.8995507,NA,NA,NA
+"53","Alex Rodriguez","Yankees","NYY",2013,44,0.3,2.8e+07,2.8e+07,NA,NA,NA

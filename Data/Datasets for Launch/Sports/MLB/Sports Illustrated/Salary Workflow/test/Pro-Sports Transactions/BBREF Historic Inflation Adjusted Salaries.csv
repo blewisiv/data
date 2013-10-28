@@ -1,0 +1,81 @@
+"","year","age","team","salary","sources","notes.other.sources","player","disputed_salary","inflator_2013","inflation_adjusted_salary"
+"1",1967,"21","Kansas City Athletics",4800,"Michael Haupert research of HOF contracts","","Reggie Jackson",FALSE,7.00099800399202,33604.7904191617
+"2",1968,"22","Oakland Athletics",8100,"Michael Haupert research of HOF contracts","","Reggie Jackson",FALSE,6.71291866028708,54374.6411483254
+"3",1969,"23","Oakland Athletics",20000,"Michael Haupert research of HOF contracts","4/11/70 TSN:20000.00,Plus rent-free apartment; 1971 TSN Guide says $25K","Reggie Jackson",TRUE,6.36569872958258,127313.974591652
+"4",1970,"24","Oakland Athletics",47000,"BJHA (includes rent)","4/11/70 TSN: $40,000 plus free rent","Reggie Jackson",FALSE,6.01113967437875,282523.564695801
+"5",1971,"25","Oakland Athletics",45000,"3/13/71 TSN","BJHA says $40,000","Reggie Jackson",FALSE,5.76417419884963,259387.838948233
+"6",1972,"26","Oakland Athletics",55000,"Bill James Historical Abstract","","Reggie Jackson",FALSE,5.58074781225139,306941.129673827
+"7",1973,"27","Oakland Athletics",70000,"2/10/73 TSN","BJHA says $75,000","Reggie Jackson",FALSE,5.25862068965517,368103.448275862
+"8",1974,"28","Oakland Athletics",135000,"1975 TSN Guide","Player win; $100K offer","Reggie Jackson",FALSE,4.73346828609987,639018.218623482
+"9",1975,"29","Oakland Athletics",140000,"1976 Guide; 3/15/75 TSN; Timmerman dbase","Player loss; $168,500 request","Reggie Jackson",FALSE,4.3382807668522,607359.307359307
+"10",1976,"30","Baltimore Orioles",2e+05,"1977 TSN Guide","BJHA says $190,000","Reggie Jackson",FALSE,4.10233918128655,820467.83625731
+"11",1977,"31","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE,3.85227896760022,2022446.45799012
+"12",1978,"32","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE,3.57908163265306,1879017.85714286
+"13",1979,"33","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE,3.21641448876662,1688617.60660248
+"14",1980,"34","New York Yankees",525000,"9/20/81 NY Times","$200K salary, $400K bonus, $660K def., PR job","Reggie Jackson",FALSE,2.83319870759289,1487429.32148627
+"15",1981,"35","New York Yankees",588000,"","","Reggie Jackson",TRUE,2.56771595900439,1509816.98389458
+"16",1982,"36","California Angels",1103000,"1983 TSN Guide","$900K base plus $203K attendance bonus","Reggie Jackson",FALSE,2.41896551724138,2668118.96551724
+"17",1983,"37","California Angels",975000,"3/6/82 TSN","Plus attendance bonuses","Reggie Jackson",FALSE,2.34380220514534,2285207.15001671
+"18",1984,"38","California Angels",975000,"3/6/82 TSN","Plus attendance bonuses","Reggie Jackson",FALSE,2.24695707879564,2190783.15182575
+"19",1985,"39","California Angels",1058894,"3/6/82 TSN; 3/3/86 TSN (bonuses)","$975K plus attendance bonus","Reggie Jackson",FALSE,2.17048267326733,2298311.07982673
+"20",1986,"40","California Angels",1102946,"1986 USA Today survey","","Reggie Jackson",FALSE,2.12962962962963,2348866.48148148
+"21",1987,"41","California Angels",525000,"1987 USA Today survey","","Reggie Jackson",FALSE,2.05477445811365,1078756.59050967
+"22",1989,"22","Cleveland Indians",68000,"1989 USA Today survey","","Albert Belle",FALSE,1.88322147651007,128059.060402685
+"23",1990,"23","Cleveland Indians",117000,"USA Today","","Albert Belle",FALSE,1.78680590932247,209056.291390728
+"24",1991,"24","Cleveland Indians",130000,"1994 Joint Exhibit 1","","Albert Belle",FALSE,1.71390178353286,222807.231859272
+"25",1992,"25","Cleveland Indians",175000,"1994 Joint Exhibit 1","","Albert Belle",FALSE,1.66350486127579,291113.350723263
+"26",1993,"26","Cleveland Indians",1675000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $75K earned bonus","Albert Belle",FALSE,1.6159870997466,2706778.39207556
+"27",1994,"18","Seattle Mariners",442333,"1996 Joint Exhibit 1","Includes $333,333 signing bonus","Alex Rodriguez",FALSE,1.57498877413561,696669.509429726
+"28",1994,"27","Cleveland Indians",2775000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $175K earned bonus","Albert Belle",FALSE,1.57498877413561,4370593.84822631
+"29",1995,"19","Seattle Mariners",442333,"1996 Joint Exhibit 1","Includes $333,333 signing bonus","Alex Rodriguez",FALSE,1.53199388512776,677651.451190216
+"30",1995,"28","Cleveland Indians",4500000,"1996 Joint Exhibit 1","Incl. $100,000 signing bonus, $200K earned bonus","Albert Belle",FALSE,1.53199388512776,6893972.48307491
+"31",1996,"29","Cleveland Indians",5700000,"1997 Joint Exhibit 1","Includes $200,000 earned bonus","Albert Belle",FALSE,1.48843624018672,8484086.56906429
+"32",1996,"20","Seattle Mariners",442334,"1996 Joint Exhibit 1","Includes $333,334 signing bonus","Alex Rodriguez",FALSE,1.48843624018672,658385.955866751
+"33",1997,"21","Seattle Mariners",1062500,"1997 Joint Exhibit 1; 1997 postseason AP","Includes $112,500 signing bonus, $50,000 earned","Alex Rodriguez",FALSE,1.45418739635158,1545074.10862355
+"34",1997,"30","Chicago White Sox",1e+07,"1997 AP survey","","Albert Belle",FALSE,1.45418739635158,14541873.9635158
+"35",1998,"21","Kansas City Royals",170000,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE,1.43221723152307,243476.929358922
+"36",1998,"22","Seattle Mariners",2162500,"","","Alex Rodriguez",TRUE,1.43221723152307,3097169.76316864
+"37",1998,"31","Chicago White Sox",1e+07,"4/3/98 USA Today","","Albert Belle",FALSE,1.43221723152307,14322172.3152307
+"38",1999,"22","Kansas City Royals",2e+05,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE,1.40131841789852,280263.683579704
+"39",1999,"23","Seattle Mariners",3112500,"","","Alex Rodriguez",TRUE,1.40131841789852,4361603.57570915
+"40",1999,"32","Baltimore Orioles",11949794,"2001 Joint Exhibit 1","","Albert Belle",FALSE,1.40131841789852,16745466.4222932
+"41",2000,"23","Kansas City Royals",350000,"2001 Joint Exhibit 1","","Carlos Beltran",FALSE,1.35555555555556,474444.444444444
+"42",2000,"24","Seattle Mariners",4362500,"","","Alex Rodriguez",TRUE,1.35555555555556,5913611.11111111
+"43",2000,"33","Baltimore Orioles",12868670,"2001 Joint Exhibit 1","","Albert Belle",FALSE,1.35555555555556,17444197.1111111
+"44",2001,"34","Baltimore Orioles",12049040,"2001 Joint Exhibit 1","","Albert Belle",FALSE,1.31836121029882,15884986.9573388
+"45",2001,"24","Kansas City Royals",425000,"4/6/01 USA Today","","Carlos Beltran",FALSE,1.31836121029882,560303.514376997
+"46",2001,"25","Texas Rangers",2.2e+07,"4/6/01 USA Today","","Alex Rodriguez",FALSE,1.31836121029882,29003946.626574
+"47",2002,"25","Kansas City Royals",3500000,"4/3/02 AP","","Carlos Beltran",FALSE,1.29787234042553,4542553.19148936
+"48",2002,"26","Texas Rangers",2.2e+07,"4/3/02 AP","","Alex Rodriguez",FALSE,1.29787234042553,28553191.4893617
+"49",2002,"35","Baltimore Orioles",12368790,"2001 Joint Exhibit 1","","Albert Belle",FALSE,1.29787234042553,16053110.4255319
+"50",2003,"26","Kansas City Royals",6e+06,"4/3/03 AP","","Carlos Beltran",FALSE,1.26899421128799,7613965.26772793
+"51",2003,"27","Texas Rangers",2.2e+07,"4/3/03 AP","","Alex Rodriguez",FALSE,1.26899421128799,27917872.6483358
+"52",2003,"36","Baltimore Orioles",1.3e+07,"","","Albert Belle",TRUE,1.26899421128799,16496924.7467439
+"53",2004,"27","Kansas City Royals",9e+06,"4/7/04 AP","","Carlos Beltran",FALSE,1.23590556730092,11123150.1057082
+"54",2004,"28","New York Yankees",2.2e+07,"","","Alex Rodriguez",TRUE,1.23590556730092,27189922.4806202
+"55",2005,"28","New York Mets",11571429,"","","Carlos Beltran",FALSE,1.19526324757199,13830903.8055887
+"56",2005,"29","New York Yankees",2.6e+07,"","","Alex Rodriguez",FALSE,1.19526324757199,31076844.4368717
+"57",2005,"22","Cleveland Indians",318300,"","","Grady Sizemore",FALSE,1.19526324757199,380452.291702164
+"58",2006,"30","New York Yankees",21680727,"","","Alex Rodriguez",FALSE,1.15797292835919,25105694.9331463
+"59",2006,"29","New York Mets",13571428,"","","Carlos Beltran",FALSE,1.15797292835919,15715346.223176
+"60",2006,"23","Cleveland Indians",5e+05,"","","Grady Sizemore",FALSE,1.15797292835919,578986.464179597
+"61",2007,"30","New York Mets",13571429,"","","Carlos Beltran",FALSE,1.12582250040122,15279020.1307976
+"62",2007,"31","New York Yankees",22708525,"","","Alex Rodriguez",FALSE,1.12582250040122,25565768.3959236
+"63",2007,"24","Cleveland Indians",916667,"","","Grady Sizemore",FALSE,1.12582250040122,1032004.33397528
+"64",2008,"31","New York Mets",18622809,"","","Carlos Beltran",FALSE,1.08423493044822,20191500.0208655
+"65",2008,"32","New York Yankees",2.8e+07,"","","Alex Rodriguez",FALSE,1.08423493044822,30358578.0525502
+"66",2008,"25","Cleveland Indians",3166666,"","","Grady Sizemore",FALSE,1.08423493044822,3433409.89026275
+"67",2009,"32","New York Mets",19243682,"","","Carlos Beltran",FALSE,1.08810299364045,20939107.9928649
+"68",2009,"33","New York Yankees",3.3e+07,"","","Alex Rodriguez",FALSE,1.08810299364045,35907398.7901349
+"69",2009,"26","Cleveland Indians",4766666,"","","Grady Sizemore",FALSE,1.08810299364045,5186623.54428416
+"70",2010,"27","Cleveland Indians",5766666,"","","Grady Sizemore",FALSE,1.07050206012513,6173227.83305356
+"71",2010,"33","New York Mets",19401569,"","","Carlos Beltran",FALSE,1.07050206012513,20769419.5841599
+"72",2010,"34","New York Yankees",3.3e+07,"","","Alex Rodriguez",FALSE,1.07050206012513,35326567.9841294
+"73",2011,"34","New York Mets",19325436,"","$4M paid by New York Mets","Carlos Beltran",FALSE,1.03772189349112,20054428.0384615
+"74",2011,"35","New York Yankees",3.2e+07,"","","Alex Rodriguez",FALSE,1.03772189349112,33207100.591716
+"75",2011,"28","Cleveland Indians",7666666,"","","Grady Sizemore",FALSE,1.03772189349112,7955867.15828402
+"76",2012,"35","St. Louis Cardinals",1.3e+07,"contracts","","Carlos Beltran",FALSE,1.01681403101899,13218582.4032468
+"77",2012,"36","New York Yankees",2.9e+07,"contracts","","Alex Rodriguez",FALSE,1.01681403101899,29487606.8995507
+"78",2012,"29","Cleveland Indians",5e+06,"contracts","","Grady Sizemore",FALSE,1.01681403101899,5084070.15509494
+"79",2013,"36","St. Louis Cardinals",1.3e+07,"contracts","","Carlos Beltran",FALSE,1,1.3e+07
+"80",2013,"37","New York Yankees",2.8e+07,"contracts","","Alex Rodriguez",FALSE,1,2.8e+07

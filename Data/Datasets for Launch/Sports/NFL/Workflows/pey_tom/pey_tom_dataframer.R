@@ -11,7 +11,7 @@ brees <- data.frame(read.csv(list.files()[3]),stringsAsFactors=F)
 pey <- data.frame(read.csv(list.files()[4]),stringsAsFactors=F)
 tom <- data.frame(read.csv(list.files()[5]),stringsAsFactors=F)
 
-game_number <- 6 #ENTER GAME NUMBER
+game_number <- 7 #ENTER GAME NUMBER
 
 #peyton
 pey_2013_progression <- subset(pey, season == 2013 , season_game <= game_number)
@@ -72,9 +72,14 @@ ds$qb_rating <- round(ds$qb_rating,digits=2)
 ds <- merge(ds,outcomes)
 
 ds <- ds[order(ds$passing_touchdowns,decreasing=T),]
-ds[,c('player','season')]
-ds$image_url <- c('http://vlsportysexycool.com/wp-content/uploads/2012/03/Peyton-Manning-Broncos.png','http://3.bp.blogspot.com/-V_1dP__CU00/UjM6e5f6_XI/AAAAAAAAKTY/hth-u46579o/s1600/Brady_03.PNG','http://thegothamgridiron.files.wordpress.com/2010/08/young-dan-marino.png','http://www.wallpaperati.com/wp-content/uploads/2011/01/aaron-rodgers-wallpaper-3.png','http://www.coltsdigital.me/community/uploads/gallery/album_3/gallery_1_3_109440.png','http://maizeandgoblue.com/wp-content/uploads/2011/09/Tom-Brady.png','http://vlsportysexycool.com/wp-content/uploads/2012/06/Drew-Brees.png')
-ds$label <- c("Manning '13","Brady '07","Marino '84","Rodgers '11","Manning '04","Brady '11","Brees '11")
+players <- ds[,c('player','season')]
+image_urls <- c('http://vlsportysexycool.com/wp-content/uploads/2012/03/Peyton-Manning-Broncos.png','http://3.bp.blogspot.com/-V_1dP__CU00/UjM6e5f6_XI/AAAAAAAAKTY/hth-u46579o/s1600/Brady_03.PNG','http://thegothamgridiron.files.wordpress.com/2010/08/young-dan-marino.png','http://www.wallpaperati.com/wp-content/uploads/2011/01/aaron-rodgers-wallpaper-3.png','http://www.coltsdigital.me/community/uploads/gallery/album_3/gallery_1_3_109440.png','http://maizeandgoblue.com/wp-content/uploads/2011/09/Tom-Brady.png','http://vlsportysexycool.com/wp-content/uploads/2012/06/Drew-Brees.png')
+labels <- c("Manning '13","Brady '07","Marino '84","Rodgers '11","Manning '04","Brady '11","Brees '11")
+color <- c('#FB4F14','#0D254C','#006666','#FFCC00','#003B7B','#C80815','#D2B887')
+players <- c('Peyton Manning','Tom Brady','Dan Marino','Aaron Rodgers','Peyton Manning','Tom Brady','Drew Brees')
+season <- c(2013,2007,1984,2011,2004,2011,2011)
+players_images <- data.frame(player = players, season = season, image_url = image_urls, label = labels, color = color)
+ds <- merge(ds,players_images)
 ds$week <- game_number
 	ds$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='125' width='100'></td><td align='left'>Season: %3$s<br>Week: %7$s<br>QB Rating: %5$s<br>Passing Touchdowns: %4$s<br>Passing Yards: %6$s<br>Interceptions: %8$s</td></tr></table>",
 	ds$label,
@@ -86,9 +91,10 @@ ds$week <- game_number
 	ds$week,
 	ds$interceptions)
 
+ds
+names(ds)
 
-
-final_ds <- ds[,c(1:2,6,9,5:3,7,12,10:11,21:22,13:20,24,26)]
+final_ds <- ds[,c(1:2,6,9,5:3,7,12,10:11,21:22,13:20,24,26,25:27)]
 
 
 setwd("~/Desktop/Github/Aragorn/data/Data/Datasets for Launch/Sports/NFL/Workflows/pey_tom/data/weekly_viz_data")
