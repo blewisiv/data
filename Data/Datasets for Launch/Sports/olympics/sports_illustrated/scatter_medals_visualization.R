@@ -19,7 +19,7 @@ medals_athletes <- medals_athletes[order(medals_athletes$year_code,decreasing=F)
 ds <- merge(medals_athletes,countries)
 ds <- ds[order(ds$year_code,decreasing=F),]
 ds$detail <- 
-	sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='125' width='100'></td><td align='left'>Year: %3$s<br>Total Medals: %4$s<br>Gold Medals: %5$s<br>Silver Medals: %6$s<br>Bronze Medals: %7$s<br>Athletes: %8$s</td></tr></table>",
+	sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='140' width='120'></td><td align='left'>Year: %3$s<br>Total Medals: %4$s<br>Gold Medals: %5$s<br>Silver Medals: %6$s<br>Bronze Medals: %7$s<br>Athletes: %8$s</td></tr></table>",
 		ds$country,
 		ds$image_url,
 		ds$year_code,

@@ -1,5 +1,7 @@
-
-medals_sports <- read.csv(list.files()[2])
+options(stringsAsFactors=F)
+setwd("~/Desktop/Github/Aragorn/data/Data/Datasets for Launch/Sports/olympics/sports_illustrated/visualization")
+medals_sports <- 
+	read.csv(list.files()[2])
 library(rCharts)
 library(data.table)
 library(reshape2)
@@ -24,13 +26,48 @@ medals_athletes <- data.frame(
 )
 medals <- medals[order(medals$year_code,decreasing=F),]
 medals_athletes <- medals_athletes[order(medals_athletes$year_code,decreasing=F),]
-images <- medals_sports[,c('country','image_url')]
-images <- unique(images)
+countries <- c('Armenia', 'Azerbaijan','Belarus','Estonia','Georgia','Kazakhstan','Kyrgyzstan','Latvia','Lithuania','Moldova','Russia','Tajikistan','Turkmenistan','Ukraine','USSR','Uzbekistan')
+images <- c('http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/200px-Flag_of_Armenia.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/200px-Flag_of_Azerbaijan.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/200px-Flag_of_Belarus.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/200px-Flag_of_Estonia.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/200px-Flag_of_Georgia.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/200px-Flag_of_Kazakhstan.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/200px-Flag_of_Kyrgyzstan.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/200px-Flag_of_Latvia.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/200px-Flag_of_Lithuania.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/200px-Flag_of_Moldova.svg.png',
+	'http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/200px-Flag_of_Russia.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/200px-Flag_of_Tajikistan.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/200px-Flag_of_Turkmenistan.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/200px-Flag_of_Ukraine.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Russian_SFSR_%281918-1937%29.svg/200px-Flag_of_Russian_SFSR_%281918-1937%29.svg.png',
+	'http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/200px-Flag_of_Uzbekistan.svg.png'
+)
+country_color <- c(
+	'rgb(239, 154, 0)',
+	'rgb(0, 133, 84)',
+	'rgb(58, 154, 66)',
+	'rgb(55, 122, 11)',
+	'rgb(226,0,28)',
+	'rgb(0,159,191)',
+	'rgb(245,154,0)',
+	'rgb(130,40,42)',
+	'rgb(3,90,51)',
+	'rgb(255,204,0)',
+	'rgb(0,31,152)',
+	'rgb(4,87,0)',
+	'rgb(31,163,81)',
+	'rgb(255,208,0)',
+	'rgb(193,0,0)',
+	'rgb(0,135,168)'
+	)
+images <- data.frame(country = countries, rgb_color = country_color, image_url = images)
 
-ds <- merge(medals_athletes,countries)
-ds <- ds[order(ds$year_code,decreasing=F),]
 ds <- medals
+ds <- ds[order(ds$year_code,decreasing=F),]
 ds <- merge(ds,images)
+
 ds$detail <- 
 	sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='125' width='100'></td><td align='left'>Year: %3$s<br>Total Medals: %4$s<br>Gold Medals: %5$s<br>Silver Medals: %6$s<br>Bronze Medals: %7$s<br>Athletes: %8$s</td></tr></table>",
 		ds$country,
@@ -53,7 +90,7 @@ names(ds)[4:7] <-
 	paste(names(ds)[4:7],"_medals",sep = '')
 ds <- 
 	ds[order(ds$pos_date,decreasing=F),]
-ds <- merge(ds,countries)
+write.csv(ds,'olympic_data.csv')
 #Scatter Chart
 p1 <- 
 	nPlot(total_medals ~ pos_date, group = 'country', data = ds, type = 'scatterChart')
@@ -81,6 +118,7 @@ b$yAxis(title = list(text = "Total Winter Medals [Hockey Adjustment]",style = li
 b$legend(align = 'right', verticalAlign = 'middle', layout = 'vertical')
 b$params$height <- 500
 b$params$width <-850
+b$tooltip(useHTML = T, formatter = "#! function() { return this.point.detail; } !#")
 b$publish('USSR medal bubble chart', host = 'gist')
 
 

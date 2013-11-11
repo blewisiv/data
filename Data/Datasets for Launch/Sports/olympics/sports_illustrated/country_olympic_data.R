@@ -19,6 +19,7 @@ images <- c('http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Ar
 	'http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Russian_SFSR_%281918-1937%29.svg/200px-Flag_of_Russian_SFSR_%281918-1937%29.svg.png',
 	'http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/200px-Flag_of_Uzbekistan.svg.png'
 )
+
 countries$image_url <- images
 countries[,'image_url'][2]
 country_color <- c(
@@ -40,6 +41,7 @@ country_color <- c(
 	'rgb(0,135,168)'
 	)
 countries$rgb_color <- country_color
+images <- data.frame(country = countries)
 names(countries)[3] <-'dbpedia_url'
 write.csv(countries,'country_data.csv')
 olympic_image_url <- c(
