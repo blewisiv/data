@@ -14,9 +14,9 @@ brees <-
 pey <- 
 	data.frame(read.csv(list.files()[4]),stringsAsFactors=F)
 tom <- 
-	data.frame(read.csv(list.files()[5]),stringsAsFactors=F)
+	data.frame(read.csv(list.files()[6]),stringsAsFactors=F)
 
-game_number <- 8 #ENTER GAME NUMBER
+game_number <- 9 #ENTER GAME NUMBER
 
 #peyton
 pey_2013_progression <- subset(pey, season == 2013 , season_game <= game_number)
@@ -145,14 +145,27 @@ season <- c(
 	1984,
 	2011,
 	2011)
-players_images <- data.frame(player = players, season = season, image_url = image_urls, label = labels, color = color)
+
+teams<- c(
+	'New England Patriots',
+	'Denver Broncos',
+	'Indianapolis Colts',
+	'Green Bay Packers',
+	'Miami Dolphins',
+	'New England Patriots',
+	'New Orleans Saints')
+players_images <- data.frame(player = players, season = season, image_url = image_urls, label = labels, color = color, team = teams)
 ds <- merge(ds,players_images)
 
 ds$week <- 
 	game_number
-ds$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='125' width='100'></td><td align='left'>Season: %3$s<br>Week: %7$s<br>QB Rating: %5$s<br>Passing Touchdowns: %4$s<br>Passing Yards: %6$s<br>Interceptions: %8$s</td></tr></table>",
+iframe_base <- "http://nflcombineresults.com/testembed2.php#advanced/search-advanced-query="
+ds$iframe_url <- 
+	paste(iframe_base,ds$player,"+",ds$team,"+",ds$season, sep = '')
+
+ds$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><iframe src='%2$s' height='125' width='100'></iframe></td><td align='left'>Season: %3$s<br>Game: %7$s<br>QB Rating: %5$s<br>Passing Touchdowns: %4$s<br>Passing Yards: %6$s<br>Interceptions: %8$s</td></tr></table>",
 	ds$label,
-	ds$image_url,
+	ds$iframe_url,
 	ds$season,
 	ds$passing_touchdowns,
 	ds$qb_rating,
@@ -163,12 +176,12 @@ ds$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th co
 ds
 names(ds)
 
-final_ds <- ds[,c(1:2,6,9,5:3,7,12,10:11,21:22,13:20,24,26,25,27)]
+final_ds <- ds[,c(1:2,6,9,5:3,7,12,10:11,21:22,13:20,24,26,25,27,29)]
 ds <- 
 	ds[order(ds$passing_touchdowns,decreasing=T),]
 ds
 setwd("~/Desktop/Github/Aragorn/data/Data/Datasets for Launch/Sports/NFL/Workflows/pey_tom/data/weekly_viz_data")
-write.csv(final_ds,paste('Week_',game_number,'_Peyton_Quest','.csv',sep=""))
+write.csv(final_ds,paste('Game_',game_number,'_Peyton_Quest','.csv',sep=""))
 
 attach(ds_week)
 ds_week$completion_percentage <- 
@@ -191,9 +204,13 @@ ds_week$qb_rating <-
 	round(ds_week$qb_rating,digits=2)
 ds_week <- 
 	merge(ds_week,players_images,all.x=T)
-ds_week$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><img src='%2$s' height='125' width='100'></td><td align='left'>Season: %3$s<br>Game Number: %7$s<br>QB Rating: %5$s<br>Passing Touchdowns: %4$s<br>Passing Yards: %6$s<br>Interceptions: %8$s</td></tr></table>",
+
+iframe_base <- "http://nflcombineresults.com/testembed2.php#advanced/search-advanced-query="
+ds_week$iframe_url <- 
+	paste(iframe_base,ds_week$player,"+",ds_week$team,"+",ds$season, sep = '')
+ds_week$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><th colspan='2.5'>%1$s</th></tr><tr><td><iframe src='%2$s' height='125' width='100'></iframe></td><td align='left'>Season: %3$s<br>Game Number: %7$s<br>QB Rating: %5$s<br>Passing Touchdowns: %4$s<br>Passing Yards: %6$s<br>Interceptions: %8$s</td></tr></table>",
 	ds_week$label,
-	ds_week$image_url,
+	ds_week$iframe_url,
 	ds_week$season,
 	ds_week$passing_touchdowns,
 	ds_week$qb_rating,
@@ -201,4 +218,7 @@ ds_week$detail <- sprintf("<table cellpadding='3' style='line-height:1.25'><tr><
 	ds_week$season_game,
 	ds_week$interceptions)
 setwd("~/Desktop/Github/Aragorn/data/Data/Datasets for Launch/Sports/NFL/Workflows/pey_tom/data/series_data")
-write.csv(ds_week,paste('Week_',game_number,'_Peyton_Quest_Game_by_Game_Data','.csv',sep=""))
+write.csv(ds_week,paste('Game_',game_number,'_Peyton_Quest_Game_by_Game_Data','.csv',sep=""))
+
+names(d)
+d <- d[,c(1:2,5:13,17:22,15:16,23,25)]

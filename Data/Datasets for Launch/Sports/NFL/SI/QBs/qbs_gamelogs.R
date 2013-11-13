@@ -41,11 +41,14 @@ for(player in players){
 for(i in ignore){
 	p <- all_p_stats[!grepl(i,all_p_stats$stats_playoffs.Rk),]
 }
-
+ignore <- c(' ','Rk')
 for(i in ignore){
 	r <- all_rs_stats[!grepl(i,all_rs_stats$stats.Rk),]
 }
+names(r) <- tolower(gsub('stats.', '', names(r)))
+names(p) <- tolower(gsub('stats_playoffs.', '', names(p)))
 
+ds <- rbind.fill(r,p)
 results <- ds[!is.na(ds$result), c('result')]
 ds <- cbind(ds,colsplit(ds$result,"\\ ", c('outcome','score')))
 ds <- cbind(ds,colsplit(ds$score,"-",c('team_points','opponent_points')))
