@@ -1,0 +1,420 @@
+"","location","longitude","latitude"
+"1","Aberdeen, Maryland",-76.1641197,39.5095556
+"2","Akron, Ohio",-81.5190053,41.0814447
+"3","Alexandria, Virginia",-77.0469214,38.8048355
+"4","Alief, Texas",-95.593239,29.6827204
+"5","Ames, Iowa",-93.625622,42.02335
+"6","Amityville, New York",-73.4170673,40.6789893
+"7","Anchorage, Alaska",-149.9002778,61.2180556
+"8","Antratsit, Ukraine",39.09,48.1191667
+"9","Arden, North Carolina",-82.5163889,35.4661111
+"10","Aschaffenburg, Germany",9.1355554,49.9806625
+"11","Aston, Pennsylvania",-75.4257325,39.8648194
+"12","Athens, Greece",23.7293097,37.9837155
+"13","Atlanta, Georgia",-84.3879824,33.7489954
+"14","Bahia Blanca, Argentina",-62.2680778,-38.7116776
+"15","Baltimore, Maryland",-76.6121893,39.2903848
+"16","Barcelona, Spain",2.1734035,41.3850639
+"17","Barrington, Rhode Island",-71.308609,41.7406798
+"18","Baton Rouge, Louisiana",-91.1403196,30.4582829
+"19","Beaumont, Texas",-94.1265562,30.080174
+"20","Belgorod, Russia",36.5982621,50.5997134
+"21","Belgrade, Serbia",20.4622222,44.8205556
+"22","Bellflower, California",-118.1170117,33.8816818
+"23","Benton Harbor, Michigan",-86.4541894,42.1167065
+"24","Beverly Hills, Michigan",-83.2625577,42.516131
+"25","Bijelo Polje, Montenegro",19.747931,43.037708
+"26","Birmingham, Alabama",-86.80249,33.5206608
+"27","Birmingham, Michigan",-83.2113192,42.5467012
+"28","Blaine, Washington",-122.7471191,48.993723
+"29","Blairstown, New Jersey",-74.9589405,40.9831018
+"30","Bloomington, Minnesota",-93.2982799,44.840798
+"31","Bologna, Italy",11.3426163,44.494887
+"32","Braunschweig, Germany",10.5267696,52.2688736
+"33","Brazzaville, Congo",15.2833333,-4.2666667
+"34","Bremerton, Washington",-122.6329356,47.5673202
+"35","Bronx, New York",-73.866667,40.85
+"36","Brookline, Massachusetts",-71.1211635,42.3317642
+"37","Brooklyn, New York",-73.95,40.65
+"38","Brown Deer, Wisconsin",-87.9645321,43.1633426
+"39","Brownsburg, Indiana",-86.3977735,39.8433769
+"40","Bruges, Belgium",3.2246995,51.209348
+"41","Buenos Aires, Argentina",-58.3815931,-34.6037232
+"42","Burnsville, Minnesota",-93.2777226,44.7677424
+"43","Bursa, Turkey",29.0634479,40.266864
+"44","Caldwell, New Jersey",-74.2765366,40.8398218
+"45","Cambria Heights, New York",-73.7330753,40.692158
+"46","Camden, New Jersey",-75.1196199,39.9259463
+"47","Canal Winchester, Ohio",-82.8123646,39.8466556
+"48","Canberra Australia, ",149.1286843,-35.2819998
+"49","Canberra, Australia",149.1286843,-35.2819998
+"50","Canton, Georgia",-84.4907621,34.2367621
+"51","Canton, Ohio",-81.378447,40.7989473
+"52","Caracas, Venezuela",-66.902061,10.491016
+"53","Carmel, Indiana",-86.1180435,39.978371
+"54","Carmel, New York",-73.6801297,41.4300937
+"55","Carrollton, Texas",-96.8899636,32.9756415
+"56","Casselberry, Florida",-81.3278455,28.677775
+"57","Cayenne, French Guiana",-52.3269,4.9227
+"58","Celje, Slovenia",15.2677063,46.2397495
+"59","Charleston, South Carolina",-79.9309216,32.7765656
+"60","Charlotte, North Carolina",-80.8431267,35.2270869
+"61","Chatham, Virginia",-79.3980806,36.8256943
+"62","Chatsworth, California",-118.61481,34.2506356
+"63","Chesapeake, Virginia",-76.2874927,36.7682088
+"64","Chester, Pennsylvania",-75.3557457,39.849557
+"65","Cheverly, Maryland",-76.915807,38.928167
+"66","Chicago, Illinois",-87.6297982,41.8781136
+"67","Childersburg, Alabama",-86.3549774,33.2781686
+"68","Cincinnati, Ohio",-84.5120196,39.1031182
+"69","Clarksville, Tennessee",-87.3594528,36.5297706
+"70","Clemmons, North Carolina",-80.3819984,36.0215258
+"71","Clinton, Maryland",-76.8983059,38.7651145
+"72","Coeur dAlene, Idaho",-116.7804664,47.6776832
+"73","College Park, Georgia",-84.4493725,33.6534427
+"74","Collierville, Tennessee",-89.6645266,35.042036
+"75","Colorado Springs, Colorado",-104.8213634,38.8338816
+"76","Columbia, South Carolina",-81.0348144,34.0007104
+"77","Columbus, Ohio",-82.9987942,39.9611755
+"78","Compton, California",-118.2200712,33.8958492
+"79","Concord, New Hampshire",-71.5375718,43.2081366
+"80","Concord, North Carolina",-80.579511,35.4087517
+"81","Cookeville, Tennessee",-85.5016423,36.162839
+"82","Copaigue, New York",-73.3998445,40.6814892
+"84","Corsicana, Texas",-96.4688727,32.0954304
+"85","Cortland, New York",-76.1804843,42.6011813
+"86","Crockett, Texas",-95.4566136,31.3182359
+"87","Crossett, Arkansas",-91.9612427,33.1281779
+"88","Dakar, Senegal",-17.3660286,14.7645042
+"89","Dallas, Texas",-96.8004511,32.7801399
+"90","Dalzell, South Carolina",-80.4300818,34.0168212
+"91","Dar es Salaam, Tanzania",39.269661,-6.822921
+"92","Dayton, Ohio",-84.1916069,39.7589478
+"93","Daytona Beach, Florida",-81.0228331,29.2108147
+"94","Denver, Colorado",-104.9847179,39.737567
+"95","Detroit, Michigan",-83.0457538,42.331427
+"96","Doboj, Bosnia",18.1695034,43.9870763
+"97","Dumfries, Virginia",-77.3280382,38.5676202
+"98","Duncanville, Texas",-96.9083366,32.6518004
+"99","Dunwoody, Georgia",-84.3346473,33.9462125
+"100","Durham, North Carolina",-78.898619,35.9940329
+"101","East Chicago, Indiana",-87.4547635,41.6392024
+"102","Edmond, Oklahoma",-97.4780954,35.6528323
+"103","Edmonds, Washington",-122.3773552,47.8106521
+"104","El Dorado Hills, California",-121.082167,38.6857367
+"105","El Dorado, Arkansas",-92.6662674,33.20763
+"106","Elizabeth, New Jersey",-74.2107006,40.6639916
+"107","Emmaus, Pennsylvania",-75.4968502,40.5395421
+"108","Eskisehir, Turkey",30.5205556,39.7766667
+"109","Eustis, Florida",-81.6853534,28.8527675
+"110","Fairless Hills, Pennsylvania",-74.8551644,40.1795537
+"111","Farnham, United Kingdom",-0.798802,51.214321
+"112","Fayetteville, Arkansas",-94.1574263,36.0625795
+"113","Fayetteville, North Carolina",-78.8783585,35.0526641
+"114","Fitchburg, Massachusetts",-71.8022955,42.5834228
+"115","Flint, Michigan",-83.6874562,43.0125274
+"116","Flushing, New York",-73.833079,40.7674987
+"117","Fort Lauderdale, Florida",-80.1373174,26.1224386
+"118","Fort Pierce, Florida",-80.3256056,27.4467056
+"119","Fort Washington, Maryland",-77.0230313,38.7073379
+"120","Fort Wayne, Indiana",-85.1393513,41.079273
+"121","Fort Worth, Texas",-97.3208496,32.725409
+"122","Frederick, Maryland",-77.4105409,39.4142688
+"123","Freehold, New Jersey",-74.286293,40.232632
+"124","Fresno, California",-119.7725868,36.7468422
+"125","Friendswood, Texas",-95.2010447,29.5293998
+"126","Garner, North Carolina",-78.6141709,35.7112642
+"127","Gent, Belgium",3.7174243,51.0543422
+"128","Gisborne, New Zealand",178.017649,-38.662334
+"129","Glens Falls, New York",-73.6440058,43.3095164
+"130","Goleta, California",-119.8276389,34.4358294
+"131","Goodyear, Arizona",-112.3582136,33.449806
+"132","Grambling, Louisiana",-92.7140402,32.5276503
+"133","Grand Ledge, Michigan",-84.7463757,42.7533685
+"134","Grandview, Missouri",-94.5330096,38.8858407
+"135","Greeley, Colorado",-104.7091322,40.4233142
+"136","Greensboro, North Carolina",-79.7919754,36.0726354
+"137","Greenville, Georgia",-84.7129848,33.0287373
+"138","Hamilton, Massachusetts",-70.8431049,42.6362052
+"139","Hanford, California",-119.6456844,36.3274502
+"140","Harbor City, California",-118.2965084,33.7906551
+"141","Harvey, Louisiana",-90.0772944,29.9035387
+"142","Henderson, Nevada",-114.9817213,36.0395247
+"143","Hendersonville, Tennessee",-86.6199957,36.3047735
+"144","Henrico Valley, Virginia",-77.54685,37.594117
+"145","Henrico, Virginia",-77.5439961,37.6307265
+"146","High Point, North Carolina",-80.0053176,35.9556923
+"147","Hillsboro, Texas",-97.1300061,32.0109886
+"148","Hobbs, New Mexico",-103.1360403,32.7026116
+"149","Hoboken, New Jersey",-74.0323626,40.7439905
+"150","Hollywood, Florida",-80.1494901,26.0112014
+"151","Holon, Israel",34.787384,32.015833
+"152","Houston, Texas",-95.3693896,29.7601927
+"153","Humble, Texas",-95.2621553,29.9988312
+"154","Huntington, West Virginia",-82.445154,38.4192496
+"155","Hyattsville, Maryland",-76.9455301,38.9559442
+"156","Indianapolis, Indiana",-86.158068,39.768403
+"157","Inglewood, California",-118.3531311,33.9616801
+"158","Iola, Texas",-96.0739795,30.7725123
+"159","Iowa Falls, Iowa",-93.2645741,42.5198868
+"160","Irvine, California",-117.7946942,33.6839473
+"161","Islip, New York",-73.2103934,40.7298207
+"162","Izhevsk, Russia",53.1833333,56.8333333
+"163","Jackson, Mississippi",-90.1848103,32.2987573
+"164","Jersey City, New Jersey",-74.0776417,40.7281575
+"165","Johannesburg, South Africa",28.0473051,-26.2041028
+"166","Joinville, Brazil",-48.8460931,-26.3050883
+"167","Jonesboro, Georgia",-84.3538128,33.5215013
+"168","Junction City, Arkansas",-92.7243243,33.0162501
+"169","Juneau, Alaska",-134.4197222,58.3019444
+"170","Kamloops, Canada",-120.3272674,50.674522
+"171","Kansas City, Kansas",-94.6274636,39.114053
+"172","Kansas City, Missouri",-94.5785667,39.0997265
+"173","Kaunas, Lithuania",23.9035416,54.8984964
+"174","Kebemer, Senegal",-16.44072,15.37379
+"175","Kelford, North Carolina",-77.2235757,36.1796007
+"176","Kent, Washington",-122.2348431,47.3809335
+"177","Kersey, Colorado",-104.5616256,40.387481
+"178","Kinna, Sweden",12.6941321,57.50984
+"179","Kinston, North Carolina",-77.5816353,35.2626635
+"180","La Mirada, California",-118.0120086,33.9172357
+"181","Lake Oswego, Oregon",-122.6706498,45.4206749
+"182","Lake Wales, Florida",-81.5859099,27.9014133
+"183","Lakewood, California",-118.1339563,33.8536269
+"184","Lancaster, California",-118.1541632,34.6867846
+"185","Lanham, Maryland",-76.860565,38.9582591
+"186","Las Cruces, New Mexico",-106.7636538,32.3199396
+"187","Las Vegas, Nevada",-115.172816,36.114646
+"188","Latta, South Carolina",-79.4311616,34.3371047
+"189","Laurinburg, North Carolina",-79.4628248,34.7740494
+"190","Lawndale, California",-118.3525744,33.887237
+"191","Lawrenceville, New Jersey",-74.7361013,40.3016375
+"192","Le Robert, Martinique",-60.9403,14.6792
+"193","Lexington, Kentucky",-84.5037164,38.0405837
+"194","Libertyville, Illinois",-87.9531303,42.2830786
+"195","Lisieux, France",0.227849,49.145922
+"196","Little Rock, Arkansas",-92.2895948,34.7464809
+"197","Ljubljana, Slovenia",14.5080702,46.0564509
+"198","Lodz, Poland",19.4559833,51.7592485
+"199","London, United Kingdom",-0.1198244,51.5112139
+"200","Long Beach, California",-118.1956168,33.768321
+"201","Long Branch, New Jersey",-73.9923596,40.3042778
+"202","Long Lake, Minnesota",-93.5716243,44.9866298
+"203","Los Alamitos, California",-118.0725641,33.8030716
+"204","Los Angeles, California",-118.2436849,34.0522342
+"205","Louisville, Colorado",-105.1319296,39.977763
+"206","Lubumbashi, Congo",15.2829833,-4.3476938
+"207","Lyon, France",4.835659,45.764043
+"208","Madison, Wisconsin",-89.4012302,43.0730517
+"209","Manhasset, New York",-73.6995749,40.7978787
+"210","Marietta, Georgia",-84.5499327,33.952602
+"211","Marion, Indiana",-85.6591442,40.5583739
+"212","Marion, South Carolina",-79.4006069,34.178216
+"213","Maryborough, Australia",152.701553,-25.5371225
+"214","Mauldin, South Carolina",-82.310119,34.77873
+"215","Mayaguez, Puerto Rico",-67.1451517,18.2013463
+"216","Maysville, Kentucky",-83.744365,38.6411854
+"217","Medford, New Jersey",-74.8236111,39.9008333
+"218","Medford, Oregon",-122.8755949,42.3265152
+"219","Melbourne, Australia",144.96328,-37.814107
+"220","Memphis, Tennessee",-90.0489801,35.1495343
+"221","Merced, California",-120.4829677,37.3021632
+"222","Mesquite, Texas",-96.5991593,32.7667955
+"223","Metuchen, New Jersey",-74.3632049,40.5431598
+"224","Miami, Florida",-80.2264393,25.7889689
+"225","Milwaukee, Wisconsin",-87.9064736,43.0389025
+"226","Minneapolis, Minnesota",-93.26667,44.983334
+"227","Minnetonka, Minnesota",-93.4687489,44.9211836
+"228","Mississauga, Canada",-79.6441198,43.5890452
+"229","Missouri City, Texas",-95.5377215,29.6185669
+"230","Mitchell, South Dakota",-98.0297992,43.7094283
+"231","Mobile, Alabama",-88.0430541,30.6943566
+"232","Modesto, California",-120.9968782,37.6390972
+"233","Monroe, Louisiana",-92.1193012,32.5093109
+"234","Montebelluna, Italy",12.0439904,45.775491
+"235","Monterey, California",-121.8946761,36.6002378
+"236","Monticello, Mississippi",-90.1073079,31.5537807
+"237","Montreal Canada, ",-73.5539925,45.5086699
+"238","Montreal, Canada",-73.5539925,45.5086699
+"239","Moreno Valley, California",-117.2296717,33.9424658
+"240","Morges, Switzerland",6.4929214,46.5152627
+"241","Morrisville, Pennsylvania",-74.7879399,40.2114977
+"242","Mostar, Bosnia",17.8127536,43.3422732
+"243","Mount Dora, Florida",-81.644519,28.8024918
+"244","Mount Vernon, New York",-73.8370786,40.9125992
+"245","Mouth of Wilson, Virginia",-81.3364889,36.5895679
+"246","Myrtle Beach, South Carolina",-78.8866943,33.6890603
+"247","Nashville, Tennessee",-86.7833333,36.1666667
+"248","Nederland, Texas",-93.9923965,29.9743803
+"249","New Orleans, Louisiana",-90.0715323,29.9510658
+"250","New York, New York",-74.0059731,40.7143528
+"251","Newark, New Jersey",-74.1723667,40.735657
+"252","Newberry, South Carolina",-81.6187178,34.2745833
+"253","Newtown Square, Pennsylvania",-75.401028,39.9867772
+"254","Norcross, Georgia",-84.2135309,33.9412127
+"255","Norkopping, Sweden",16.192421,58.587745
+"256","North Babylon, New York",-73.3217861,40.7164881
+"257","North Bethesda, Maryland",-77.1188678,39.0445535
+"258","North Charleston, South Carolina",-79.9748103,32.8546197
+"259","North Hollywood, California",-118.3812562,34.187044
+"260","Nova Varos, Serbia",19.820221,43.466591
+"261","Oak Lawn, Illinois",-87.7479528,41.719978
+"262","Oak Park, Illinois",-87.7845025,41.8850317
+"263","Oakdale, Connecticut",-72.1573008,41.4662093
+"264","Oakland, California",-122.2711137,37.8043637
+"265","Odessa, Ukraine",30.7233095,46.482526
+"266","Oklahoma City, Oklahoma",-97.5164276,35.4675602
+"267","Ontario, California",-117.6508876,34.0633443
+"268","Orange City, Iowa",-96.0583523,43.0072087
+"269","Orange, New Jersey",-74.2326478,40.7706187
+"270","Orlando, Florida",-81.3792365,28.5383355
+"271","Orono, Minnesota",-93.6044033,44.9713519
+"272","Ostrava, Czech Republic",18.2625243,49.8209226
+"273","Palm Beach Gardens, Florida",-80.1386547,26.8233946
+"274","Palmdale, California",-118.1164613,34.5794343
+"275","Palo Alto, California",-122.1430195,37.4418834
+"276","Paris, France",2.3522219,48.856614
+"277","Parkersburg, West Virginia",-81.5615135,39.2667418
+"278","Pasadena, California",-118.1445155,34.1477849
+"279","Patterson, North Carolina",-81.5639876,35.9992972
+"280","Peekskill, New York",-73.9204158,41.2900939
+"281","Pella, Iowa",-92.916405,41.4080327
+"282","Pennsauken, New Jersey",-75.058009,39.9562052
+"283","Pensacola, Florida",-87.2169149,30.421309
+"284","Peoria, Illinois",-89.5889864,40.6936488
+"285","Petah Tikva, Israel",34.887762,32.084041
+"286","Philadelphia, Pennsylvania",-75.163789,39.952335
+"287","Phoenix, Arizona",-112.0740373,33.4483771
+"288","Pinecrest, Florida",-80.3070395,25.6622835
+"289","Pineville, Louisiana",-92.4343035,31.3224044
+"290","Pittsburgh, Pennsylvania",-79.9958864,40.4406248
+"291","Pittsfield, Maine",-69.3833847,44.7825145
+"292","Plainfield, New Jersey",-74.4073736,40.6337136
+"293","Plainsboro, New Jersey",-74.585292,40.3382543
+"294","Plymouth Meeting, Pennsylvania",-75.2743467,40.1023319
+"295","Poplar Bluff, Missouri",-90.392888,36.7569994
+"296","Pordenone, Italy",12.6551362,45.9626398
+"297","Port St Lucie, Florida",-80.355,27.2758333
+"298","Port-Au-Prince, Hati",-72.336408,18.539269
+"299","Portland, Oregon",-122.6762071,45.5234515
+"300","Portland, Tennessee",-86.5163833,36.5817089
+"301","Porto Alegre, Brazil",-51.2287346,-30.0277041
+"302","Prentiss, Mississippi",-89.8670229,31.5985012
+"303","Providence, Rhode Island",-71.4128343,41.8239891
+"304","Puerto Plata, Dominican Republic",-70.6871091,19.7807686
+"305","Queens, New York",-73.7948516,40.7282239
+"306","Queensbridge, New York",-73.9452634,40.7558004
+"307","Racine, Wisconsin",-87.7828523,42.7261309
+"308","Raeford, North Carolina",-79.2241997,34.9809995
+"309","Rahway, New Jersey",-74.2776468,40.6081591
+"310","Raleigh, North Carolina",-78.6381787,35.7795897
+"311","Rancho Cucamonga, California",-117.5931084,34.1063989
+"312","Randolph, Wisconsin",-89.0067778,43.5391527
+"313","Reseda, California",-118.5360517,34.2011141
+"314","Richmond, Virginia",-77.4360481,37.5407246
+"315","Riga Latvia, ",24.1051864,56.9496487
+"316","Riga, Latvia",24.1051864,56.9496487
+"317","Rio Tercero, Argentina",-64.1132028,-32.1765435
+"318","Riverside, California",-117.3961564,33.9533487
+"319","Riviera Beach, Florida",-80.0580969,26.7753405
+"320","Roanoke, Virginia",-79.9414266,37.2709704
+"321","Robinson, Illinois",-87.7391935,39.0053201
+"322","Rockville, Maryland",-77.1527578,39.0839973
+"323","Rome, Italy",12.4825199,41.8929163
+"324","Roswell, Georgia",-84.3615928,34.0231553
+"325","Rotorua, New Zealand",176.2497461,-38.1368478
+"326","Rouen, France",1.099971,49.443232
+"327","Sacramento, California",-121.4943996,38.5815719
+"328","Saginaw, Michigan",-83.9508068,43.4194699
+"329","Saint Croix US Virgin Islands",-64.6964428,17.7463247
+"330","Saint Petersburg, Russia",30.3350986,59.9342802
+"331","Saint-Quentin, France",3.2874,49.847066
+"332","Sainte-Catherine-les-Arras, France",2.764874,50.307656
+"333","SaintMaurice, France",2.423655,48.8205669
+"334","Salinas, California",-121.6555013,36.6777372
+"335","San Antonio, Texas",-98.4936282,29.4241219
+"336","San Diego, California",-117.1572551,32.7153292
+"337","San Fernando, California",-118.4389719,34.2819461
+"338","San Leandro, California",-122.1560768,37.7249296
+"339","Santa Clara, California",-121.9552356,37.3541079
+"340","Santa Monica, California",-118.4911912,34.0194543
+"341","Santa Teresa, Brazil",-40.5961946,-19.9339867
+"342","Santo Domingo, Dominican Republic",-69.9833333,18.5
+"343","Sao Carlos, Brazil",-47.89085,-22.0132923
+"344","Savannah, Georgia",-81.0998342,32.0835407
+"345","Seagoville, Texas",-96.5383228,32.6395776
+"346","Seattle, Washington",-122.3320708,47.6062095
+"347","Severn, Maryland",-76.6983022,39.1370528
+"348","Sherwood, Arkansas",-92.2243153,34.8150907
+"349","Shreveport, Louisiana",-93.7501789,32.5251516
+"350","Silver Spring, Maryland",-77.026088,38.9906657
+"351","Simi Valley, California",-118.781482,34.2694474
+"352","Sioux City, Iowa",-96.4003069,42.4999942
+"353","Skopje, Macedonia",21.4279956,41.9973462
+"354","Snellville, Georgia",-84.0199108,33.857328
+"355","South Kent, Connecticut",-73.4708417,41.6795509
+"357","Speyer, Germany",8.436217,49.3204789
+"358","Springfield, Illinois",-89.6501481,39.7817213
+"359","Springfield, Missouri",-93.2922989,37.2089572
+"360","St Charles, Missouri",-90.511764,38.788698
+"361","St Cloud, Minnesota",-94.1632404,45.5579451
+"362","St Croix, U.S. Virgin Islands",-64.8347992,17.7245968
+"363","St Louis, Missouri",-90.1994042,38.6270025
+"364","St Monteverde, Florida",-80.154718,26.436936
+"365","St Petersburg, Florida",-82.64,27.7730556
+"366","St Petersburg, Russia",30.3350986,59.9342802
+"367","Starkville, Mississippi",-88.8183872,33.4503998
+"368","Stone Mountain, Georgia",-84.170196,33.8081608
+"369","Sylacauga, Alabama",-86.2516406,33.1731716
+"370","Syracuse, New York",-76.1474244,43.0481221
+"371","Tacoma, Washington",-122.4442906,47.2528768
+"372","Tampa, Florida",-82.4571776,27.950575
+"373","Tarzana, California",-118.5506158,34.1494848
+"374","Tbilisi, Georgia",44.792998,41.709981
+"375","Teaneck, New Jersey",-74.0116536,40.8932469
+"376","Tepic, Mexico",-104.8945887,21.5041651
+"377","The Colony, Texas",-96.8863922,33.0890094
+"378","Thomaston, Georgia",-84.3265854,32.8881879
+"379","Toledo, Ohio",-83.555212,41.6639383
+"380","Tomball, Texas",-95.6160549,30.0971621
+"381","Toronto, Canada",-79.3831843,43.653226
+"382","Tyler, Texas",-95.3010624,32.3512601
+"383","Union, South Carolina",-81.623711,34.7154122
+"384","Utena, Lithuania",25.6089219,55.5059039
+"385","Valencia, Spain",-0.3762881,39.4699075
+"386","Vallejo, California",-122.2566367,38.1040864
+"387","Valparaiso, Indiana",-87.0611412,41.4730948
+"388","Vancouver Canada, ",-123.1139268,49.261226
+"389","Ventura, California",-119.2290053,34.2746405
+"390","Vevey, Switzerland",6.8424313,46.4627306
+"391","Victoria, Canada",-123.3656444,48.4284207
+"392","Villa Rica, Georgia",-84.9191081,33.732052
+"393","Villanueva de la Serena, Spain",-5.7997323,38.9735752
+"394","Visalia, California",-119.2920585,36.3302284
+"395","Washington D.C.",-77.0364641,38.9072309
+"396","Washington, Indiana",-87.172789,38.6592152
+"397","Waterbury, Connecticut",-73.0514965,41.5581525
+"398","Waukegan, Illinois",-87.8447938,42.3636331
+"399","West Dallas, Texas",-96.8726295,32.783567
+"400","West Mississauga, Canada ",-79.6441198,43.5890452
+"401","Westchester, Illinois",-87.8806738,41.8498339
+"402","Wheaton, Maryland",-77.0552555,39.0398314
+"403","White Plains, New York",-73.7629097,41.0339862
+"404","Winchendon, Massachusetts",-72.0439529,42.6871009
+"405","Windsor, North Carolina",-76.9460641,35.9984925
+"406","Winnsboro, Louisiana",-91.720681,32.1632079
+"407","Winston-Salem, North Carolina",-80.244216,36.0998596
+"408","Winter Park, Florida",-81.3392352,28.5999998
+"409","Wolfeboro, New Hampshire",-71.2094799,43.5852069
+"410","Woodbridge, Virginia",-77.2497049,38.6581722
+"411","Woodland Hills, California",-118.6089752,34.165357
+"412","Worcester, Massachusetts",-71.8022934,42.2625932
+"413","Worzbach, Germany",11.5371988,50.4626069
+"415","Wurzburg, Germany",9.9535715,49.7915953
+"416","Wynnewood, Pennsylvania",-75.2770721,39.9890545
+"417","Wyoming, Michigan",-85.7053085,42.9133602
+"418","Yaounde, Cameroon",11.5166667,3.8666667
+"419","Zanesville, Ohio",-82.0131924,39.9403453
+"420","Zurich, Switzerland",8.5391825,47.3686498
+"421","Wau, Sudan",31.71306,9.659708
+"422","Cormeilles-en-Parisis, France",2.201292,48.973526
